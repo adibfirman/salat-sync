@@ -5,9 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "react-router dev",
-    "build": "react-router build",
+    "build": "npm run copy-cities && react-router build",
     "start": "react-router-serve ./build/server/index.js",
     "preview": "vite preview",
+    "copy-cities": "tsx scripts/copy-cities.ts",
     "generate-calendars": "tsx scripts/generate-ics.ts",
     "typecheck": "react-router typegen && tsc"
   },

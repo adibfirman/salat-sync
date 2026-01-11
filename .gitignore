@@ -27,3 +27,6 @@ build
 
 # Local Netlify folder
 .netlify
+
+# Generated files (auto-copied from data/ directory)
+public/data/cities.json
