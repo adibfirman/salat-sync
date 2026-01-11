@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:fajr-20260112-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260111T210700Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260112-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260112T044700Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260112-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260112T081100Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260112-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260112T110100Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -56,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260112-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260112T121700Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -68,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260113-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260112T210800Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -80,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260113-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260113T044700Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -92,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260113-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260113T081200Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -104,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260113-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260113T110200Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260113-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260113T121700Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260114-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260113T210800Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -140,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260114-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260114T044700Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -152,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260114-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260114T081200Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -164,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260114-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260114T110200Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -176,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260114-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260114T121700Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -188,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260115-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260114T210900Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -200,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260115-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260115T044800Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -212,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260115-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260115T081200Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -224,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260115-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260115T110200Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -236,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260115-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260115T121700Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -248,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260116-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260115T211000Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -260,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260116-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260116T044800Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -272,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260116-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260116T081200Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -284,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260116-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260116T110200Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -296,7 +296,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260116-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260116T121700Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -308,7 +308,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260119-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260118T211100Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +320,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260119-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260119T044900Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260119-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260119T081200Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +344,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260119-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260119T110300Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +356,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260119-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260119T121800Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +368,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260120-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260119T211200Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +380,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260120-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260120T044900Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +392,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260120-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260120T081200Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +404,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260120-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260120T110300Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260120-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260120T121800Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +428,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260121-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260120T211200Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +440,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260121-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260121T045000Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +452,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260121-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260121T081200Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +464,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260121-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260121T110300Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +476,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260121-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260121T121800Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +488,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260122-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260121T211300Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +500,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260122-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260122T045000Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +512,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260122-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260122T081200Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +524,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260122-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260122T110300Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260122-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260122T121800Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +548,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260123-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260122T211300Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +560,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260123-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260123T045000Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +572,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260123-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260123T081200Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +584,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260123-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260123T110400Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,7 +596,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260123-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260123T121800Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -608,7 +608,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260126-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260125T211500Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -620,7 +620,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260126-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260126T045100Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -632,7 +632,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260126-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260126T081200Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -644,7 +644,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260126-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260126T110400Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -656,7 +656,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260126-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260126T121800Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -668,7 +668,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260127-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260126T211600Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -680,7 +680,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260127-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260127T045100Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -692,7 +692,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260127-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260127T081200Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -704,7 +704,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260127-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260127T110400Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -716,7 +716,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260127-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260127T121800Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -728,7 +728,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260128-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260127T211600Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -740,7 +740,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260128-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260128T045100Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -752,7 +752,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260128-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260128T081100Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -764,7 +764,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260128-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260128T110400Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -776,7 +776,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260128-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260128T121800Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -788,7 +788,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260129-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260128T211700Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -800,7 +800,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260129-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260129T045100Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -812,7 +812,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260129-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260129T081100Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -824,7 +824,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260129-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260129T110400Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -836,7 +836,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260129-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260129T121700Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -848,7 +848,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260130-semarang@salat-sync
 SUMMARY:Pray Time - Fajr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260129T211700Z
 DESCRIPTION:Pray Time - Fajr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -860,7 +860,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260130-semarang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260130T045200Z
 DESCRIPTION:Pray Time - Dhuhr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -872,7 +872,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260130-semarang@salat-sync
 SUMMARY:Pray Time - Asr (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260130T081100Z
 DESCRIPTION:Pray Time - Asr for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -884,7 +884,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260130-semarang@salat-sync
 SUMMARY:Pray Time - Maghrib (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260130T110400Z
 DESCRIPTION:Pray Time - Maghrib for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -896,7 +896,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260130-semarang@salat-sync
 SUMMARY:Pray Time - Isha (Semarang)
-DTSTAMP:20260111T114428Z
+DTSTAMP:20260111T114726Z
 DTSTART:20260130T121700Z
 DESCRIPTION:Pray Time - Isha for Semarang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
