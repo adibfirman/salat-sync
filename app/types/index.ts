@@ -6,6 +6,7 @@ export interface City {
   latitude: number;
   longitude: number;
   timezone: string;
+  timezoneLabel?: string;
   method: number;
 }
 

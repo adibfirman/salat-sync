@@ -3,14 +3,14 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 PRODID:adamgibbons/ics
 METHOD:PUBLISH
-X-WR-CALNAME:Pray Time - Jakarta
+X-WR-CALNAME:Pray Time - Palembang
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260111-jakarta@salat-sync
-SUMMARY:Pray Time - Fajr (Jakarta)
-DTSTAMP:20260111T105918Z
-DTSTART:20260110T212200Z
-DESCRIPTION:Pray Time - Fajr for Jakarta
+UID:fajr-20260111-palembang@salat-sync
+SUMMARY:Pray Time - Fajr (Palembang)
+DTSTAMP:20260111T105920Z
+DTSTART:20260110T213700Z
+DESCRIPTION:Pray Time - Fajr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
 CATEGORIES:Prayer
@@ -18,11 +18,11 @@ TRANSP:TRANSPARENT
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:dhuhr-20260111-jakarta@salat-sync
-SUMMARY:Pray Time - Dhuhr (Jakarta)
-DTSTAMP:20260111T105918Z
-DTSTART:20260111T050000Z
-DESCRIPTION:Pray Time - Dhuhr for Jakarta
+UID:dhuhr-20260111-palembang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Palembang)
+DTSTAMP:20260111T105920Z
+DTSTART:20260111T050900Z
+DESCRIPTION:Pray Time - Dhuhr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
 CATEGORIES:Prayer
@@ -30,11 +30,11 @@ TRANSP:TRANSPARENT
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:asr-20260111-jakarta@salat-sync
-SUMMARY:Pray Time - Asr (Jakarta)
-DTSTAMP:20260111T105918Z
-DTSTART:20260111T082600Z
-DESCRIPTION:Pray Time - Asr for Jakarta
+UID:asr-20260111-palembang@salat-sync
+SUMMARY:Pray Time - Asr (Palembang)
+DTSTAMP:20260111T105920Z
+DTSTART:20260111T083400Z
+DESCRIPTION:Pray Time - Asr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
 CATEGORIES:Prayer
@@ -42,11 +42,11 @@ TRANSP:TRANSPARENT
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:maghrib-20260111-jakarta@salat-sync
-SUMMARY:Pray Time - Maghrib (Jakarta)
-DTSTAMP:20260111T105918Z
-DTSTART:20260111T111400Z
-DESCRIPTION:Pray Time - Maghrib for Jakarta
+UID:maghrib-20260111-palembang@salat-sync
+SUMMARY:Pray Time - Maghrib (Palembang)
+DTSTAMP:20260111T105920Z
+DTSTART:20260111T111700Z
+DESCRIPTION:Pray Time - Maghrib for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
 CATEGORIES:Prayer
@@ -54,11 +54,11 @@ TRANSP:TRANSPARENT
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:isha-20260111-jakarta@salat-sync
-SUMMARY:Pray Time - Isha (Jakarta)
-DTSTAMP:20260111T105918Z
-DTSTART:20260111T122900Z
-DESCRIPTION:Pray Time - Isha for Jakarta
+UID:isha-20260111-palembang@salat-sync
+SUMMARY:Pray Time - Isha (Palembang)
+DTSTAMP:20260111T105920Z
+DTSTART:20260111T123200Z
+DESCRIPTION:Pray Time - Isha for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
 CATEGORIES:Prayer

@@ -1,11 +1,11 @@
-import { writeFileSync, mkdirSync } from 'fs';
-import { createEvents, EventAttributes } from 'ics';
-import { format, addDays } from 'date-fns';
-import { fromZonedTime } from 'date-fns-tz';
-import citiesData from '../data/cities.json';
+import { writeFileSync, mkdirSync } from "fs";
+import { createEvents, EventAttributes } from "ics";
+import { format, addDays } from "date-fns";
+import { fromZonedTime } from "date-fns-tz";
+import citiesData from "../data/cities.json";
 
-const DAYS_AHEAD = 30;
-const OUTPUT_DIR = 'public/calendars';
+const DAYS_AHEAD = 1;
+const OUTPUT_DIR = "public/calendars";
 
 interface City {
   slug: string;
@@ -25,11 +25,8 @@ interface PrayerTimes {
   Isha: string;
 }
 
-async function fetchPrayerTimes(
-  city: City,
-  date: Date
-): Promise<PrayerTimes> {
-  const dateStr = format(date, 'dd-MM-yyyy');
+async function fetchPrayerTimes(city: City, date: Date): Promise<PrayerTimes> {
+  const dateStr = format(date, "dd-MM-yyyy");
   const url = `https://api.aladhan.com/v1/timings/${dateStr}?latitude=${city.latitude}&longitude=${city.longitude}&method=${city.method}`;
 
   try {
@@ -37,7 +34,10 @@ async function fetchPrayerTimes(
     const data = await response.json();
     return data.data.timings;
   } catch (error) {
-    console.error(`Error fetching times for ${city.name} on ${dateStr}:`, error);
+    console.error(
+      `Error fetching times for ${city.name} on ${dateStr}:`,
+      error,
+    );
     throw error;
   }
 }
@@ -45,10 +45,10 @@ async function fetchPrayerTimes(
 function parseTime(
   timeStr: string,
   date: Date,
-  timezone: string
+  timezone: string,
 ): [number, number, number, number, number] {
-  const [hours, minutes] = timeStr.split(':').map(Number);
-  
+  const [hours, minutes] = timeStr.split(":").map(Number);
+
   // Create a date object in the local time of the city's timezone
   const localDate = new Date(
     date.getFullYear(),
@@ -56,9 +56,9 @@ function parseTime(
     date.getDate(),
     hours,
     minutes,
-    0
+    0,
   );
-  
+
   // Convert the local time to UTC
   const utcDate = fromZonedTime(localDate, timezone);
 
@@ -67,7 +67,7 @@ function parseTime(
     utcDate.getUTCMonth() + 1,
     utcDate.getUTCDate(),
     utcDate.getUTCHours(),
-    utcDate.getUTCMinutes()
+    utcDate.getUTCMinutes(),
   ];
 }
 
@@ -75,11 +75,11 @@ async function generateCityCalendar(city: City): Promise<void> {
   console.log(`Generating calendar for ${city.name}...`);
 
   const events: EventAttributes[] = [];
-  const prayers = ['Fajr', 'Dhuhr', 'Asr', 'Maghrib', 'Isha'] as const;
+  const prayers = ["Fajr", "Dhuhr", "Asr", "Maghrib", "Isha"] as const;
 
   for (let i = 0; i < DAYS_AHEAD; i++) {
     const date = addDays(new Date(), i);
-    
+
     try {
       const times = await fetchPrayerTimes(city, date);
 
@@ -88,24 +88,25 @@ async function generateCityCalendar(city: City): Promise<void> {
         const start = parseTime(timeStr, date, city.timezone);
 
         events.push({
-          title: prayer,
+          title: `Pray Time - ${prayer} (${city.name})`,
           start,
-          startInputType: 'utc',
-          startOutputType: 'utc',
+          startInputType: "utc",
+          startOutputType: "utc",
           duration: { minutes: 30 },
-          status: 'CONFIRMED',
-          transp: 'TRANSPARENT',
-          uid: `${prayer.toLowerCase()}-${format(date, 'yyyyMMdd')}-${city.slug}@salat-sync`,
-          description: `${prayer} prayer time for ${city.name}`,
-          categories: ['Prayer'],
-          calName: `Prayer Times - ${city.name}`,
+          status: "CONFIRMED",
+          transp: "TRANSPARENT",
+          uid: `${prayer.toLowerCase()}-${format(date, "yyyyMMdd")}-${city.slug}@salat-sync`,
+          description: `Pray Time - ${prayer} for ${city.name}`,
+          url: "https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics",
+          categories: ["Prayer"],
+          calName: `Pray Time - ${city.name}`,
         });
       }
 
       // Rate limiting: wait 200ms between API calls
-      await new Promise(resolve => setTimeout(resolve, 200));
+      await new Promise((resolve) => setTimeout(resolve, 200));
     } catch (error) {
-      console.error(`Skipping ${format(date, 'yyyy-MM-dd')} for ${city.name}`);
+      console.error(`Skipping ${format(date, "yyyy-MM-dd")} for ${city.name}`);
     }
   }
 
@@ -131,7 +132,7 @@ async function generateCityCalendar(city: City): Promise<void> {
 }
 
 async function main() {
-  console.log('🕌 Salat-Sync Calendar Generator\n');
+  console.log("🕌 Salat-Sync Calendar Generator\n");
 
   // Ensure output directory exists
   mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -144,10 +145,10 @@ async function main() {
     await generateCityCalendar(city);
   }
 
-  console.log('\n✓ All calendars generated successfully!');
+  console.log("\n✓ All calendars generated successfully!");
 }
 
-main().catch(error => {
-  console.error('Fatal error:', error);
+main().catch((error) => {
+  console.error("Fatal error:", error);
   process.exit(1);
 });

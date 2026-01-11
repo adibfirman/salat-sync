@@ -3,14 +3,14 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 PRODID:adamgibbons/ics
 METHOD:PUBLISH
-X-WR-CALNAME:Pray Time - Jakarta
+X-WR-CALNAME:Pray Time - Bogor
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260111-jakarta@salat-sync
-SUMMARY:Pray Time - Fajr (Jakarta)
-DTSTAMP:20260111T105918Z
+UID:fajr-20260111-bogor@salat-sync
+SUMMARY:Pray Time - Fajr (Bogor)
+DTSTAMP:20260111T105920Z
 DTSTART:20260110T212200Z
-DESCRIPTION:Pray Time - Fajr for Jakarta
+DESCRIPTION:Pray Time - Fajr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
 CATEGORIES:Prayer
@@ -18,11 +18,11 @@ TRANSP:TRANSPARENT
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:dhuhr-20260111-jakarta@salat-sync
-SUMMARY:Pray Time - Dhuhr (Jakarta)
-DTSTAMP:20260111T105918Z
-DTSTART:20260111T050000Z
-DESCRIPTION:Pray Time - Dhuhr for Jakarta
+UID:dhuhr-20260111-bogor@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bogor)
+DTSTAMP:20260111T105920Z
+DTSTART:20260111T050100Z
+DESCRIPTION:Pray Time - Dhuhr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
 CATEGORIES:Prayer
@@ -30,11 +30,11 @@ TRANSP:TRANSPARENT
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:asr-20260111-jakarta@salat-sync
-SUMMARY:Pray Time - Asr (Jakarta)
-DTSTAMP:20260111T105918Z
+UID:asr-20260111-bogor@salat-sync
+SUMMARY:Pray Time - Asr (Bogor)
+DTSTAMP:20260111T105920Z
 DTSTART:20260111T082600Z
-DESCRIPTION:Pray Time - Asr for Jakarta
+DESCRIPTION:Pray Time - Asr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
 CATEGORIES:Prayer
@@ -42,11 +42,11 @@ TRANSP:TRANSPARENT
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:maghrib-20260111-jakarta@salat-sync
-SUMMARY:Pray Time - Maghrib (Jakarta)
-DTSTAMP:20260111T105918Z
-DTSTART:20260111T111400Z
-DESCRIPTION:Pray Time - Maghrib for Jakarta
+UID:maghrib-20260111-bogor@salat-sync
+SUMMARY:Pray Time - Maghrib (Bogor)
+DTSTAMP:20260111T105920Z
+DTSTART:20260111T111500Z
+DESCRIPTION:Pray Time - Maghrib for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
 CATEGORIES:Prayer
@@ -54,11 +54,11 @@ TRANSP:TRANSPARENT
 DURATION:PT30M
 END:VEVENT
 BEGIN:VEVENT
-UID:isha-20260111-jakarta@salat-sync
-SUMMARY:Pray Time - Isha (Jakarta)
-DTSTAMP:20260111T105918Z
-DTSTART:20260111T122900Z
-DESCRIPTION:Pray Time - Isha for Jakarta
+UID:isha-20260111-bogor@salat-sync
+SUMMARY:Pray Time - Isha (Bogor)
+DTSTAMP:20260111T105920Z
+DTSTART:20260111T123000Z
+DESCRIPTION:Pray Time - Isha for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
 CATEGORIES:Prayer
