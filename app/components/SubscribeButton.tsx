@@ -7,29 +7,38 @@ interface SubscribeButtonProps {
 
 export default function SubscribeButton({ city }: SubscribeButtonProps) {
   const [showInstructions, setShowInstructions] = useState(false);
+  const [copied, setCopied] = useState(false);
 
   // Use the static ICS file for all cities
   const icsUrl = `/calendars/${city.slug}.ics`;
-
-  const webcalUrl = icsUrl
-    .replace(/^https?:\/\//, "webcal://")
-    .replace(/^\//, `webcal://${typeof window !== "undefined" ? window.location.host : ""}/`);
 
   const copyToClipboard = () => {
     const fullUrl =
       typeof window !== "undefined" ? `${window.location.origin}${icsUrl}` : icsUrl;
     navigator.clipboard.writeText(fullUrl);
-    alert("Calendar URL copied to clipboard!");
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
   };
+
+  const downloadUrl = typeof window !== "undefined" ? `${window.location.origin}${icsUrl}` : icsUrl;
 
   return (
     <div className="space-y-4">
-      {/* Main Subscribe Button */}
-      <a
-        href={webcalUrl}
+      {/* Primary Button - Copy URL */}
+      <button
+        onClick={copyToClipboard}
         className="block w-full font-semibold py-4 px-6 rounded-lg text-center transition-colors shadow-lg bg-emerald-600 hover:bg-emerald-700 text-white"
       >
-        📅 Subscribe to Calendar
+        {copied ? "✓ Copied!" : "📋 Copy Calendar URL"}
+      </button>
+
+      {/* Secondary Button - Download */}
+      <a
+        href={downloadUrl}
+        download={`${city.slug}-prayer-times.ics`}
+        className="block w-full font-semibold py-3 px-6 rounded-lg text-center transition-colors border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700"
+      >
+        📥 Download Calendar
       </a>
 
       {/* Instructions Toggle */}

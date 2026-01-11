@@ -85,6 +85,19 @@ export default function Home() {
             </p>
           </div>
         </div>
+
+        {/* Request New City Disclaimer */}
+        <p className="text-center text-sm text-gray-500 dark:text-gray-400 mt-12">
+          Can't find your city?{" "}
+          <a
+            href="https://adibfirman.dev/about"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-emerald-600 hover:text-emerald-700 dark:text-emerald-400 dark:hover:text-emerald-300 underline"
+          >
+            Request a new one
+          </a>
+        </p>
       </div>
     </div>
   );
