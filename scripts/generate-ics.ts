@@ -1,6 +1,6 @@
 import { writeFileSync, mkdirSync } from "fs";
 import { createEvents, EventAttributes } from "ics";
-import { format, addDays, endOfMonth, differenceInDays } from "date-fns";
+import { format, addDays, endOfMonth, differenceInDays, isWeekend } from "date-fns";
 import { fromZonedTime } from "date-fns-tz";
 import citiesData from "../data/cities.json";
 
@@ -81,6 +81,11 @@ async function generateCityCalendar(city: City): Promise<void> {
 
   for (let i = 0; i < DAYS_AHEAD; i++) {
     const date = addDays(new Date(), i);
+
+    // Skip weekends (Saturday = 6, Sunday = 0)
+    if (isWeekend(date)) {
+      continue;
+    }
 
     try {
       const times = await fetchPrayerTimes(city, date);
