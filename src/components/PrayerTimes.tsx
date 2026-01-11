@@ -3,39 +3,29 @@ import { format } from 'date-fns'
 import type { City, PrayerTimes as PrayerTimesType } from '../types'
 
 interface PrayerTimesProps {
-  citySlug: string
+  city: City
 }
 
-export default function PrayerTimes({ citySlug }: PrayerTimesProps) {
-  const [city, setCity] = useState<City | null>(null)
+export default function PrayerTimes({ city }: PrayerTimesProps) {
   const [prayerTimes, setPrayerTimes] = useState<PrayerTimesType | null>(null)
   const [loading, setLoading] = useState(false)
 
   useEffect(() => {
-    if (!citySlug) return
+    if (!city) return
 
     setLoading(true)
+    setPrayerTimes(null)
 
-    // Load city data
-    fetch('/data/cities.json')
-      .then(res => res.json())
-      .then(data => {
-        const foundCity = data.cities.find((c: City) => c.slug === citySlug)
-        setCity(foundCity)
-        return foundCity
-      })
-      .then(async (foundCity: City) => {
-        // Fetch today's prayer times from Aladhan API
-        const dateStr = format(new Date(), 'dd-MM-yyyy')
-        const url = `https://api.aladhan.com/v1/timings/${dateStr}?latitude=${foundCity.latitude}&longitude=${foundCity.longitude}&method=${foundCity.method}`
-        
-        const response = await fetch(url)
-        const data = await response.json()
-        setPrayerTimes(data.data.timings)
-      })
+    // Fetch today's prayer times from Aladhan API
+    const dateStr = format(new Date(), 'dd-MM-yyyy')
+    const url = `https://api.aladhan.com/v1/timings/${dateStr}?latitude=${city.latitude}&longitude=${city.longitude}&method=${city.method}`
+
+    fetch(url)
+      .then(response => response.json())
+      .then(data => setPrayerTimes(data.data.timings))
       .catch(err => console.error('Failed to load prayer times:', err))
       .finally(() => setLoading(false))
-  }, [citySlug])
+  }, [city])
 
   if (loading) {
     return (
@@ -46,7 +36,7 @@ export default function PrayerTimes({ citySlug }: PrayerTimesProps) {
     )
   }
 
-  if (!prayerTimes || !city) return null
+  if (!prayerTimes) return null
 
   const prayers = [
     { name: 'Fajr', time: prayerTimes.Fajr, icon: '🌅' },
@@ -59,7 +49,7 @@ export default function PrayerTimes({ citySlug }: PrayerTimesProps) {
   return (
     <div className="bg-gray-50 dark:bg-gray-700 rounded-lg p-6">
       <h3 className="font-semibold text-gray-900 dark:text-white mb-4">
-        Prayer Times for {city.name}
+        Prayer Times for {city.name}, {city.country}
       </h3>
       <div className="space-y-2">
         {prayers.map(prayer => (

@@ -2,9 +2,10 @@ import { useState } from 'react'
 import CitySelector from './components/CitySelector'
 import SubscribeButton from './components/SubscribeButton'
 import PrayerTimes from './components/PrayerTimes'
+import type { City } from './types'
 
 function App() {
-  const [selectedCity, setSelectedCity] = useState('')
+  const [selectedCity, setSelectedCity] = useState<City | null>(null)
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-emerald-50 to-teal-100 dark:from-gray-900 dark:to-gray-800">
@@ -12,7 +13,7 @@ function App() {
         {/* Hero Section */}
         <div className="text-center mb-16">
           <h1 className="text-5xl font-bold text-gray-900 dark:text-white mb-4">
-            🕌 Salat Sync
+            Salat Sync
           </h1>
           <p className="text-xl text-gray-700 dark:text-gray-300 mb-2">
             Prayer Times in Your Calendar
@@ -30,17 +31,17 @@ function App() {
               <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
                 Select Your City
               </label>
-              <CitySelector onSelectCity={setSelectedCity} />
+              <CitySelector selectedCity={selectedCity} onSelectCity={setSelectedCity} />
             </div>
 
             {/* Prayer Times Preview */}
             {selectedCity && (
-              <PrayerTimes citySlug={selectedCity} />
+              <PrayerTimes city={selectedCity} />
             )}
 
             {/* Subscribe Button */}
             {selectedCity && (
-              <SubscribeButton citySlug={selectedCity} />
+              <SubscribeButton city={selectedCity} />
             )}
           </div>
         </div>
