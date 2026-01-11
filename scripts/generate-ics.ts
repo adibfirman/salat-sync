@@ -1,12 +1,20 @@
 import { writeFileSync, mkdirSync } from "fs";
 import { createEvents, EventAttributes } from "ics";
-import { format, addDays, endOfMonth, differenceInDays, isWeekend } from "date-fns";
+import { format, addDays, nextFriday, nextMonday, isWeekend, isFriday } from "date-fns";
 import { fromZonedTime } from "date-fns-tz";
 import citiesData from "../data/cities.json";
 
 const today = new Date();
-const endOfCurrentMonth = endOfMonth(today);
-const DAYS_AHEAD = differenceInDays(endOfCurrentMonth, today) + 1; // +1 to include today
+// If today is weekend, start from next Monday
+const startDate = isWeekend(today) ? nextMonday(today) : today;
+
+// Calculate end date: Friday of next week
+// First, get to Friday of current week, then add 7 days to get to next Friday
+const currentWeekFriday = isFriday(startDate) ? startDate : nextFriday(startDate);
+const endDate = addDays(currentWeekFriday, 7);
+
+// Calculate total days to iterate (including weekends, we'll skip them in the loop)
+const DAYS_AHEAD = Math.ceil((endDate.getTime() - startDate.getTime()) / (1000 * 60 * 60 * 24)) + 1;
 const OUTPUT_DIR = "public/calendars";
 
 interface City {
@@ -75,12 +83,13 @@ function parseTime(
 
 async function generateCityCalendar(city: City): Promise<void> {
   console.log(`Generating calendar for ${city.name}...`);
+  console.log(`  Generating from ${format(startDate, "yyyy-MM-dd (EEEE)")} to ${format(endDate, "yyyy-MM-dd (EEEE)")}`);
 
   const events: EventAttributes[] = [];
   const prayers = ["Fajr", "Dhuhr", "Asr", "Maghrib", "Isha"] as const;
 
   for (let i = 0; i < DAYS_AHEAD; i++) {
-    const date = addDays(new Date(), i);
+    const date = addDays(startDate, i);
 
     // Skip weekends (Saturday = 6, Sunday = 0)
     if (isWeekend(date)) {
