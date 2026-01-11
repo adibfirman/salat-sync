@@ -1,23 +1,48 @@
 [build]
   command = "npm run build"
-  publish = "dist"
+  publish = "build/client"
 
-# Redirect /data/* to serve from public/data/
-[[redirects]]
-  from = "/data/*"
-  to = "/data/:splat"
-  status = 200
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+  included_files = ["build/server/**"]
 
-# Serve ICS files with correct content type
+[dev]
+  command = "npm run dev"
+  port = 5173
+
+# Serve static ICS files with correct headers
 [[headers]]
   for = "/calendars/*.ics"
   [headers.values]
     Content-Type = "text/calendar; charset=utf-8"
     Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=43200"
+
+# Serve static data files
+[[headers]]
+  for = "/data/*"
+  [headers.values]
     Cache-Control = "public, max-age=3600"
 
-# SPA fallback for client-side routing
+# Static assets should be served directly
+[[redirects]]
+  from = "/assets/*"
+  to = "/assets/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/calendars/*"
+  to = "/calendars/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/data/*"
+  to = "/data/:splat"
+  status = 200
+
+# All other requests go to the SSR handler
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/.netlify/functions/server"
   status = 200

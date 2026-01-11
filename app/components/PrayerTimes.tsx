@@ -1,6 +1,6 @@
-import { useState, useEffect } from 'react'
-import { format } from 'date-fns'
-import type { City, PrayerTimes as PrayerTimesType } from '../types'
+import { useState, useEffect } from "react";
+import { format } from "date-fns";
+import type { City, PrayerTimes as PrayerTimesType } from "~/types";
 
 interface PrayerTimesProps {
   city: City

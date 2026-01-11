@@ -1,6 +1,6 @@
-import { useState, useEffect } from 'react'
-import type { City } from '../types'
-import CitySearch from './CitySearch'
+import { useState, useEffect } from "react";
+import type { City } from "~/types";
+import CitySearch from "~/components/CitySearch";
 
 interface CitySelectorProps {
   selectedCity: City | null

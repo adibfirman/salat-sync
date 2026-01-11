@@ -1,11 +1,11 @@
-import { useState, useCallback, useRef, useEffect } from 'react';
+import { useState, useCallback, useRef, useEffect } from "react";
 import {
   searchCities,
   getTimezone,
   getCalculationMethod,
   type GeocodingResult,
-} from '../services/geocoding';
-import type { City } from '../types';
+} from "~/services/geocoding";
+import type { City } from "~/types";
 
 interface CitySearchProps {
   onSelectCity: (city: City) => void;

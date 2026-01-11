@@ -1,14 +1,24 @@
-import { useState } from 'react'
-import CitySelector from './components/CitySelector'
-import SubscribeButton from './components/SubscribeButton'
-import PrayerTimes from './components/PrayerTimes'
-import type { City } from './types'
+import { useState } from "react";
+import CitySelector from "~/components/CitySelector";
+import SubscribeButton from "~/components/SubscribeButton";
+import PrayerTimes from "~/components/PrayerTimes";
+import type { City } from "~/types";
 
-function App() {
-  const [selectedCity, setSelectedCity] = useState<City | null>(null)
+export function meta() {
+  return [
+    { title: "Salat Sync - Prayer Times Calendar Subscription" },
+    {
+      name: "description",
+      content: "Subscribe to automatic prayer time updates in your calendar",
+    },
+  ];
+}
+
+export default function Home() {
+  const [selectedCity, setSelectedCity] = useState<City | null>(null);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-emerald-50 to-teal-100 dark:from-gray-900 dark:to-gray-800">
+    <div>
       <div className="container mx-auto px-4 py-16">
         {/* Hero Section */}
         <div className="text-center mb-16">
@@ -31,18 +41,17 @@ function App() {
               <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
                 Select Your City
               </label>
-              <CitySelector selectedCity={selectedCity} onSelectCity={setSelectedCity} />
+              <CitySelector
+                selectedCity={selectedCity}
+                onSelectCity={setSelectedCity}
+              />
             </div>
 
             {/* Prayer Times Preview */}
-            {selectedCity && (
-              <PrayerTimes city={selectedCity} />
-            )}
+            {selectedCity && <PrayerTimes city={selectedCity} />}
 
             {/* Subscribe Button */}
-            {selectedCity && (
-              <SubscribeButton city={selectedCity} />
-            )}
+            {selectedCity && <SubscribeButton city={selectedCity} />}
           </div>
         </div>
 
@@ -78,7 +87,5 @@ function App() {
         </div>
       </div>
     </div>
-  )
+  );
 }
-
-export default App
