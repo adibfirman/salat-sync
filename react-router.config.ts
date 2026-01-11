@@ -1,6 +1,6 @@
 import type { Config } from "@react-router/dev/config";
 
 export default {
-  // Enable SSR for resource routes (generate-ics endpoint)
-  ssr: true,
+  // Static build - no server-side rendering needed
+  ssr: false,
 } satisfies Config;

@@ -1,6 +1,7 @@
 import { writeFileSync, mkdirSync } from 'fs';
 import { createEvents, EventAttributes } from 'ics';
 import { format, addDays } from 'date-fns';
+import { fromZonedTime } from 'date-fns-tz';
 import citiesData from '../data/cities.json';
 
 const DAYS_AHEAD = 30;
@@ -43,14 +44,31 @@ async function fetchPrayerTimes(
 
 function parseTime(
   timeStr: string,
-  date: Date
+  date: Date,
+  timezone: string
 ): [number, number, number, number, number] {
   const [hours, minutes] = timeStr.split(':').map(Number);
-  const year = date.getFullYear();
-  const month = date.getMonth() + 1;
-  const day = date.getDate();
+  
+  // Create a date object in the local time of the city's timezone
+  const localDate = new Date(
+    date.getFullYear(),
+    date.getMonth(),
+    date.getDate(),
+    hours,
+    minutes,
+    0
+  );
+  
+  // Convert the local time to UTC
+  const utcDate = fromZonedTime(localDate, timezone);
 
-  return [year, month, day, hours, minutes];
+  return [
+    utcDate.getUTCFullYear(),
+    utcDate.getUTCMonth() + 1,
+    utcDate.getUTCDate(),
+    utcDate.getUTCHours(),
+    utcDate.getUTCMinutes()
+  ];
 }
 
 async function generateCityCalendar(city: City): Promise<void> {
@@ -67,12 +85,16 @@ async function generateCityCalendar(city: City): Promise<void> {
 
       for (const prayer of prayers) {
         const timeStr = times[prayer];
-        const start = parseTime(timeStr, date);
+        const start = parseTime(timeStr, date, city.timezone);
 
         events.push({
           title: prayer,
           start,
+          startInputType: 'utc',
+          startOutputType: 'utc',
           duration: { minutes: 30 },
+          status: 'CONFIRMED',
+          transp: 'TRANSPARENT',
           uid: `${prayer.toLowerCase()}-${format(date, 'yyyyMMdd')}-${city.slug}@salat-sync`,
           description: `${prayer} prayer time for ${city.name}`,
           categories: ['Prayer'],

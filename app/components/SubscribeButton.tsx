@@ -8,13 +8,8 @@ interface SubscribeButtonProps {
 export default function SubscribeButton({ city }: SubscribeButtonProps) {
   const [showInstructions, setShowInstructions] = useState(false);
 
-  const isCustomCity = city.slug.startsWith("custom-");
-
-  // For pre-configured cities, use the static ICS file
-  // For custom cities, use the dynamic generate-ics endpoint
-  const icsUrl = isCustomCity
-    ? `/generate-ics?lat=${city.latitude}&lng=${city.longitude}&method=${city.method}&tz=${encodeURIComponent(city.timezone)}&name=${encodeURIComponent(city.name)}`
-    : `/calendars/${city.slug}.ics`;
+  // Use the static ICS file for all cities
+  const icsUrl = `/calendars/${city.slug}.ics`;
 
   const webcalUrl = icsUrl
     .replace(/^https?:\/\//, "webcal://")

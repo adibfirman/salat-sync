@@ -2,11 +2,6 @@
   command = "npm run build"
   publish = "build/client"
 
-[functions]
-  directory = "netlify/functions"
-  node_bundler = "esbuild"
-  included_files = ["build/server/**"]
-
 [dev]
   command = "npm run dev"
   port = 5173
@@ -25,24 +20,8 @@
   [headers.values]
     Cache-Control = "public, max-age=3600"
 
-# Static assets should be served directly
-[[redirects]]
-  from = "/assets/*"
-  to = "/assets/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/calendars/*"
-  to = "/calendars/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/data/*"
-  to = "/data/:splat"
-  status = 200
-
-# All other requests go to the SSR handler
+# SPA fallback - serve index.html for all routes
 [[redirects]]
   from = "/*"
-  to = "/.netlify/functions/server"
+  to = "/index.html"
   status = 200

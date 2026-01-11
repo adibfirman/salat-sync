@@ -42,9 +42,7 @@ export default function CitySelector({ selectedCity, onSelectCity }: CitySelecto
   }
 
   // Get the selected slug for the dropdown
-  const selectedSlug = selectedCity && !selectedCity.slug.startsWith('custom-') 
-    ? selectedCity.slug 
-    : ''
+  const selectedSlug = selectedCity?.slug || ''
 
   return (
     <div className="space-y-4">
@@ -68,7 +66,7 @@ export default function CitySelector({ selectedCity, onSelectCity }: CitySelecto
               : 'text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white'
             }`}
         >
-          Search Any City
+          Search Cities
         </button>
       </div>
 
@@ -91,8 +89,9 @@ export default function CitySelector({ selectedCity, onSelectCity }: CitySelecto
         </select>
       ) : (
         <CitySearch 
+          cities={cities}
           onSelectCity={handleSearchSelect} 
-          initialValue={selectedCity?.slug.startsWith('custom-') ? `${selectedCity.name}, ${selectedCity.country}` : ''}
+          initialValue={selectedCity ? `${selectedCity.name}, ${selectedCity.country}` : ''}
         />
       )}
     </div>
