@@ -1,5 +1,11 @@
 import { useState, useEffect, useMemo, Fragment } from "react";
-import { Listbox, ListboxButton, ListboxOption, ListboxOptions, Transition } from "@headlessui/react";
+import {
+  Listbox,
+  ListboxButton,
+  ListboxOption,
+  ListboxOptions,
+  Transition,
+} from "@headlessui/react";
 import type { City } from "~/types";
 
 interface CitySelectorProps {
@@ -13,7 +19,10 @@ interface CityGroup {
   cities: City[];
 }
 
-export default function CitySelector({ selectedCity, onSelectCity }: CitySelectorProps) {
+export default function CitySelector({
+  selectedCity,
+  onSelectCity,
+}: CitySelectorProps) {
   const [cities, setCities] = useState<City[]>([]);
   const [query, setQuery] = useState("");
 
@@ -54,7 +63,7 @@ export default function CitySelector({ selectedCity, onSelectCity }: CitySelecto
       .map((group) => ({
         ...group,
         cities: group.cities.filter((city) =>
-          city.name.toLowerCase().includes(lowerQuery)
+          city.name.toLowerCase().includes(lowerQuery),
         ),
       }))
       .filter((group) => group.cities.length > 0);
@@ -70,14 +79,14 @@ export default function CitySelector({ selectedCity, onSelectCity }: CitySelecto
   return (
     <Listbox value={selectedCity} onChange={handleSelectCity}>
       <div className="relative w-full">
-        <ListboxButton 
+        <ListboxButton
           className="relative w-full px-4 py-3 pr-10 rounded-lg border border-gray-300 dark:border-gray-600 
                    bg-white dark:bg-gray-700 text-gray-900 dark:text-white
                    focus:ring-2 focus:ring-emerald-500 focus:border-transparent
                    text-left cursor-pointer"
         >
           <span className="block truncate">
-            {selectedCity?.name || "Cari atau pilih kota..."}
+            {selectedCity?.name || "Search or find your city..."}
           </span>
           <span className="absolute inset-y-0 right-0 flex items-center pr-3 pointer-events-none">
             <svg
@@ -115,7 +124,7 @@ export default function CitySelector({ selectedCity, onSelectCity }: CitySelecto
                          bg-white dark:bg-gray-700 text-gray-900 dark:text-white
                          focus:ring-2 focus:ring-emerald-500 focus:border-transparent
                          placeholder-gray-400 dark:placeholder-gray-500 text-sm"
-                placeholder="Cari kota..."
+                placeholder="Search your city..."
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 onClick={(e) => e.stopPropagation()}
@@ -142,16 +151,14 @@ export default function CitySelector({ selectedCity, onSelectCity }: CitySelecto
                             focus
                               ? "bg-emerald-100 dark:bg-emerald-900 text-emerald-900 dark:text-emerald-100"
                               : "text-gray-900 dark:text-gray-100"
-                          } ${
-                            selected
-                              ? "bg-emerald-500 text-white"
-                              : ""
-                          }`
+                          } ${selected ? "bg-emerald-500 text-white" : ""}`
                         }
                       >
                         {({ selected }) => (
                           <div className="flex items-center justify-between">
-                            <span className={`block truncate ${selected ? "font-semibold" : "font-normal"}`}>
+                            <span
+                              className={`block truncate ${selected ? "font-semibold" : "font-normal"}`}
+                            >
                               {city.name}
                             </span>
                             {selected && (
