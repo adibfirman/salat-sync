@@ -1,10 +1,12 @@
 import { writeFileSync, mkdirSync } from "fs";
 import { createEvents, EventAttributes } from "ics";
-import { format, addDays } from "date-fns";
+import { format, addDays, endOfMonth, differenceInDays } from "date-fns";
 import { fromZonedTime } from "date-fns-tz";
 import citiesData from "../data/cities.json";
 
-const DAYS_AHEAD = 1;
+const today = new Date();
+const endOfCurrentMonth = endOfMonth(today);
+const DAYS_AHEAD = differenceInDays(endOfCurrentMonth, today) + 1; // +1 to include today
 const OUTPUT_DIR = "public/calendars";
 
 interface City {

@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:fajr-20260111-balikpapan@salat-sync
 SUMMARY:Pray Time - Fajr (Balikpapan)
-DTSTAMP:20260111T105923Z
+DTSTAMP:20260111T111355Z
 DTSTART:20260110T205200Z
 DESCRIPTION:Pray Time - Fajr for Balikpapan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260111-balikpapan@salat-sync
 SUMMARY:Pray Time - Dhuhr (Balikpapan)
-DTSTAMP:20260111T105923Z
+DTSTAMP:20260111T111355Z
 DTSTART:20260111T042000Z
 DESCRIPTION:Pray Time - Dhuhr for Balikpapan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260111-balikpapan@salat-sync
 SUMMARY:Pray Time - Asr (Balikpapan)
-DTSTAMP:20260111T105923Z
+DTSTAMP:20260111T111355Z
 DTSTART:20260111T074500Z
 DESCRIPTION:Pray Time - Asr for Balikpapan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260111-balikpapan@salat-sync
 SUMMARY:Pray Time - Maghrib (Balikpapan)
-DTSTAMP:20260111T105923Z
+DTSTAMP:20260111T111355Z
 DTSTART:20260111T102600Z
 DESCRIPTION:Pray Time - Maghrib for Balikpapan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -56,8 +56,1208 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260111-balikpapan@salat-sync
 SUMMARY:Pray Time - Isha (Balikpapan)
-DTSTAMP:20260111T105923Z
+DTSTAMP:20260111T111355Z
 DTSTART:20260111T114000Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260112-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260111T205200Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260112-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260112T042100Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260112-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260112T074500Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260112-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260112T102600Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260112-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260112T114100Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260113-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260112T205300Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260113-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260113T042100Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260113-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260113T074600Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260113-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260113T102700Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260113-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260113T114100Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260114-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260113T205300Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260114-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260114T042200Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260114-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260114T074600Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260114-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260114T102700Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260114-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260114T114100Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260115-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260114T205400Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260115-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260115T042200Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260115-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260115T074600Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260115-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260115T102700Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260115-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260115T114100Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260116-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260115T205400Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260116-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260116T042200Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260116-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260116T074600Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260116-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260116T102800Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260116-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260116T114200Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260117-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260116T205500Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260117-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260117T042300Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260117-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260117T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260117-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260117T102800Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260117-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260117T114200Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260118-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260117T205500Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260118-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260118T042300Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260118-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260118T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260118-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260118T102800Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260118-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260118T114200Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260119-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260118T205600Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260119-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260119T042300Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260119-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260119T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260119-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260119T102900Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260119-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260119T114200Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260120-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260119T205600Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260120-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260120T042400Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260120-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260120T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260120-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260120T102900Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260120-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260120T114200Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260121-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260120T205600Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260121-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260121T042400Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260121-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260121T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260121-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260121T102900Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260121-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260121T114200Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260122-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260121T205700Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260122-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260122T042400Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260122-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260122T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260122-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260122T102900Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260122-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260122T114300Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260123-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260122T205700Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260123-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260123T042400Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260123-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260123T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260123-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260123T103000Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260123-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260123T114300Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260124-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260123T205800Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260124-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260124T042500Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260124-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260124T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260124-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260124T103000Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260124-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260124T114300Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260125-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260124T205800Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260125-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260125T042500Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260125-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260125T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260125-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260125T103000Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260125-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260125T114300Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260126-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260125T205800Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260126-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260126T042500Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260126-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260126T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260126-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260126T103000Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260126-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260126T114300Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260127-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260126T205900Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260127-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260127T042500Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260127-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260127T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260127-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260127T103000Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260127-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260127T114300Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260128-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260127T205900Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260128-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260128T042500Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260128-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260128T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260128-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260128T103100Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260128-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260128T114300Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260129-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260128T210000Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260129-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260129T042600Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260129-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260129T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260129-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260129T103100Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260129-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260129T114300Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260130-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260129T210000Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260130-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260130T042600Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260130-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260130T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260130-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260130T103100Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260130-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260130T114300Z
+DESCRIPTION:Pray Time - Isha for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260131-balikpapan@salat-sync
+SUMMARY:Pray Time - Fajr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260130T210000Z
+DESCRIPTION:Pray Time - Fajr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260131-balikpapan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260131T042600Z
+DESCRIPTION:Pray Time - Dhuhr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260131-balikpapan@salat-sync
+SUMMARY:Pray Time - Asr (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260131T074700Z
+DESCRIPTION:Pray Time - Asr for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260131-balikpapan@salat-sync
+SUMMARY:Pray Time - Maghrib (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260131T103100Z
+DESCRIPTION:Pray Time - Maghrib for Balikpapan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260131-balikpapan@salat-sync
+SUMMARY:Pray Time - Isha (Balikpapan)
+DTSTAMP:20260111T111355Z
+DTSTART:20260131T114300Z
 DESCRIPTION:Pray Time - Isha for Balikpapan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED

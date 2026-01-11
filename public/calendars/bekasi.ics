@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:fajr-20260111-bekasi@salat-sync
 SUMMARY:Pray Time - Fajr (Bekasi)
-DTSTAMP:20260111T105920Z
+DTSTAMP:20260111T111222Z
 DTSTART:20260110T212200Z
 DESCRIPTION:Pray Time - Fajr for Bekasi
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260111-bekasi@salat-sync
 SUMMARY:Pray Time - Dhuhr (Bekasi)
-DTSTAMP:20260111T105920Z
+DTSTAMP:20260111T111222Z
 DTSTART:20260111T050000Z
 DESCRIPTION:Pray Time - Dhuhr for Bekasi
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260111-bekasi@salat-sync
 SUMMARY:Pray Time - Asr (Bekasi)
-DTSTAMP:20260111T105920Z
+DTSTAMP:20260111T111222Z
 DTSTART:20260111T082500Z
 DESCRIPTION:Pray Time - Asr for Bekasi
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260111-bekasi@salat-sync
 SUMMARY:Pray Time - Maghrib (Bekasi)
-DTSTAMP:20260111T105920Z
+DTSTAMP:20260111T111222Z
 DTSTART:20260111T111400Z
 DESCRIPTION:Pray Time - Maghrib for Bekasi
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -56,8 +56,1208 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260111-bekasi@salat-sync
 SUMMARY:Pray Time - Isha (Bekasi)
-DTSTAMP:20260111T105920Z
+DTSTAMP:20260111T111222Z
 DTSTART:20260111T122900Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260112-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260111T212200Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260112-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260112T050000Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260112-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260112T082500Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260112-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260112T111400Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260112-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260112T122900Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260113-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260112T212300Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260113-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260113T050100Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260113-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260113T082500Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260113-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260113T111400Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260113-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260113T122900Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260114-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260113T212400Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260114-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260114T050100Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260114-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260114T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260114-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260114T111400Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260114-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260114T122900Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260115-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260114T212400Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260115-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260115T050100Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260115-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260115T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260115-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260115T111500Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260115-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260115T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260116-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260115T212500Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260116-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260116T050200Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260116-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260116T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260116-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260116T111500Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260116-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260116T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260117-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260116T212500Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260117-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260117T050200Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260117-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260117T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260117-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260117T111500Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260117-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260117T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260118-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260117T212600Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260118-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260118T050200Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260118-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260118T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260118-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260118T111500Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260118-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260118T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260119-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260118T212600Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260119-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260119T050300Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260119-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260119T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260119-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260119T111600Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260119-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260119T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260120-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260119T212700Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260120-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260120T050300Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260120-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260120T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260120-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260120T111600Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260120-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260120T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260121-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260120T212700Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260121-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260121T050300Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260121-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260121T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260121-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260121T111600Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260121-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260121T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260122-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260121T212800Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260122-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260122T050400Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260122-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260122T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260122-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260122T111600Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260122-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260122T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260123-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260122T212900Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260123-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260123T050400Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260123-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260123T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260123-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260123T111600Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260123-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260123T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260124-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260123T212900Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260124-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260124T050400Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260124-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260124T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260124-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260124T111600Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260124-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260124T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260125-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260124T213000Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260125-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260125T050400Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260125-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260125T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260125-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260125T111700Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260125-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260125T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260126-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260125T213000Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260126-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260126T050500Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260126-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260126T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260126-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260126T111700Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260126-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260126T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260127-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260126T213100Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260127-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260127T050500Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260127-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260127T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260127-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260127T111700Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260127-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260127T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260128-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260127T213100Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260128-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260128T050500Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260128-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260128T082600Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260128-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260128T111700Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260128-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260128T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260129-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260128T213100Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260129-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260129T050500Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260129-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260129T082500Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260129-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260129T111700Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260129-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260129T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260130-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260129T213200Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260130-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260130T050500Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260130-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260130T082500Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260130-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260130T111700Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260130-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260130T123000Z
+DESCRIPTION:Pray Time - Isha for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260131-bekasi@salat-sync
+SUMMARY:Pray Time - Fajr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260130T213200Z
+DESCRIPTION:Pray Time - Fajr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260131-bekasi@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260131T050500Z
+DESCRIPTION:Pray Time - Dhuhr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260131-bekasi@salat-sync
+SUMMARY:Pray Time - Asr (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260131T082500Z
+DESCRIPTION:Pray Time - Asr for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260131-bekasi@salat-sync
+SUMMARY:Pray Time - Maghrib (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260131T111700Z
+DESCRIPTION:Pray Time - Maghrib for Bekasi
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260131-bekasi@salat-sync
+SUMMARY:Pray Time - Isha (Bekasi)
+DTSTAMP:20260111T111222Z
+DTSTART:20260131T123000Z
 DESCRIPTION:Pray Time - Isha for Bekasi
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
