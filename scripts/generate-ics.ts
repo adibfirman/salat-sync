@@ -24,7 +24,7 @@ interface City {
   latitude: number;
   longitude: number;
   timezone: string;
-  method: number;
+  myquranId: string;
 }
 
 interface PrayerTimes {
@@ -36,16 +36,31 @@ interface PrayerTimes {
 }
 
 async function fetchPrayerTimes(city: City, date: Date): Promise<PrayerTimes> {
-  const dateStr = format(date, "dd-MM-yyyy");
-  const url = `https://api.aladhan.com/v1/timings/${dateStr}?latitude=${city.latitude}&longitude=${city.longitude}&method=${city.method}`;
+  const year = format(date, "yyyy");
+  const month = format(date, "MM");
+  const day = format(date, "dd");
+  const url = `https://api.myquran.com/v2/sholat/jadwal/${city.myquranId}/${year}/${month}/${day}`;
 
   try {
     const response = await fetch(url);
     const data = await response.json();
-    return data.data.timings;
+    
+    if (!data.status || !data.data?.jadwal) {
+      throw new Error(`Invalid response for ${city.name}`);
+    }
+
+    // Map MyQuran API response to our format
+    const jadwal = data.data.jadwal;
+    return {
+      Fajr: jadwal.subuh,
+      Dhuhr: jadwal.dzuhur,
+      Asr: jadwal.ashar,
+      Maghrib: jadwal.maghrib,
+      Isha: jadwal.isya,
+    };
   } catch (error) {
     console.error(
-      `Error fetching times for ${city.name} on ${dateStr}:`,
+      `Error fetching times for ${city.name} on ${year}-${month}-${day}:`,
       error,
     );
     throw error;

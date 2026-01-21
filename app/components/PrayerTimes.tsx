@@ -11,18 +11,33 @@ export default function PrayerTimes({ city }: PrayerTimesProps) {
   const [loading, setLoading] = useState(false)
 
   useEffect(() => {
-    if (!city) return
+    if (!city || !city.myquranId) return
 
     setLoading(true)
     setPrayerTimes(null)
 
-    // Fetch today's prayer times from Aladhan API
-    const dateStr = format(new Date(), 'dd-MM-yyyy')
-    const url = `https://api.aladhan.com/v1/timings/${dateStr}?latitude=${city.latitude}&longitude=${city.longitude}&method=${city.method}`
+    // Fetch today's prayer times from MyQuran API (Kemenag data)
+    const now = new Date()
+    const year = format(now, 'yyyy')
+    const month = format(now, 'MM')
+    const day = format(now, 'dd')
+    const url = `https://api.myquran.com/v2/sholat/jadwal/${city.myquranId}/${year}/${month}/${day}`
 
     fetch(url)
       .then(response => response.json())
-      .then(data => setPrayerTimes(data.data.timings))
+      .then(data => {
+        if (data.status && data.data?.jadwal) {
+          // Map MyQuran API response to our format
+          const jadwal = data.data.jadwal
+          setPrayerTimes({
+            Fajr: jadwal.subuh,
+            Dhuhr: jadwal.dzuhur,
+            Asr: jadwal.ashar,
+            Maghrib: jadwal.maghrib,
+            Isha: jadwal.isya
+          })
+        }
+      })
       .catch(err => console.error('Failed to load prayer times:', err))
       .finally(() => setLoading(false))
   }, [city])

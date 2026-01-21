@@ -9,7 +9,7 @@
       "longitude": 106.8456,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "1301"
     },
     {
       "slug": "surabaya",
@@ -20,7 +20,7 @@
       "longitude": 112.7521,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "1638"
     },
     {
       "slug": "bandung",
@@ -31,7 +31,7 @@
       "longitude": 107.6191,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "1219"
     },
     {
       "slug": "medan",
@@ -42,7 +42,7 @@
       "longitude": 98.6722,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "0228"
     },
     {
       "slug": "semarang",
@@ -53,7 +53,7 @@
       "longitude": 110.4167,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "1433"
     },
     {
       "slug": "palembang",
@@ -64,7 +64,7 @@
       "longitude": 104.7563,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "0816"
     },
     {
       "slug": "tangerang",
@@ -75,7 +75,7 @@
       "longitude": 106.6319,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "1107"
     },
     {
       "slug": "bekasi",
@@ -86,7 +86,7 @@
       "longitude": 106.9756,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "1221"
     },
     {
       "slug": "depok",
@@ -97,7 +97,7 @@
       "longitude": 106.7942,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "1225"
     },
     {
       "slug": "bogor",
@@ -108,7 +108,7 @@
       "longitude": 106.7970,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "1222"
     },
     {
       "slug": "pekanbaru",
@@ -119,7 +119,7 @@
       "longitude": 101.4500,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "0412"
     },
     {
       "slug": "batam",
@@ -130,7 +130,7 @@
       "longitude": 104.0530,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "0506"
     },
     {
       "slug": "yogyakarta",
@@ -141,7 +141,7 @@
       "longitude": 110.3695,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "1505"
     },
     {
       "slug": "pontianak",
@@ -152,7 +152,7 @@
       "longitude": 109.3425,
       "timezone": "Asia/Jakarta",
       "timezoneLabel": "Waktu Indonesia Barat (WIB)",
-      "method": 11
+      "myquranId": "2013"
     },
     {
       "slug": "makassar",
@@ -163,7 +163,7 @@
       "longitude": 119.4327,
       "timezone": "Asia/Makassar",
       "timezoneLabel": "Waktu Indonesia Tengah (WITA)",
-      "method": 11
+      "myquranId": "2622"
     },
     {
       "slug": "denpasar",
@@ -174,7 +174,7 @@
       "longitude": 115.2126,
       "timezone": "Asia/Makassar",
       "timezoneLabel": "Waktu Indonesia Tengah (WITA)",
-      "method": 11
+      "myquranId": "1709"
     },
     {
       "slug": "banjarmasin",
@@ -185,7 +185,7 @@
       "longitude": 114.5906,
       "timezone": "Asia/Makassar",
       "timezoneLabel": "Waktu Indonesia Tengah (WITA)",
-      "method": 11
+      "myquranId": "2113"
     },
     {
       "slug": "manado",
@@ -196,7 +196,7 @@
       "longitude": 124.8421,
       "timezone": "Asia/Makassar",
       "timezoneLabel": "Waktu Indonesia Tengah (WITA)",
-      "method": 11
+      "myquranId": "2914"
     },
     {
       "slug": "balikpapan",
@@ -207,7 +207,7 @@
       "longitude": 116.8529,
       "timezone": "Asia/Makassar",
       "timezoneLabel": "Waktu Indonesia Tengah (WITA)",
-      "method": 11
+      "myquranId": "2308"
     },
     {
       "slug": "samarinda",
@@ -218,7 +218,7 @@
       "longitude": 117.1536,
       "timezone": "Asia/Makassar",
       "timezoneLabel": "Waktu Indonesia Tengah (WITA)",
-      "method": 11
+      "myquranId": "2310"
     },
     {
       "slug": "mataram",
@@ -229,7 +229,7 @@
       "longitude": 116.1167,
       "timezone": "Asia/Makassar",
       "timezoneLabel": "Waktu Indonesia Tengah (WITA)",
-      "method": 11
+      "myquranId": "1810"
     },
     {
       "slug": "kupang",
@@ -240,7 +240,7 @@
       "longitude": 123.6075,
       "timezone": "Asia/Makassar",
       "timezoneLabel": "Waktu Indonesia Tengah (WITA)",
-      "method": 11
+      "myquranId": "1922"
     },
     {
       "slug": "jayapura",
@@ -251,7 +251,7 @@
       "longitude": 140.7186,
       "timezone": "Asia/Jayapura",
       "timezoneLabel": "Waktu Indonesia Timur (WIT)",
-      "method": 11
+      "myquranId": "3329"
     },
     {
       "slug": "ambon",
@@ -262,7 +262,7 @@
       "longitude": 128.1814,
       "timezone": "Asia/Jayapura",
       "timezoneLabel": "Waktu Indonesia Timur (WIT)",
-      "method": 11
+      "myquranId": "3110"
     },
     {
       "slug": "ternate",
@@ -273,7 +273,7 @@
       "longitude": 127.3667,
       "timezone": "Asia/Jayapura",
       "timezoneLabel": "Waktu Indonesia Timur (WIT)",
-      "method": 11
+      "myquranId": "3209"
     }
   ]
 }

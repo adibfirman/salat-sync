@@ -7,12 +7,11 @@ export interface City {
   longitude: number;
   timezone: string;
   timezoneLabel?: string;
-  method: number;
+  myquranId: string;
 }
 
 export interface PrayerTimes {
   Fajr: string;
-  Sunrise: string;
   Dhuhr: string;
   Asr: string;
   Maghrib: string;
