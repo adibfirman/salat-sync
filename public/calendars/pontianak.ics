@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Pontianak
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260202-pontianak@salat-sync
-SUMMARY:Pray Time - Fajr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260201T213500Z
-DESCRIPTION:Pray Time - Fajr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260202-pontianak@salat-sync
-SUMMARY:Pray Time - Dhuhr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260202T050000Z
-DESCRIPTION:Pray Time - Dhuhr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260202-pontianak@salat-sync
-SUMMARY:Pray Time - Asr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260202T082100Z
-DESCRIPTION:Pray Time - Asr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260202-pontianak@salat-sync
-SUMMARY:Pray Time - Maghrib (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260202T110300Z
-DESCRIPTION:Pray Time - Maghrib for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260202-pontianak@salat-sync
-SUMMARY:Pray Time - Isha (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260202T121400Z
-DESCRIPTION:Pray Time - Isha for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260203-pontianak@salat-sync
-SUMMARY:Pray Time - Fajr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260202T213500Z
-DESCRIPTION:Pray Time - Fajr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260203-pontianak@salat-sync
-SUMMARY:Pray Time - Dhuhr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260203T050000Z
-DESCRIPTION:Pray Time - Dhuhr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260203-pontianak@salat-sync
-SUMMARY:Pray Time - Asr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260203T082100Z
-DESCRIPTION:Pray Time - Asr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260203-pontianak@salat-sync
-SUMMARY:Pray Time - Maghrib (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260203T110300Z
-DESCRIPTION:Pray Time - Maghrib for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260203-pontianak@salat-sync
-SUMMARY:Pray Time - Isha (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260203T121400Z
-DESCRIPTION:Pray Time - Isha for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260204-pontianak@salat-sync
-SUMMARY:Pray Time - Fajr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260203T213600Z
-DESCRIPTION:Pray Time - Fajr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260204-pontianak@salat-sync
-SUMMARY:Pray Time - Dhuhr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260204T050000Z
-DESCRIPTION:Pray Time - Dhuhr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260204-pontianak@salat-sync
-SUMMARY:Pray Time - Asr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260204T082100Z
-DESCRIPTION:Pray Time - Asr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260204-pontianak@salat-sync
-SUMMARY:Pray Time - Maghrib (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260204T110300Z
-DESCRIPTION:Pray Time - Maghrib for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260204-pontianak@salat-sync
-SUMMARY:Pray Time - Isha (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260204T121400Z
-DESCRIPTION:Pray Time - Isha for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260205-pontianak@salat-sync
-SUMMARY:Pray Time - Fajr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260204T213600Z
-DESCRIPTION:Pray Time - Fajr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260205-pontianak@salat-sync
-SUMMARY:Pray Time - Dhuhr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260205T050000Z
-DESCRIPTION:Pray Time - Dhuhr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260205-pontianak@salat-sync
-SUMMARY:Pray Time - Asr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260205T082100Z
-DESCRIPTION:Pray Time - Asr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260205-pontianak@salat-sync
-SUMMARY:Pray Time - Maghrib (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260205T110300Z
-DESCRIPTION:Pray Time - Maghrib for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260205-pontianak@salat-sync
-SUMMARY:Pray Time - Isha (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260205T121400Z
-DESCRIPTION:Pray Time - Isha for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260206-pontianak@salat-sync
-SUMMARY:Pray Time - Fajr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260205T213600Z
-DESCRIPTION:Pray Time - Fajr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260206-pontianak@salat-sync
-SUMMARY:Pray Time - Dhuhr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260206T050000Z
-DESCRIPTION:Pray Time - Dhuhr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260206-pontianak@salat-sync
-SUMMARY:Pray Time - Asr (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260206T082000Z
-DESCRIPTION:Pray Time - Asr for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260206-pontianak@salat-sync
-SUMMARY:Pray Time - Maghrib (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260206T110300Z
-DESCRIPTION:Pray Time - Maghrib for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260206-pontianak@salat-sync
-SUMMARY:Pray Time - Isha (Pontianak)
-DTSTAMP:20260202T020018Z
-DTSTART:20260206T121400Z
-DESCRIPTION:Pray Time - Isha for Pontianak
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260209-pontianak@salat-sync
 SUMMARY:Pray Time - Fajr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260208T213600Z
 DESCRIPTION:Pray Time - Fajr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260209-pontianak@salat-sync
 SUMMARY:Pray Time - Dhuhr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260209T050000Z
 DESCRIPTION:Pray Time - Dhuhr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260209-pontianak@salat-sync
 SUMMARY:Pray Time - Asr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260209T082000Z
 DESCRIPTION:Pray Time - Asr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260209-pontianak@salat-sync
 SUMMARY:Pray Time - Maghrib (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260209T110300Z
 DESCRIPTION:Pray Time - Maghrib for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260209-pontianak@salat-sync
 SUMMARY:Pray Time - Isha (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260209T121400Z
 DESCRIPTION:Pray Time - Isha for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260210-pontianak@salat-sync
 SUMMARY:Pray Time - Fajr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260209T213700Z
 DESCRIPTION:Pray Time - Fajr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260210-pontianak@salat-sync
 SUMMARY:Pray Time - Dhuhr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260210T050000Z
 DESCRIPTION:Pray Time - Dhuhr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260210-pontianak@salat-sync
 SUMMARY:Pray Time - Asr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260210T081900Z
 DESCRIPTION:Pray Time - Asr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260210-pontianak@salat-sync
 SUMMARY:Pray Time - Maghrib (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260210T110300Z
 DESCRIPTION:Pray Time - Maghrib for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260210-pontianak@salat-sync
 SUMMARY:Pray Time - Isha (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260210T121400Z
 DESCRIPTION:Pray Time - Isha for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260211-pontianak@salat-sync
 SUMMARY:Pray Time - Fajr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260210T213700Z
 DESCRIPTION:Pray Time - Fajr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260211-pontianak@salat-sync
 SUMMARY:Pray Time - Dhuhr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260211T050000Z
 DESCRIPTION:Pray Time - Dhuhr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260211-pontianak@salat-sync
 SUMMARY:Pray Time - Asr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260211T081900Z
 DESCRIPTION:Pray Time - Asr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260211-pontianak@salat-sync
 SUMMARY:Pray Time - Maghrib (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260211T110300Z
 DESCRIPTION:Pray Time - Maghrib for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260211-pontianak@salat-sync
 SUMMARY:Pray Time - Isha (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260211T121400Z
 DESCRIPTION:Pray Time - Isha for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260212-pontianak@salat-sync
 SUMMARY:Pray Time - Fajr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260211T213700Z
 DESCRIPTION:Pray Time - Fajr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260212-pontianak@salat-sync
 SUMMARY:Pray Time - Dhuhr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260212T050000Z
 DESCRIPTION:Pray Time - Dhuhr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260212-pontianak@salat-sync
 SUMMARY:Pray Time - Asr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260212T081900Z
 DESCRIPTION:Pray Time - Asr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260212-pontianak@salat-sync
 SUMMARY:Pray Time - Maghrib (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260212T110300Z
 DESCRIPTION:Pray Time - Maghrib for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260212-pontianak@salat-sync
 SUMMARY:Pray Time - Isha (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260212T121300Z
 DESCRIPTION:Pray Time - Isha for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260213-pontianak@salat-sync
 SUMMARY:Pray Time - Fajr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260212T213700Z
 DESCRIPTION:Pray Time - Fajr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260213-pontianak@salat-sync
 SUMMARY:Pray Time - Dhuhr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260213T050000Z
 DESCRIPTION:Pray Time - Dhuhr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260213-pontianak@salat-sync
 SUMMARY:Pray Time - Asr (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260213T081900Z
 DESCRIPTION:Pray Time - Asr for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260213-pontianak@salat-sync
 SUMMARY:Pray Time - Maghrib (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260213T110300Z
 DESCRIPTION:Pray Time - Maghrib for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260213-pontianak@salat-sync
 SUMMARY:Pray Time - Isha (Pontianak)
-DTSTAMP:20260202T020018Z
+DTSTAMP:20260209T020232Z
 DTSTART:20260213T121300Z
+DESCRIPTION:Pray Time - Isha for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260216-pontianak@salat-sync
+SUMMARY:Pray Time - Fajr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260215T213700Z
+DESCRIPTION:Pray Time - Fajr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260216-pontianak@salat-sync
+SUMMARY:Pray Time - Dhuhr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260216T050000Z
+DESCRIPTION:Pray Time - Dhuhr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260216-pontianak@salat-sync
+SUMMARY:Pray Time - Asr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260216T081700Z
+DESCRIPTION:Pray Time - Asr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260216-pontianak@salat-sync
+SUMMARY:Pray Time - Maghrib (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260216T110300Z
+DESCRIPTION:Pray Time - Maghrib for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260216-pontianak@salat-sync
+SUMMARY:Pray Time - Isha (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260216T121300Z
+DESCRIPTION:Pray Time - Isha for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260217-pontianak@salat-sync
+SUMMARY:Pray Time - Fajr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260216T213700Z
+DESCRIPTION:Pray Time - Fajr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260217-pontianak@salat-sync
+SUMMARY:Pray Time - Dhuhr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260217T050000Z
+DESCRIPTION:Pray Time - Dhuhr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260217-pontianak@salat-sync
+SUMMARY:Pray Time - Asr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260217T081700Z
+DESCRIPTION:Pray Time - Asr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260217-pontianak@salat-sync
+SUMMARY:Pray Time - Maghrib (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260217T110300Z
+DESCRIPTION:Pray Time - Maghrib for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260217-pontianak@salat-sync
+SUMMARY:Pray Time - Isha (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260217T121300Z
+DESCRIPTION:Pray Time - Isha for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260218-pontianak@salat-sync
+SUMMARY:Pray Time - Fajr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260217T213700Z
+DESCRIPTION:Pray Time - Fajr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260218-pontianak@salat-sync
+SUMMARY:Pray Time - Dhuhr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260218T050000Z
+DESCRIPTION:Pray Time - Dhuhr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260218-pontianak@salat-sync
+SUMMARY:Pray Time - Asr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260218T081700Z
+DESCRIPTION:Pray Time - Asr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260218-pontianak@salat-sync
+SUMMARY:Pray Time - Maghrib (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260218T110300Z
+DESCRIPTION:Pray Time - Maghrib for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260218-pontianak@salat-sync
+SUMMARY:Pray Time - Isha (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260218T121300Z
+DESCRIPTION:Pray Time - Isha for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260219-pontianak@salat-sync
+SUMMARY:Pray Time - Fajr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260218T213700Z
+DESCRIPTION:Pray Time - Fajr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260219-pontianak@salat-sync
+SUMMARY:Pray Time - Dhuhr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260219T050000Z
+DESCRIPTION:Pray Time - Dhuhr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260219-pontianak@salat-sync
+SUMMARY:Pray Time - Asr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260219T081600Z
+DESCRIPTION:Pray Time - Asr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260219-pontianak@salat-sync
+SUMMARY:Pray Time - Maghrib (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260219T110300Z
+DESCRIPTION:Pray Time - Maghrib for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260219-pontianak@salat-sync
+SUMMARY:Pray Time - Isha (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260219T121200Z
+DESCRIPTION:Pray Time - Isha for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260220-pontianak@salat-sync
+SUMMARY:Pray Time - Fajr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260219T213700Z
+DESCRIPTION:Pray Time - Fajr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260220-pontianak@salat-sync
+SUMMARY:Pray Time - Dhuhr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260220T050000Z
+DESCRIPTION:Pray Time - Dhuhr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260220-pontianak@salat-sync
+SUMMARY:Pray Time - Asr (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260220T081600Z
+DESCRIPTION:Pray Time - Asr for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260220-pontianak@salat-sync
+SUMMARY:Pray Time - Maghrib (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260220T110300Z
+DESCRIPTION:Pray Time - Maghrib for Pontianak
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260220-pontianak@salat-sync
+SUMMARY:Pray Time - Isha (Pontianak)
+DTSTAMP:20260209T020232Z
+DTSTART:20260220T121200Z
 DESCRIPTION:Pray Time - Isha for Pontianak
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
