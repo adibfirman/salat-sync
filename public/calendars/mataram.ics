@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Mataram
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260216-mataram@salat-sync
-SUMMARY:Pray Time - Fajr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260215T210100Z
-DESCRIPTION:Pray Time - Fajr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260216-mataram@salat-sync
-SUMMARY:Pray Time - Dhuhr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260216T043300Z
-DESCRIPTION:Pray Time - Dhuhr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260216-mataram@salat-sync
-SUMMARY:Pray Time - Asr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260216T074200Z
-DESCRIPTION:Pray Time - Asr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260216-mataram@salat-sync
-SUMMARY:Pray Time - Maghrib (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260216T104400Z
-DESCRIPTION:Pray Time - Maghrib for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260216-mataram@salat-sync
-SUMMARY:Pray Time - Isha (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260216T115500Z
-DESCRIPTION:Pray Time - Isha for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260217-mataram@salat-sync
-SUMMARY:Pray Time - Fajr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260216T210100Z
-DESCRIPTION:Pray Time - Fajr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260217-mataram@salat-sync
-SUMMARY:Pray Time - Dhuhr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260217T043300Z
-DESCRIPTION:Pray Time - Dhuhr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260217-mataram@salat-sync
-SUMMARY:Pray Time - Asr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260217T074200Z
-DESCRIPTION:Pray Time - Asr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260217-mataram@salat-sync
-SUMMARY:Pray Time - Maghrib (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260217T104300Z
-DESCRIPTION:Pray Time - Maghrib for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260217-mataram@salat-sync
-SUMMARY:Pray Time - Isha (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260217T115400Z
-DESCRIPTION:Pray Time - Isha for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260218-mataram@salat-sync
-SUMMARY:Pray Time - Fajr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260217T210200Z
-DESCRIPTION:Pray Time - Fajr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260218-mataram@salat-sync
-SUMMARY:Pray Time - Dhuhr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260218T043300Z
-DESCRIPTION:Pray Time - Dhuhr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260218-mataram@salat-sync
-SUMMARY:Pray Time - Asr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260218T074100Z
-DESCRIPTION:Pray Time - Asr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260218-mataram@salat-sync
-SUMMARY:Pray Time - Maghrib (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260218T104300Z
-DESCRIPTION:Pray Time - Maghrib for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260218-mataram@salat-sync
-SUMMARY:Pray Time - Isha (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260218T115400Z
-DESCRIPTION:Pray Time - Isha for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260219-mataram@salat-sync
-SUMMARY:Pray Time - Fajr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260218T210200Z
-DESCRIPTION:Pray Time - Fajr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260219-mataram@salat-sync
-SUMMARY:Pray Time - Dhuhr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260219T043300Z
-DESCRIPTION:Pray Time - Dhuhr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260219-mataram@salat-sync
-SUMMARY:Pray Time - Asr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260219T074000Z
-DESCRIPTION:Pray Time - Asr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260219-mataram@salat-sync
-SUMMARY:Pray Time - Maghrib (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260219T104300Z
-DESCRIPTION:Pray Time - Maghrib for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260219-mataram@salat-sync
-SUMMARY:Pray Time - Isha (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260219T115300Z
-DESCRIPTION:Pray Time - Isha for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260220-mataram@salat-sync
-SUMMARY:Pray Time - Fajr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260219T210200Z
-DESCRIPTION:Pray Time - Fajr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260220-mataram@salat-sync
-SUMMARY:Pray Time - Dhuhr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260220T043300Z
-DESCRIPTION:Pray Time - Dhuhr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260220-mataram@salat-sync
-SUMMARY:Pray Time - Asr (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260220T073900Z
-DESCRIPTION:Pray Time - Asr for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260220-mataram@salat-sync
-SUMMARY:Pray Time - Maghrib (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260220T104300Z
-DESCRIPTION:Pray Time - Maghrib for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260220-mataram@salat-sync
-SUMMARY:Pray Time - Isha (Mataram)
-DTSTAMP:20260216T020014Z
-DTSTART:20260220T115300Z
-DESCRIPTION:Pray Time - Isha for Mataram
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260223-mataram@salat-sync
 SUMMARY:Pray Time - Fajr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260222T210300Z
 DESCRIPTION:Pray Time - Fajr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260223-mataram@salat-sync
 SUMMARY:Pray Time - Dhuhr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260223T043200Z
 DESCRIPTION:Pray Time - Dhuhr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260223-mataram@salat-sync
 SUMMARY:Pray Time - Asr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260223T073600Z
 DESCRIPTION:Pray Time - Asr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260223-mataram@salat-sync
 SUMMARY:Pray Time - Maghrib (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260223T104100Z
 DESCRIPTION:Pray Time - Maghrib for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260223-mataram@salat-sync
 SUMMARY:Pray Time - Isha (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260223T115200Z
 DESCRIPTION:Pray Time - Isha for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260224-mataram@salat-sync
 SUMMARY:Pray Time - Fajr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260223T210300Z
 DESCRIPTION:Pray Time - Fajr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260224-mataram@salat-sync
 SUMMARY:Pray Time - Dhuhr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260224T043200Z
 DESCRIPTION:Pray Time - Dhuhr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260224-mataram@salat-sync
 SUMMARY:Pray Time - Asr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260224T073600Z
 DESCRIPTION:Pray Time - Asr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260224-mataram@salat-sync
 SUMMARY:Pray Time - Maghrib (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260224T104100Z
 DESCRIPTION:Pray Time - Maghrib for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260224-mataram@salat-sync
 SUMMARY:Pray Time - Isha (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260224T115100Z
 DESCRIPTION:Pray Time - Isha for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260225-mataram@salat-sync
 SUMMARY:Pray Time - Fajr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260224T210300Z
 DESCRIPTION:Pray Time - Fajr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260225-mataram@salat-sync
 SUMMARY:Pray Time - Dhuhr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260225T043200Z
 DESCRIPTION:Pray Time - Dhuhr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260225-mataram@salat-sync
 SUMMARY:Pray Time - Asr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260225T073500Z
 DESCRIPTION:Pray Time - Asr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260225-mataram@salat-sync
 SUMMARY:Pray Time - Maghrib (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260225T104100Z
 DESCRIPTION:Pray Time - Maghrib for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260225-mataram@salat-sync
 SUMMARY:Pray Time - Isha (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260225T115100Z
 DESCRIPTION:Pray Time - Isha for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260226-mataram@salat-sync
 SUMMARY:Pray Time - Fajr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260225T210300Z
 DESCRIPTION:Pray Time - Fajr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260226-mataram@salat-sync
 SUMMARY:Pray Time - Dhuhr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260226T043200Z
 DESCRIPTION:Pray Time - Dhuhr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260226-mataram@salat-sync
 SUMMARY:Pray Time - Asr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260226T073400Z
 DESCRIPTION:Pray Time - Asr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260226-mataram@salat-sync
 SUMMARY:Pray Time - Maghrib (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260226T104000Z
 DESCRIPTION:Pray Time - Maghrib for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260226-mataram@salat-sync
 SUMMARY:Pray Time - Isha (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260226T115000Z
 DESCRIPTION:Pray Time - Isha for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260227-mataram@salat-sync
 SUMMARY:Pray Time - Fajr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260226T210300Z
 DESCRIPTION:Pray Time - Fajr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260227-mataram@salat-sync
 SUMMARY:Pray Time - Dhuhr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260227T043200Z
 DESCRIPTION:Pray Time - Dhuhr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260227-mataram@salat-sync
 SUMMARY:Pray Time - Asr (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260227T073300Z
 DESCRIPTION:Pray Time - Asr for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260227-mataram@salat-sync
 SUMMARY:Pray Time - Maghrib (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260227T104000Z
 DESCRIPTION:Pray Time - Maghrib for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260227-mataram@salat-sync
 SUMMARY:Pray Time - Isha (Mataram)
-DTSTAMP:20260216T020014Z
+DTSTAMP:20260223T020046Z
 DTSTART:20260227T115000Z
+DESCRIPTION:Pray Time - Isha for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260302-mataram@salat-sync
+SUMMARY:Pray Time - Fajr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260301T210400Z
+DESCRIPTION:Pray Time - Fajr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260302-mataram@salat-sync
+SUMMARY:Pray Time - Dhuhr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260302T043100Z
+DESCRIPTION:Pray Time - Dhuhr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260302-mataram@salat-sync
+SUMMARY:Pray Time - Asr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260302T073500Z
+DESCRIPTION:Pray Time - Asr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260302-mataram@salat-sync
+SUMMARY:Pray Time - Maghrib (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260302T103900Z
+DESCRIPTION:Pray Time - Maghrib for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260302-mataram@salat-sync
+SUMMARY:Pray Time - Isha (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260302T114800Z
+DESCRIPTION:Pray Time - Isha for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260303-mataram@salat-sync
+SUMMARY:Pray Time - Fajr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260302T210400Z
+DESCRIPTION:Pray Time - Fajr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260303-mataram@salat-sync
+SUMMARY:Pray Time - Dhuhr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260303T043100Z
+DESCRIPTION:Pray Time - Dhuhr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260303-mataram@salat-sync
+SUMMARY:Pray Time - Asr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260303T073500Z
+DESCRIPTION:Pray Time - Asr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260303-mataram@salat-sync
+SUMMARY:Pray Time - Maghrib (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260303T103800Z
+DESCRIPTION:Pray Time - Maghrib for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260303-mataram@salat-sync
+SUMMARY:Pray Time - Isha (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260303T114800Z
+DESCRIPTION:Pray Time - Isha for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260304-mataram@salat-sync
+SUMMARY:Pray Time - Fajr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260303T210400Z
+DESCRIPTION:Pray Time - Fajr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260304-mataram@salat-sync
+SUMMARY:Pray Time - Dhuhr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260304T043100Z
+DESCRIPTION:Pray Time - Dhuhr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260304-mataram@salat-sync
+SUMMARY:Pray Time - Asr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260304T073500Z
+DESCRIPTION:Pray Time - Asr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260304-mataram@salat-sync
+SUMMARY:Pray Time - Maghrib (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260304T103800Z
+DESCRIPTION:Pray Time - Maghrib for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260304-mataram@salat-sync
+SUMMARY:Pray Time - Isha (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260304T114700Z
+DESCRIPTION:Pray Time - Isha for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260305-mataram@salat-sync
+SUMMARY:Pray Time - Fajr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260304T210400Z
+DESCRIPTION:Pray Time - Fajr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260305-mataram@salat-sync
+SUMMARY:Pray Time - Dhuhr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260305T043100Z
+DESCRIPTION:Pray Time - Dhuhr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260305-mataram@salat-sync
+SUMMARY:Pray Time - Asr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260305T073600Z
+DESCRIPTION:Pray Time - Asr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260305-mataram@salat-sync
+SUMMARY:Pray Time - Maghrib (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260305T103700Z
+DESCRIPTION:Pray Time - Maghrib for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260305-mataram@salat-sync
+SUMMARY:Pray Time - Isha (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260305T114700Z
+DESCRIPTION:Pray Time - Isha for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260306-mataram@salat-sync
+SUMMARY:Pray Time - Fajr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260305T210400Z
+DESCRIPTION:Pray Time - Fajr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260306-mataram@salat-sync
+SUMMARY:Pray Time - Dhuhr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260306T043000Z
+DESCRIPTION:Pray Time - Dhuhr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260306-mataram@salat-sync
+SUMMARY:Pray Time - Asr (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260306T073600Z
+DESCRIPTION:Pray Time - Asr for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260306-mataram@salat-sync
+SUMMARY:Pray Time - Maghrib (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260306T103700Z
+DESCRIPTION:Pray Time - Maghrib for Mataram
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260306-mataram@salat-sync
+SUMMARY:Pray Time - Isha (Mataram)
+DTSTAMP:20260223T020046Z
+DTSTART:20260306T114600Z
 DESCRIPTION:Pray Time - Isha for Mataram
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED

@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Pekanbaru
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260216-pekanbaru@salat-sync
-SUMMARY:Pray Time - Fajr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260215T220900Z
-DESCRIPTION:Pray Time - Fajr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260216-pekanbaru@salat-sync
-SUMMARY:Pray Time - Dhuhr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260216T053200Z
-DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260216-pekanbaru@salat-sync
-SUMMARY:Pray Time - Asr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260216T084900Z
-DESCRIPTION:Pray Time - Asr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260216-pekanbaru@salat-sync
-SUMMARY:Pray Time - Maghrib (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260216T113400Z
-DESCRIPTION:Pray Time - Maghrib for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260216-pekanbaru@salat-sync
-SUMMARY:Pray Time - Isha (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260216T124400Z
-DESCRIPTION:Pray Time - Isha for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260217-pekanbaru@salat-sync
-SUMMARY:Pray Time - Fajr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260216T220900Z
-DESCRIPTION:Pray Time - Fajr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260217-pekanbaru@salat-sync
-SUMMARY:Pray Time - Dhuhr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260217T053200Z
-DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260217-pekanbaru@salat-sync
-SUMMARY:Pray Time - Asr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260217T084900Z
-DESCRIPTION:Pray Time - Asr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260217-pekanbaru@salat-sync
-SUMMARY:Pray Time - Maghrib (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260217T113400Z
-DESCRIPTION:Pray Time - Maghrib for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260217-pekanbaru@salat-sync
-SUMMARY:Pray Time - Isha (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260217T124400Z
-DESCRIPTION:Pray Time - Isha for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260218-pekanbaru@salat-sync
-SUMMARY:Pray Time - Fajr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260217T220900Z
-DESCRIPTION:Pray Time - Fajr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260218-pekanbaru@salat-sync
-SUMMARY:Pray Time - Dhuhr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260218T053200Z
-DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260218-pekanbaru@salat-sync
-SUMMARY:Pray Time - Asr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260218T084800Z
-DESCRIPTION:Pray Time - Asr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260218-pekanbaru@salat-sync
-SUMMARY:Pray Time - Maghrib (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260218T113400Z
-DESCRIPTION:Pray Time - Maghrib for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260218-pekanbaru@salat-sync
-SUMMARY:Pray Time - Isha (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260218T124400Z
-DESCRIPTION:Pray Time - Isha for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260219-pekanbaru@salat-sync
-SUMMARY:Pray Time - Fajr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260218T220900Z
-DESCRIPTION:Pray Time - Fajr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260219-pekanbaru@salat-sync
-SUMMARY:Pray Time - Dhuhr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260219T053100Z
-DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260219-pekanbaru@salat-sync
-SUMMARY:Pray Time - Asr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260219T084800Z
-DESCRIPTION:Pray Time - Asr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260219-pekanbaru@salat-sync
-SUMMARY:Pray Time - Maghrib (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260219T113400Z
-DESCRIPTION:Pray Time - Maghrib for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260219-pekanbaru@salat-sync
-SUMMARY:Pray Time - Isha (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260219T124300Z
-DESCRIPTION:Pray Time - Isha for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260220-pekanbaru@salat-sync
-SUMMARY:Pray Time - Fajr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260219T220900Z
-DESCRIPTION:Pray Time - Fajr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260220-pekanbaru@salat-sync
-SUMMARY:Pray Time - Dhuhr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260220T053100Z
-DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260220-pekanbaru@salat-sync
-SUMMARY:Pray Time - Asr (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260220T084700Z
-DESCRIPTION:Pray Time - Asr for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260220-pekanbaru@salat-sync
-SUMMARY:Pray Time - Maghrib (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260220T113400Z
-DESCRIPTION:Pray Time - Maghrib for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260220-pekanbaru@salat-sync
-SUMMARY:Pray Time - Isha (Pekanbaru)
-DTSTAMP:20260216T015922Z
-DTSTART:20260220T124300Z
-DESCRIPTION:Pray Time - Isha for Pekanbaru
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260223-pekanbaru@salat-sync
 SUMMARY:Pray Time - Fajr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260222T220900Z
 DESCRIPTION:Pray Time - Fajr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260223-pekanbaru@salat-sync
 SUMMARY:Pray Time - Dhuhr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260223T053100Z
 DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260223-pekanbaru@salat-sync
 SUMMARY:Pray Time - Asr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260223T084600Z
 DESCRIPTION:Pray Time - Asr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260223-pekanbaru@salat-sync
 SUMMARY:Pray Time - Maghrib (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260223T113400Z
 DESCRIPTION:Pray Time - Maghrib for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260223-pekanbaru@salat-sync
 SUMMARY:Pray Time - Isha (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260223T124300Z
 DESCRIPTION:Pray Time - Isha for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260224-pekanbaru@salat-sync
 SUMMARY:Pray Time - Fajr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260223T220900Z
 DESCRIPTION:Pray Time - Fajr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260224-pekanbaru@salat-sync
 SUMMARY:Pray Time - Dhuhr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260224T053100Z
 DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260224-pekanbaru@salat-sync
 SUMMARY:Pray Time - Asr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260224T084500Z
 DESCRIPTION:Pray Time - Asr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260224-pekanbaru@salat-sync
 SUMMARY:Pray Time - Maghrib (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260224T113400Z
 DESCRIPTION:Pray Time - Maghrib for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260224-pekanbaru@salat-sync
 SUMMARY:Pray Time - Isha (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260224T124200Z
 DESCRIPTION:Pray Time - Isha for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260225-pekanbaru@salat-sync
 SUMMARY:Pray Time - Fajr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260224T220900Z
 DESCRIPTION:Pray Time - Fajr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260225-pekanbaru@salat-sync
 SUMMARY:Pray Time - Dhuhr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260225T053100Z
 DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260225-pekanbaru@salat-sync
 SUMMARY:Pray Time - Asr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260225T084500Z
 DESCRIPTION:Pray Time - Asr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260225-pekanbaru@salat-sync
 SUMMARY:Pray Time - Maghrib (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260225T113300Z
 DESCRIPTION:Pray Time - Maghrib for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260225-pekanbaru@salat-sync
 SUMMARY:Pray Time - Isha (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260225T124200Z
 DESCRIPTION:Pray Time - Isha for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260226-pekanbaru@salat-sync
 SUMMARY:Pray Time - Fajr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260225T220900Z
 DESCRIPTION:Pray Time - Fajr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260226-pekanbaru@salat-sync
 SUMMARY:Pray Time - Dhuhr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260226T053100Z
 DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260226-pekanbaru@salat-sync
 SUMMARY:Pray Time - Asr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260226T084400Z
 DESCRIPTION:Pray Time - Asr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260226-pekanbaru@salat-sync
 SUMMARY:Pray Time - Maghrib (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260226T113300Z
 DESCRIPTION:Pray Time - Maghrib for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260226-pekanbaru@salat-sync
 SUMMARY:Pray Time - Isha (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260226T124200Z
 DESCRIPTION:Pray Time - Isha for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260227-pekanbaru@salat-sync
 SUMMARY:Pray Time - Fajr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260226T220900Z
 DESCRIPTION:Pray Time - Fajr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260227-pekanbaru@salat-sync
 SUMMARY:Pray Time - Dhuhr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260227T053000Z
 DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260227-pekanbaru@salat-sync
 SUMMARY:Pray Time - Asr (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260227T084400Z
 DESCRIPTION:Pray Time - Asr for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260227-pekanbaru@salat-sync
 SUMMARY:Pray Time - Maghrib (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260227T113300Z
 DESCRIPTION:Pray Time - Maghrib for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260227-pekanbaru@salat-sync
 SUMMARY:Pray Time - Isha (Pekanbaru)
-DTSTAMP:20260216T015922Z
+DTSTAMP:20260223T015959Z
 DTSTART:20260227T124200Z
+DESCRIPTION:Pray Time - Isha for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260302-pekanbaru@salat-sync
+SUMMARY:Pray Time - Fajr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260301T220900Z
+DESCRIPTION:Pray Time - Fajr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260302-pekanbaru@salat-sync
+SUMMARY:Pray Time - Dhuhr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260302T053000Z
+DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260302-pekanbaru@salat-sync
+SUMMARY:Pray Time - Asr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260302T084200Z
+DESCRIPTION:Pray Time - Asr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260302-pekanbaru@salat-sync
+SUMMARY:Pray Time - Maghrib (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260302T113300Z
+DESCRIPTION:Pray Time - Maghrib for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260302-pekanbaru@salat-sync
+SUMMARY:Pray Time - Isha (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260302T124100Z
+DESCRIPTION:Pray Time - Isha for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260303-pekanbaru@salat-sync
+SUMMARY:Pray Time - Fajr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260302T220800Z
+DESCRIPTION:Pray Time - Fajr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260303-pekanbaru@salat-sync
+SUMMARY:Pray Time - Dhuhr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260303T053000Z
+DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260303-pekanbaru@salat-sync
+SUMMARY:Pray Time - Asr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260303T084100Z
+DESCRIPTION:Pray Time - Asr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260303-pekanbaru@salat-sync
+SUMMARY:Pray Time - Maghrib (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260303T113200Z
+DESCRIPTION:Pray Time - Maghrib for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260303-pekanbaru@salat-sync
+SUMMARY:Pray Time - Isha (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260303T124100Z
+DESCRIPTION:Pray Time - Isha for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260304-pekanbaru@salat-sync
+SUMMARY:Pray Time - Fajr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260303T220800Z
+DESCRIPTION:Pray Time - Fajr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260304-pekanbaru@salat-sync
+SUMMARY:Pray Time - Dhuhr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260304T052900Z
+DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260304-pekanbaru@salat-sync
+SUMMARY:Pray Time - Asr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260304T084000Z
+DESCRIPTION:Pray Time - Asr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260304-pekanbaru@salat-sync
+SUMMARY:Pray Time - Maghrib (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260304T113200Z
+DESCRIPTION:Pray Time - Maghrib for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260304-pekanbaru@salat-sync
+SUMMARY:Pray Time - Isha (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260304T124100Z
+DESCRIPTION:Pray Time - Isha for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260305-pekanbaru@salat-sync
+SUMMARY:Pray Time - Fajr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260304T220800Z
+DESCRIPTION:Pray Time - Fajr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260305-pekanbaru@salat-sync
+SUMMARY:Pray Time - Dhuhr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260305T052900Z
+DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260305-pekanbaru@salat-sync
+SUMMARY:Pray Time - Asr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260305T083900Z
+DESCRIPTION:Pray Time - Asr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260305-pekanbaru@salat-sync
+SUMMARY:Pray Time - Maghrib (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260305T113200Z
+DESCRIPTION:Pray Time - Maghrib for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260305-pekanbaru@salat-sync
+SUMMARY:Pray Time - Isha (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260305T124000Z
+DESCRIPTION:Pray Time - Isha for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260306-pekanbaru@salat-sync
+SUMMARY:Pray Time - Fajr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260305T220800Z
+DESCRIPTION:Pray Time - Fajr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260306-pekanbaru@salat-sync
+SUMMARY:Pray Time - Dhuhr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260306T052900Z
+DESCRIPTION:Pray Time - Dhuhr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260306-pekanbaru@salat-sync
+SUMMARY:Pray Time - Asr (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260306T083900Z
+DESCRIPTION:Pray Time - Asr for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260306-pekanbaru@salat-sync
+SUMMARY:Pray Time - Maghrib (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260306T113200Z
+DESCRIPTION:Pray Time - Maghrib for Pekanbaru
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260306-pekanbaru@salat-sync
+SUMMARY:Pray Time - Isha (Pekanbaru)
+DTSTAMP:20260223T015959Z
+DTSTART:20260306T124000Z
 DESCRIPTION:Pray Time - Isha for Pekanbaru
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED

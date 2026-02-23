@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Bandung
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260216-bandung@salat-sync
-SUMMARY:Pray Time - Fajr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260215T213700Z
-DESCRIPTION:Pray Time - Fajr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260216-bandung@salat-sync
-SUMMARY:Pray Time - Dhuhr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260216T050700Z
-DESCRIPTION:Pray Time - Dhuhr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260216-bandung@salat-sync
-SUMMARY:Pray Time - Asr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260216T081800Z
-DESCRIPTION:Pray Time - Asr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260216-bandung@salat-sync
-SUMMARY:Pray Time - Maghrib (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260216T112000Z
-DESCRIPTION:Pray Time - Maghrib for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260216-bandung@salat-sync
-SUMMARY:Pray Time - Isha (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260216T122700Z
-DESCRIPTION:Pray Time - Isha for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260217-bandung@salat-sync
-SUMMARY:Pray Time - Fajr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260216T213700Z
-DESCRIPTION:Pray Time - Fajr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260217-bandung@salat-sync
-SUMMARY:Pray Time - Dhuhr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260217T050700Z
-DESCRIPTION:Pray Time - Dhuhr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260217-bandung@salat-sync
-SUMMARY:Pray Time - Asr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260217T081800Z
-DESCRIPTION:Pray Time - Asr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260217-bandung@salat-sync
-SUMMARY:Pray Time - Maghrib (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260217T112000Z
-DESCRIPTION:Pray Time - Maghrib for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260217-bandung@salat-sync
-SUMMARY:Pray Time - Isha (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260217T122600Z
-DESCRIPTION:Pray Time - Isha for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260218-bandung@salat-sync
-SUMMARY:Pray Time - Fajr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260217T213700Z
-DESCRIPTION:Pray Time - Fajr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260218-bandung@salat-sync
-SUMMARY:Pray Time - Dhuhr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260218T050700Z
-DESCRIPTION:Pray Time - Dhuhr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260218-bandung@salat-sync
-SUMMARY:Pray Time - Asr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260218T081700Z
-DESCRIPTION:Pray Time - Asr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260218-bandung@salat-sync
-SUMMARY:Pray Time - Maghrib (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260218T112000Z
-DESCRIPTION:Pray Time - Maghrib for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260218-bandung@salat-sync
-SUMMARY:Pray Time - Isha (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260218T122600Z
-DESCRIPTION:Pray Time - Isha for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260219-bandung@salat-sync
-SUMMARY:Pray Time - Fajr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260218T213800Z
-DESCRIPTION:Pray Time - Fajr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260219-bandung@salat-sync
-SUMMARY:Pray Time - Dhuhr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260219T050700Z
-DESCRIPTION:Pray Time - Dhuhr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260219-bandung@salat-sync
-SUMMARY:Pray Time - Asr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260219T081600Z
-DESCRIPTION:Pray Time - Asr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260219-bandung@salat-sync
-SUMMARY:Pray Time - Maghrib (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260219T112000Z
-DESCRIPTION:Pray Time - Maghrib for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260219-bandung@salat-sync
-SUMMARY:Pray Time - Isha (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260219T122600Z
-DESCRIPTION:Pray Time - Isha for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260220-bandung@salat-sync
-SUMMARY:Pray Time - Fajr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260219T213800Z
-DESCRIPTION:Pray Time - Fajr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260220-bandung@salat-sync
-SUMMARY:Pray Time - Dhuhr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260220T050700Z
-DESCRIPTION:Pray Time - Dhuhr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260220-bandung@salat-sync
-SUMMARY:Pray Time - Asr (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260220T081500Z
-DESCRIPTION:Pray Time - Asr for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260220-bandung@salat-sync
-SUMMARY:Pray Time - Maghrib (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260220T111900Z
-DESCRIPTION:Pray Time - Maghrib for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260220-bandung@salat-sync
-SUMMARY:Pray Time - Isha (Bandung)
-DTSTAMP:20260216T015840Z
-DTSTART:20260220T122500Z
-DESCRIPTION:Pray Time - Isha for Bandung
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260223-bandung@salat-sync
 SUMMARY:Pray Time - Fajr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260222T213800Z
 DESCRIPTION:Pray Time - Fajr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260223-bandung@salat-sync
 SUMMARY:Pray Time - Dhuhr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260223T050600Z
 DESCRIPTION:Pray Time - Dhuhr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260223-bandung@salat-sync
 SUMMARY:Pray Time - Asr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260223T081300Z
 DESCRIPTION:Pray Time - Asr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260223-bandung@salat-sync
 SUMMARY:Pray Time - Maghrib (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260223T111800Z
 DESCRIPTION:Pray Time - Maghrib for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260223-bandung@salat-sync
 SUMMARY:Pray Time - Isha (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260223T122400Z
 DESCRIPTION:Pray Time - Isha for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260224-bandung@salat-sync
 SUMMARY:Pray Time - Fajr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260223T213800Z
 DESCRIPTION:Pray Time - Fajr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260224-bandung@salat-sync
 SUMMARY:Pray Time - Dhuhr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260224T050600Z
 DESCRIPTION:Pray Time - Dhuhr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260224-bandung@salat-sync
 SUMMARY:Pray Time - Asr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260224T081200Z
 DESCRIPTION:Pray Time - Asr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260224-bandung@salat-sync
 SUMMARY:Pray Time - Maghrib (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260224T111800Z
 DESCRIPTION:Pray Time - Maghrib for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260224-bandung@salat-sync
 SUMMARY:Pray Time - Isha (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260224T122400Z
 DESCRIPTION:Pray Time - Isha for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260225-bandung@salat-sync
 SUMMARY:Pray Time - Fajr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260224T213900Z
 DESCRIPTION:Pray Time - Fajr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260225-bandung@salat-sync
 SUMMARY:Pray Time - Dhuhr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260225T050600Z
 DESCRIPTION:Pray Time - Dhuhr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260225-bandung@salat-sync
 SUMMARY:Pray Time - Asr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260225T081100Z
 DESCRIPTION:Pray Time - Asr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260225-bandung@salat-sync
 SUMMARY:Pray Time - Maghrib (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260225T111800Z
 DESCRIPTION:Pray Time - Maghrib for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260225-bandung@salat-sync
 SUMMARY:Pray Time - Isha (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260225T122300Z
 DESCRIPTION:Pray Time - Isha for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260226-bandung@salat-sync
 SUMMARY:Pray Time - Fajr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260225T213900Z
 DESCRIPTION:Pray Time - Fajr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260226-bandung@salat-sync
 SUMMARY:Pray Time - Dhuhr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260226T050600Z
 DESCRIPTION:Pray Time - Dhuhr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260226-bandung@salat-sync
 SUMMARY:Pray Time - Asr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260226T081000Z
 DESCRIPTION:Pray Time - Asr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260226-bandung@salat-sync
 SUMMARY:Pray Time - Maghrib (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260226T111700Z
 DESCRIPTION:Pray Time - Maghrib for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260226-bandung@salat-sync
 SUMMARY:Pray Time - Isha (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260226T122300Z
 DESCRIPTION:Pray Time - Isha for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260227-bandung@salat-sync
 SUMMARY:Pray Time - Fajr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260226T213900Z
 DESCRIPTION:Pray Time - Fajr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260227-bandung@salat-sync
 SUMMARY:Pray Time - Dhuhr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260227T050600Z
 DESCRIPTION:Pray Time - Dhuhr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260227-bandung@salat-sync
 SUMMARY:Pray Time - Asr (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260227T080900Z
 DESCRIPTION:Pray Time - Asr for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260227-bandung@salat-sync
 SUMMARY:Pray Time - Maghrib (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260227T111700Z
 DESCRIPTION:Pray Time - Maghrib for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260227-bandung@salat-sync
 SUMMARY:Pray Time - Isha (Bandung)
-DTSTAMP:20260216T015840Z
+DTSTAMP:20260223T015921Z
 DTSTART:20260227T122200Z
+DESCRIPTION:Pray Time - Isha for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260302-bandung@salat-sync
+SUMMARY:Pray Time - Fajr (Bandung)
+DTSTAMP:20260223T015921Z
+DTSTART:20260301T213900Z
+DESCRIPTION:Pray Time - Fajr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260302-bandung@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260302T050500Z
+DESCRIPTION:Pray Time - Dhuhr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260302-bandung@salat-sync
+SUMMARY:Pray Time - Asr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260302T080600Z
+DESCRIPTION:Pray Time - Asr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260302-bandung@salat-sync
+SUMMARY:Pray Time - Maghrib (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260302T111600Z
+DESCRIPTION:Pray Time - Maghrib for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260302-bandung@salat-sync
+SUMMARY:Pray Time - Isha (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260302T122100Z
+DESCRIPTION:Pray Time - Isha for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260303-bandung@salat-sync
+SUMMARY:Pray Time - Fajr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260302T213900Z
+DESCRIPTION:Pray Time - Fajr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260303-bandung@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260303T050500Z
+DESCRIPTION:Pray Time - Dhuhr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260303-bandung@salat-sync
+SUMMARY:Pray Time - Asr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260303T080500Z
+DESCRIPTION:Pray Time - Asr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260303-bandung@salat-sync
+SUMMARY:Pray Time - Maghrib (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260303T111500Z
+DESCRIPTION:Pray Time - Maghrib for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260303-bandung@salat-sync
+SUMMARY:Pray Time - Isha (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260303T122000Z
+DESCRIPTION:Pray Time - Isha for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260304-bandung@salat-sync
+SUMMARY:Pray Time - Fajr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260303T213900Z
+DESCRIPTION:Pray Time - Fajr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260304-bandung@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260304T050500Z
+DESCRIPTION:Pray Time - Dhuhr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260304-bandung@salat-sync
+SUMMARY:Pray Time - Asr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260304T080600Z
+DESCRIPTION:Pray Time - Asr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260304-bandung@salat-sync
+SUMMARY:Pray Time - Maghrib (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260304T111500Z
+DESCRIPTION:Pray Time - Maghrib for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260304-bandung@salat-sync
+SUMMARY:Pray Time - Isha (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260304T122000Z
+DESCRIPTION:Pray Time - Isha for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260305-bandung@salat-sync
+SUMMARY:Pray Time - Fajr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260304T213900Z
+DESCRIPTION:Pray Time - Fajr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260305-bandung@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260305T050500Z
+DESCRIPTION:Pray Time - Dhuhr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260305-bandung@salat-sync
+SUMMARY:Pray Time - Asr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260305T080600Z
+DESCRIPTION:Pray Time - Asr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260305-bandung@salat-sync
+SUMMARY:Pray Time - Maghrib (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260305T111500Z
+DESCRIPTION:Pray Time - Maghrib for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260305-bandung@salat-sync
+SUMMARY:Pray Time - Isha (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260305T122000Z
+DESCRIPTION:Pray Time - Isha for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260306-bandung@salat-sync
+SUMMARY:Pray Time - Fajr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260305T213900Z
+DESCRIPTION:Pray Time - Fajr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260306-bandung@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260306T050400Z
+DESCRIPTION:Pray Time - Dhuhr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260306-bandung@salat-sync
+SUMMARY:Pray Time - Asr (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260306T080700Z
+DESCRIPTION:Pray Time - Asr for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260306-bandung@salat-sync
+SUMMARY:Pray Time - Maghrib (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260306T111400Z
+DESCRIPTION:Pray Time - Maghrib for Bandung
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260306-bandung@salat-sync
+SUMMARY:Pray Time - Isha (Bandung)
+DTSTAMP:20260223T015922Z
+DTSTART:20260306T121900Z
 DESCRIPTION:Pray Time - Isha for Bandung
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
