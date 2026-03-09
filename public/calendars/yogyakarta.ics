@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Yogyakarta
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260302-yogyakarta@salat-sync
-SUMMARY:Pray Time - Fajr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260301T212700Z
-DESCRIPTION:Pray Time - Fajr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260302-yogyakarta@salat-sync
-SUMMARY:Pray Time - Dhuhr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260302T045400Z
-DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260302-yogyakarta@salat-sync
-SUMMARY:Pray Time - Asr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260302T075600Z
-DESCRIPTION:Pray Time - Asr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260302-yogyakarta@salat-sync
-SUMMARY:Pray Time - Maghrib (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260302T110100Z
-DESCRIPTION:Pray Time - Maghrib for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260302-yogyakarta@salat-sync
-SUMMARY:Pray Time - Isha (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260302T121100Z
-DESCRIPTION:Pray Time - Isha for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260303-yogyakarta@salat-sync
-SUMMARY:Pray Time - Fajr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260302T212800Z
-DESCRIPTION:Pray Time - Fajr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260303-yogyakarta@salat-sync
-SUMMARY:Pray Time - Dhuhr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260303T045400Z
-DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260303-yogyakarta@salat-sync
-SUMMARY:Pray Time - Asr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260303T075600Z
-DESCRIPTION:Pray Time - Asr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260303-yogyakarta@salat-sync
-SUMMARY:Pray Time - Maghrib (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260303T110100Z
-DESCRIPTION:Pray Time - Maghrib for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260303-yogyakarta@salat-sync
-SUMMARY:Pray Time - Isha (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260303T121000Z
-DESCRIPTION:Pray Time - Isha for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260304-yogyakarta@salat-sync
-SUMMARY:Pray Time - Fajr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260303T212800Z
-DESCRIPTION:Pray Time - Fajr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260304-yogyakarta@salat-sync
-SUMMARY:Pray Time - Dhuhr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260304T045400Z
-DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260304-yogyakarta@salat-sync
-SUMMARY:Pray Time - Asr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260304T075700Z
-DESCRIPTION:Pray Time - Asr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260304-yogyakarta@salat-sync
-SUMMARY:Pray Time - Maghrib (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260304T110000Z
-DESCRIPTION:Pray Time - Maghrib for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260304-yogyakarta@salat-sync
-SUMMARY:Pray Time - Isha (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260304T121000Z
-DESCRIPTION:Pray Time - Isha for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260305-yogyakarta@salat-sync
-SUMMARY:Pray Time - Fajr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260304T212800Z
-DESCRIPTION:Pray Time - Fajr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260305-yogyakarta@salat-sync
-SUMMARY:Pray Time - Dhuhr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260305T045400Z
-DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260305-yogyakarta@salat-sync
-SUMMARY:Pray Time - Asr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260305T075700Z
-DESCRIPTION:Pray Time - Asr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260305-yogyakarta@salat-sync
-SUMMARY:Pray Time - Maghrib (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260305T110000Z
-DESCRIPTION:Pray Time - Maghrib for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260305-yogyakarta@salat-sync
-SUMMARY:Pray Time - Isha (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260305T120900Z
-DESCRIPTION:Pray Time - Isha for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260306-yogyakarta@salat-sync
-SUMMARY:Pray Time - Fajr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260305T212800Z
-DESCRIPTION:Pray Time - Fajr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260306-yogyakarta@salat-sync
-SUMMARY:Pray Time - Dhuhr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260306T045300Z
-DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260306-yogyakarta@salat-sync
-SUMMARY:Pray Time - Asr (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260306T075700Z
-DESCRIPTION:Pray Time - Asr for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260306-yogyakarta@salat-sync
-SUMMARY:Pray Time - Maghrib (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260306T105900Z
-DESCRIPTION:Pray Time - Maghrib for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260306-yogyakarta@salat-sync
-SUMMARY:Pray Time - Isha (Yogyakarta)
-DTSTAMP:20260302T015659Z
-DTSTART:20260306T120800Z
-DESCRIPTION:Pray Time - Isha for Yogyakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260309-yogyakarta@salat-sync
 SUMMARY:Pray Time - Fajr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260308T212800Z
 DESCRIPTION:Pray Time - Fajr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260309-yogyakarta@salat-sync
 SUMMARY:Pray Time - Dhuhr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260309T045300Z
 DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260309-yogyakarta@salat-sync
 SUMMARY:Pray Time - Asr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260309T075800Z
 DESCRIPTION:Pray Time - Asr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260309-yogyakarta@salat-sync
 SUMMARY:Pray Time - Maghrib (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260309T105800Z
 DESCRIPTION:Pray Time - Maghrib for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260309-yogyakarta@salat-sync
 SUMMARY:Pray Time - Isha (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260309T120700Z
 DESCRIPTION:Pray Time - Isha for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260310-yogyakarta@salat-sync
 SUMMARY:Pray Time - Fajr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260309T212800Z
 DESCRIPTION:Pray Time - Fajr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260310-yogyakarta@salat-sync
 SUMMARY:Pray Time - Dhuhr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260310T045200Z
 DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260310-yogyakarta@salat-sync
 SUMMARY:Pray Time - Asr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260310T075900Z
 DESCRIPTION:Pray Time - Asr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260310-yogyakarta@salat-sync
 SUMMARY:Pray Time - Maghrib (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260310T105800Z
 DESCRIPTION:Pray Time - Maghrib for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260310-yogyakarta@salat-sync
 SUMMARY:Pray Time - Isha (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260310T120600Z
 DESCRIPTION:Pray Time - Isha for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260311-yogyakarta@salat-sync
 SUMMARY:Pray Time - Fajr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260310T212800Z
 DESCRIPTION:Pray Time - Fajr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260311-yogyakarta@salat-sync
 SUMMARY:Pray Time - Dhuhr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260311T045200Z
 DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260311-yogyakarta@salat-sync
 SUMMARY:Pray Time - Asr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260311T075900Z
 DESCRIPTION:Pray Time - Asr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260311-yogyakarta@salat-sync
 SUMMARY:Pray Time - Maghrib (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260311T105700Z
 DESCRIPTION:Pray Time - Maghrib for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260311-yogyakarta@salat-sync
 SUMMARY:Pray Time - Isha (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260311T120600Z
 DESCRIPTION:Pray Time - Isha for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260312-yogyakarta@salat-sync
 SUMMARY:Pray Time - Fajr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260311T212800Z
 DESCRIPTION:Pray Time - Fajr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260312-yogyakarta@salat-sync
 SUMMARY:Pray Time - Dhuhr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260312T045200Z
 DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260312-yogyakarta@salat-sync
 SUMMARY:Pray Time - Asr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260312T075900Z
 DESCRIPTION:Pray Time - Asr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260312-yogyakarta@salat-sync
 SUMMARY:Pray Time - Maghrib (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260312T105700Z
 DESCRIPTION:Pray Time - Maghrib for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260312-yogyakarta@salat-sync
 SUMMARY:Pray Time - Isha (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260312T120500Z
 DESCRIPTION:Pray Time - Isha for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260313-yogyakarta@salat-sync
 SUMMARY:Pray Time - Fajr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260312T212800Z
 DESCRIPTION:Pray Time - Fajr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260313-yogyakarta@salat-sync
 SUMMARY:Pray Time - Dhuhr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260313T045200Z
 DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260313-yogyakarta@salat-sync
 SUMMARY:Pray Time - Asr (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260313T080000Z
 DESCRIPTION:Pray Time - Asr for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260313-yogyakarta@salat-sync
 SUMMARY:Pray Time - Maghrib (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260313T105600Z
 DESCRIPTION:Pray Time - Maghrib for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260313-yogyakarta@salat-sync
 SUMMARY:Pray Time - Isha (Yogyakarta)
-DTSTAMP:20260302T015659Z
+DTSTAMP:20260309T015838Z
 DTSTART:20260313T120500Z
+DESCRIPTION:Pray Time - Isha for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260316-yogyakarta@salat-sync
+SUMMARY:Pray Time - Fajr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260315T212800Z
+DESCRIPTION:Pray Time - Fajr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260316-yogyakarta@salat-sync
+SUMMARY:Pray Time - Dhuhr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260316T045100Z
+DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260316-yogyakarta@salat-sync
+SUMMARY:Pray Time - Asr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260316T080000Z
+DESCRIPTION:Pray Time - Asr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260316-yogyakarta@salat-sync
+SUMMARY:Pray Time - Maghrib (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260316T105500Z
+DESCRIPTION:Pray Time - Maghrib for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260316-yogyakarta@salat-sync
+SUMMARY:Pray Time - Isha (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260316T120300Z
+DESCRIPTION:Pray Time - Isha for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260317-yogyakarta@salat-sync
+SUMMARY:Pray Time - Fajr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260316T212800Z
+DESCRIPTION:Pray Time - Fajr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260317-yogyakarta@salat-sync
+SUMMARY:Pray Time - Dhuhr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260317T045000Z
+DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260317-yogyakarta@salat-sync
+SUMMARY:Pray Time - Asr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260317T080000Z
+DESCRIPTION:Pray Time - Asr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260317-yogyakarta@salat-sync
+SUMMARY:Pray Time - Maghrib (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260317T105400Z
+DESCRIPTION:Pray Time - Maghrib for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260317-yogyakarta@salat-sync
+SUMMARY:Pray Time - Isha (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260317T120300Z
+DESCRIPTION:Pray Time - Isha for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260318-yogyakarta@salat-sync
+SUMMARY:Pray Time - Fajr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260317T212800Z
+DESCRIPTION:Pray Time - Fajr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260318-yogyakarta@salat-sync
+SUMMARY:Pray Time - Dhuhr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260318T045000Z
+DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260318-yogyakarta@salat-sync
+SUMMARY:Pray Time - Asr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260318T080100Z
+DESCRIPTION:Pray Time - Asr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260318-yogyakarta@salat-sync
+SUMMARY:Pray Time - Maghrib (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260318T105400Z
+DESCRIPTION:Pray Time - Maghrib for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260318-yogyakarta@salat-sync
+SUMMARY:Pray Time - Isha (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260318T120200Z
+DESCRIPTION:Pray Time - Isha for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260319-yogyakarta@salat-sync
+SUMMARY:Pray Time - Fajr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260318T212800Z
+DESCRIPTION:Pray Time - Fajr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260319-yogyakarta@salat-sync
+SUMMARY:Pray Time - Dhuhr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260319T045000Z
+DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260319-yogyakarta@salat-sync
+SUMMARY:Pray Time - Asr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260319T080100Z
+DESCRIPTION:Pray Time - Asr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260319-yogyakarta@salat-sync
+SUMMARY:Pray Time - Maghrib (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260319T105300Z
+DESCRIPTION:Pray Time - Maghrib for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260319-yogyakarta@salat-sync
+SUMMARY:Pray Time - Isha (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260319T120200Z
+DESCRIPTION:Pray Time - Isha for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260320-yogyakarta@salat-sync
+SUMMARY:Pray Time - Fajr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260319T212800Z
+DESCRIPTION:Pray Time - Fajr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260320-yogyakarta@salat-sync
+SUMMARY:Pray Time - Dhuhr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260320T045000Z
+DESCRIPTION:Pray Time - Dhuhr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260320-yogyakarta@salat-sync
+SUMMARY:Pray Time - Asr (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260320T080100Z
+DESCRIPTION:Pray Time - Asr for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260320-yogyakarta@salat-sync
+SUMMARY:Pray Time - Maghrib (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260320T105300Z
+DESCRIPTION:Pray Time - Maghrib for Yogyakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260320-yogyakarta@salat-sync
+SUMMARY:Pray Time - Isha (Yogyakarta)
+DTSTAMP:20260309T015838Z
+DTSTART:20260320T120100Z
 DESCRIPTION:Pray Time - Isha for Yogyakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
