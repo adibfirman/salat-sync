@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Ternate
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260309-ternate@salat-sync
-SUMMARY:Pray Time - Fajr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260308T202400Z
-DESCRIPTION:Pray Time - Fajr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260309-ternate@salat-sync
-SUMMARY:Pray Time - Dhuhr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260309T034500Z
-DESCRIPTION:Pray Time - Dhuhr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260309-ternate@salat-sync
-SUMMARY:Pray Time - Asr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260309T065300Z
-DESCRIPTION:Pray Time - Asr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260309-ternate@salat-sync
-SUMMARY:Pray Time - Maghrib (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260309T094700Z
-DESCRIPTION:Pray Time - Maghrib for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260309-ternate@salat-sync
-SUMMARY:Pray Time - Isha (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260309T105500Z
-DESCRIPTION:Pray Time - Isha for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260310-ternate@salat-sync
-SUMMARY:Pray Time - Fajr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260309T202300Z
-DESCRIPTION:Pray Time - Fajr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260310-ternate@salat-sync
-SUMMARY:Pray Time - Dhuhr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260310T034400Z
-DESCRIPTION:Pray Time - Dhuhr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260310-ternate@salat-sync
-SUMMARY:Pray Time - Asr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260310T065200Z
-DESCRIPTION:Pray Time - Asr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260310-ternate@salat-sync
-SUMMARY:Pray Time - Maghrib (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260310T094700Z
-DESCRIPTION:Pray Time - Maghrib for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260310-ternate@salat-sync
-SUMMARY:Pray Time - Isha (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260310T105500Z
-DESCRIPTION:Pray Time - Isha for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260311-ternate@salat-sync
-SUMMARY:Pray Time - Fajr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260310T202300Z
-DESCRIPTION:Pray Time - Fajr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260311-ternate@salat-sync
-SUMMARY:Pray Time - Dhuhr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260311T034400Z
-DESCRIPTION:Pray Time - Dhuhr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260311-ternate@salat-sync
-SUMMARY:Pray Time - Asr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260311T065100Z
-DESCRIPTION:Pray Time - Asr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260311-ternate@salat-sync
-SUMMARY:Pray Time - Maghrib (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260311T094700Z
-DESCRIPTION:Pray Time - Maghrib for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260311-ternate@salat-sync
-SUMMARY:Pray Time - Isha (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260311T105500Z
-DESCRIPTION:Pray Time - Isha for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260312-ternate@salat-sync
-SUMMARY:Pray Time - Fajr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260311T202300Z
-DESCRIPTION:Pray Time - Fajr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260312-ternate@salat-sync
-SUMMARY:Pray Time - Dhuhr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260312T034400Z
-DESCRIPTION:Pray Time - Dhuhr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260312-ternate@salat-sync
-SUMMARY:Pray Time - Asr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260312T065000Z
-DESCRIPTION:Pray Time - Asr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260312-ternate@salat-sync
-SUMMARY:Pray Time - Maghrib (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260312T094700Z
-DESCRIPTION:Pray Time - Maghrib for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260312-ternate@salat-sync
-SUMMARY:Pray Time - Isha (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260312T105500Z
-DESCRIPTION:Pray Time - Isha for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260313-ternate@salat-sync
-SUMMARY:Pray Time - Fajr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260312T202300Z
-DESCRIPTION:Pray Time - Fajr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260313-ternate@salat-sync
-SUMMARY:Pray Time - Dhuhr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260313T034300Z
-DESCRIPTION:Pray Time - Dhuhr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260313-ternate@salat-sync
-SUMMARY:Pray Time - Asr (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260313T064900Z
-DESCRIPTION:Pray Time - Asr for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260313-ternate@salat-sync
-SUMMARY:Pray Time - Maghrib (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260313T094600Z
-DESCRIPTION:Pray Time - Maghrib for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260313-ternate@salat-sync
-SUMMARY:Pray Time - Isha (Ternate)
-DTSTAMP:20260309T015938Z
-DTSTART:20260313T105400Z
-DESCRIPTION:Pray Time - Isha for Ternate
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260316-ternate@salat-sync
 SUMMARY:Pray Time - Fajr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260315T202200Z
 DESCRIPTION:Pray Time - Fajr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260316-ternate@salat-sync
 SUMMARY:Pray Time - Dhuhr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260316T034300Z
 DESCRIPTION:Pray Time - Dhuhr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260316-ternate@salat-sync
 SUMMARY:Pray Time - Asr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260316T064600Z
 DESCRIPTION:Pray Time - Asr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260316-ternate@salat-sync
 SUMMARY:Pray Time - Maghrib (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260316T094500Z
 DESCRIPTION:Pray Time - Maghrib for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260316-ternate@salat-sync
 SUMMARY:Pray Time - Isha (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260316T105400Z
 DESCRIPTION:Pray Time - Isha for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260317-ternate@salat-sync
 SUMMARY:Pray Time - Fajr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260316T202200Z
 DESCRIPTION:Pray Time - Fajr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260317-ternate@salat-sync
 SUMMARY:Pray Time - Dhuhr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260317T034200Z
 DESCRIPTION:Pray Time - Dhuhr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260317-ternate@salat-sync
 SUMMARY:Pray Time - Asr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260317T064600Z
 DESCRIPTION:Pray Time - Asr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260317-ternate@salat-sync
 SUMMARY:Pray Time - Maghrib (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260317T094500Z
 DESCRIPTION:Pray Time - Maghrib for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260317-ternate@salat-sync
 SUMMARY:Pray Time - Isha (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260317T105300Z
 DESCRIPTION:Pray Time - Isha for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260318-ternate@salat-sync
 SUMMARY:Pray Time - Fajr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260317T202100Z
 DESCRIPTION:Pray Time - Fajr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260318-ternate@salat-sync
 SUMMARY:Pray Time - Dhuhr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260318T034200Z
 DESCRIPTION:Pray Time - Dhuhr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260318-ternate@salat-sync
 SUMMARY:Pray Time - Asr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260318T064500Z
 DESCRIPTION:Pray Time - Asr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260318-ternate@salat-sync
 SUMMARY:Pray Time - Maghrib (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260318T094500Z
 DESCRIPTION:Pray Time - Maghrib for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260318-ternate@salat-sync
 SUMMARY:Pray Time - Isha (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260318T105300Z
 DESCRIPTION:Pray Time - Isha for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260319-ternate@salat-sync
 SUMMARY:Pray Time - Fajr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260318T202100Z
 DESCRIPTION:Pray Time - Fajr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260319-ternate@salat-sync
 SUMMARY:Pray Time - Dhuhr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260319T034200Z
 DESCRIPTION:Pray Time - Dhuhr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260319-ternate@salat-sync
 SUMMARY:Pray Time - Asr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260319T064400Z
 DESCRIPTION:Pray Time - Asr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260319-ternate@salat-sync
 SUMMARY:Pray Time - Maghrib (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260319T094500Z
 DESCRIPTION:Pray Time - Maghrib for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260319-ternate@salat-sync
 SUMMARY:Pray Time - Isha (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260319T105300Z
 DESCRIPTION:Pray Time - Isha for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260320-ternate@salat-sync
 SUMMARY:Pray Time - Fajr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260319T202100Z
 DESCRIPTION:Pray Time - Fajr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260320-ternate@salat-sync
 SUMMARY:Pray Time - Dhuhr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260320T034100Z
 DESCRIPTION:Pray Time - Dhuhr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260320-ternate@salat-sync
 SUMMARY:Pray Time - Asr (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260320T064200Z
 DESCRIPTION:Pray Time - Asr for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260320-ternate@salat-sync
 SUMMARY:Pray Time - Maghrib (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260320T094400Z
 DESCRIPTION:Pray Time - Maghrib for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260320-ternate@salat-sync
 SUMMARY:Pray Time - Isha (Ternate)
-DTSTAMP:20260309T015938Z
+DTSTAMP:20260316T021139Z
 DTSTART:20260320T105200Z
+DESCRIPTION:Pray Time - Isha for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260323-ternate@salat-sync
+SUMMARY:Pray Time - Fajr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260322T202000Z
+DESCRIPTION:Pray Time - Fajr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260323-ternate@salat-sync
+SUMMARY:Pray Time - Dhuhr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260323T034100Z
+DESCRIPTION:Pray Time - Dhuhr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260323-ternate@salat-sync
+SUMMARY:Pray Time - Asr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260323T064000Z
+DESCRIPTION:Pray Time - Asr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260323-ternate@salat-sync
+SUMMARY:Pray Time - Maghrib (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260323T094400Z
+DESCRIPTION:Pray Time - Maghrib for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260323-ternate@salat-sync
+SUMMARY:Pray Time - Isha (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260323T105200Z
+DESCRIPTION:Pray Time - Isha for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260324-ternate@salat-sync
+SUMMARY:Pray Time - Fajr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260323T201900Z
+DESCRIPTION:Pray Time - Fajr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260324-ternate@salat-sync
+SUMMARY:Pray Time - Dhuhr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260324T034000Z
+DESCRIPTION:Pray Time - Dhuhr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260324-ternate@salat-sync
+SUMMARY:Pray Time - Asr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260324T064000Z
+DESCRIPTION:Pray Time - Asr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260324-ternate@salat-sync
+SUMMARY:Pray Time - Maghrib (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260324T094300Z
+DESCRIPTION:Pray Time - Maghrib for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260324-ternate@salat-sync
+SUMMARY:Pray Time - Isha (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260324T105100Z
+DESCRIPTION:Pray Time - Isha for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260325-ternate@salat-sync
+SUMMARY:Pray Time - Fajr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260324T201900Z
+DESCRIPTION:Pray Time - Fajr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260325-ternate@salat-sync
+SUMMARY:Pray Time - Dhuhr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260325T034000Z
+DESCRIPTION:Pray Time - Dhuhr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260325-ternate@salat-sync
+SUMMARY:Pray Time - Asr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260325T064100Z
+DESCRIPTION:Pray Time - Asr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260325-ternate@salat-sync
+SUMMARY:Pray Time - Maghrib (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260325T094300Z
+DESCRIPTION:Pray Time - Maghrib for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260325-ternate@salat-sync
+SUMMARY:Pray Time - Isha (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260325T105100Z
+DESCRIPTION:Pray Time - Isha for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260326-ternate@salat-sync
+SUMMARY:Pray Time - Fajr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260325T201900Z
+DESCRIPTION:Pray Time - Fajr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260326-ternate@salat-sync
+SUMMARY:Pray Time - Dhuhr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260326T034000Z
+DESCRIPTION:Pray Time - Dhuhr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260326-ternate@salat-sync
+SUMMARY:Pray Time - Asr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260326T064100Z
+DESCRIPTION:Pray Time - Asr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260326-ternate@salat-sync
+SUMMARY:Pray Time - Maghrib (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260326T094300Z
+DESCRIPTION:Pray Time - Maghrib for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260326-ternate@salat-sync
+SUMMARY:Pray Time - Isha (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260326T105100Z
+DESCRIPTION:Pray Time - Isha for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260327-ternate@salat-sync
+SUMMARY:Pray Time - Fajr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260326T201800Z
+DESCRIPTION:Pray Time - Fajr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260327-ternate@salat-sync
+SUMMARY:Pray Time - Dhuhr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260327T033900Z
+DESCRIPTION:Pray Time - Dhuhr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260327-ternate@salat-sync
+SUMMARY:Pray Time - Asr (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260327T064200Z
+DESCRIPTION:Pray Time - Asr for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260327-ternate@salat-sync
+SUMMARY:Pray Time - Maghrib (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260327T094200Z
+DESCRIPTION:Pray Time - Maghrib for Ternate
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260327-ternate@salat-sync
+SUMMARY:Pray Time - Isha (Ternate)
+DTSTAMP:20260316T021139Z
+DTSTART:20260327T105100Z
 DESCRIPTION:Pray Time - Isha for Ternate
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
