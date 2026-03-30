@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Jakarta
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260323-jakarta@salat-sync
-SUMMARY:Pray Time - Fajr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260322T214200Z
-DESCRIPTION:Pray Time - Fajr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260323-jakarta@salat-sync
-SUMMARY:Pray Time - Dhuhr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260323T050300Z
-DESCRIPTION:Pray Time - Dhuhr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260323-jakarta@salat-sync
-SUMMARY:Pray Time - Asr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260323T081300Z
-DESCRIPTION:Pray Time - Asr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260323-jakarta@salat-sync
-SUMMARY:Pray Time - Maghrib (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260323T110500Z
-DESCRIPTION:Pray Time - Maghrib for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260323-jakarta@salat-sync
-SUMMARY:Pray Time - Isha (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260323T121400Z
-DESCRIPTION:Pray Time - Isha for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260324-jakarta@salat-sync
-SUMMARY:Pray Time - Fajr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260323T214200Z
-DESCRIPTION:Pray Time - Fajr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260324-jakarta@salat-sync
-SUMMARY:Pray Time - Dhuhr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260324T050300Z
-DESCRIPTION:Pray Time - Dhuhr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260324-jakarta@salat-sync
-SUMMARY:Pray Time - Asr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260324T081400Z
-DESCRIPTION:Pray Time - Asr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260324-jakarta@salat-sync
-SUMMARY:Pray Time - Maghrib (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260324T110500Z
-DESCRIPTION:Pray Time - Maghrib for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260324-jakarta@salat-sync
-SUMMARY:Pray Time - Isha (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260324T121300Z
-DESCRIPTION:Pray Time - Isha for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260325-jakarta@salat-sync
-SUMMARY:Pray Time - Fajr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260324T214200Z
-DESCRIPTION:Pray Time - Fajr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260325-jakarta@salat-sync
-SUMMARY:Pray Time - Dhuhr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260325T050200Z
-DESCRIPTION:Pray Time - Dhuhr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260325-jakarta@salat-sync
-SUMMARY:Pray Time - Asr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260325T081400Z
-DESCRIPTION:Pray Time - Asr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260325-jakarta@salat-sync
-SUMMARY:Pray Time - Maghrib (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260325T110400Z
-DESCRIPTION:Pray Time - Maghrib for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260325-jakarta@salat-sync
-SUMMARY:Pray Time - Isha (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260325T121300Z
-DESCRIPTION:Pray Time - Isha for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260326-jakarta@salat-sync
-SUMMARY:Pray Time - Fajr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260325T214100Z
-DESCRIPTION:Pray Time - Fajr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260326-jakarta@salat-sync
-SUMMARY:Pray Time - Dhuhr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260326T050200Z
-DESCRIPTION:Pray Time - Dhuhr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260326-jakarta@salat-sync
-SUMMARY:Pray Time - Asr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260326T081400Z
-DESCRIPTION:Pray Time - Asr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260326-jakarta@salat-sync
-SUMMARY:Pray Time - Maghrib (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260326T110400Z
-DESCRIPTION:Pray Time - Maghrib for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260326-jakarta@salat-sync
-SUMMARY:Pray Time - Isha (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260326T121200Z
-DESCRIPTION:Pray Time - Isha for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260327-jakarta@salat-sync
-SUMMARY:Pray Time - Fajr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260326T214100Z
-DESCRIPTION:Pray Time - Fajr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260327-jakarta@salat-sync
-SUMMARY:Pray Time - Dhuhr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260327T050200Z
-DESCRIPTION:Pray Time - Dhuhr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260327-jakarta@salat-sync
-SUMMARY:Pray Time - Asr (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260327T081400Z
-DESCRIPTION:Pray Time - Asr for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260327-jakarta@salat-sync
-SUMMARY:Pray Time - Maghrib (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260327T110300Z
-DESCRIPTION:Pray Time - Maghrib for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260327-jakarta@salat-sync
-SUMMARY:Pray Time - Isha (Jakarta)
-DTSTAMP:20260323T020239Z
-DTSTART:20260327T121200Z
-DESCRIPTION:Pray Time - Isha for Jakarta
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260330-jakarta@salat-sync
 SUMMARY:Pray Time - Fajr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260329T214100Z
 DESCRIPTION:Pray Time - Fajr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260330-jakarta@salat-sync
 SUMMARY:Pray Time - Dhuhr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260330T050100Z
 DESCRIPTION:Pray Time - Dhuhr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260330-jakarta@salat-sync
 SUMMARY:Pray Time - Asr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260330T081400Z
 DESCRIPTION:Pray Time - Asr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260330-jakarta@salat-sync
 SUMMARY:Pray Time - Maghrib (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260330T110200Z
 DESCRIPTION:Pray Time - Maghrib for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260330-jakarta@salat-sync
 SUMMARY:Pray Time - Isha (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260330T121000Z
 DESCRIPTION:Pray Time - Isha for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260331-jakarta@salat-sync
 SUMMARY:Pray Time - Fajr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260330T214100Z
 DESCRIPTION:Pray Time - Fajr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260331-jakarta@salat-sync
 SUMMARY:Pray Time - Dhuhr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260331T050000Z
 DESCRIPTION:Pray Time - Dhuhr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260331-jakarta@salat-sync
 SUMMARY:Pray Time - Asr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260331T081400Z
 DESCRIPTION:Pray Time - Asr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260331-jakarta@salat-sync
 SUMMARY:Pray Time - Maghrib (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260331T110200Z
 DESCRIPTION:Pray Time - Maghrib for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260331-jakarta@salat-sync
 SUMMARY:Pray Time - Isha (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260331T121000Z
 DESCRIPTION:Pray Time - Isha for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260401-jakarta@salat-sync
 SUMMARY:Pray Time - Fajr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260331T214000Z
 DESCRIPTION:Pray Time - Fajr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260401-jakarta@salat-sync
 SUMMARY:Pray Time - Dhuhr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260401T050000Z
 DESCRIPTION:Pray Time - Dhuhr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260401-jakarta@salat-sync
 SUMMARY:Pray Time - Asr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260401T081400Z
 DESCRIPTION:Pray Time - Asr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260401-jakarta@salat-sync
 SUMMARY:Pray Time - Maghrib (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260401T110100Z
 DESCRIPTION:Pray Time - Maghrib for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260401-jakarta@salat-sync
 SUMMARY:Pray Time - Isha (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260401T121000Z
 DESCRIPTION:Pray Time - Isha for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260402-jakarta@salat-sync
 SUMMARY:Pray Time - Fajr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260401T214000Z
 DESCRIPTION:Pray Time - Fajr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260402-jakarta@salat-sync
 SUMMARY:Pray Time - Dhuhr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260402T050000Z
 DESCRIPTION:Pray Time - Dhuhr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260402-jakarta@salat-sync
 SUMMARY:Pray Time - Asr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260402T081400Z
 DESCRIPTION:Pray Time - Asr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260402-jakarta@salat-sync
 SUMMARY:Pray Time - Maghrib (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260402T110100Z
 DESCRIPTION:Pray Time - Maghrib for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260402-jakarta@salat-sync
 SUMMARY:Pray Time - Isha (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260402T120900Z
 DESCRIPTION:Pray Time - Isha for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260403-jakarta@salat-sync
 SUMMARY:Pray Time - Fajr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260402T214000Z
 DESCRIPTION:Pray Time - Fajr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260403-jakarta@salat-sync
 SUMMARY:Pray Time - Dhuhr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260403T050000Z
 DESCRIPTION:Pray Time - Dhuhr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260403-jakarta@salat-sync
 SUMMARY:Pray Time - Asr (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260403T081400Z
 DESCRIPTION:Pray Time - Asr for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260403-jakarta@salat-sync
 SUMMARY:Pray Time - Maghrib (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260403T110000Z
 DESCRIPTION:Pray Time - Maghrib for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260403-jakarta@salat-sync
 SUMMARY:Pray Time - Isha (Jakarta)
-DTSTAMP:20260323T020239Z
+DTSTAMP:20260330T021340Z
 DTSTART:20260403T120900Z
+DESCRIPTION:Pray Time - Isha for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260406-jakarta@salat-sync
+SUMMARY:Pray Time - Fajr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260405T214000Z
+DESCRIPTION:Pray Time - Fajr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260406-jakarta@salat-sync
+SUMMARY:Pray Time - Dhuhr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260406T045900Z
+DESCRIPTION:Pray Time - Dhuhr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260406-jakarta@salat-sync
+SUMMARY:Pray Time - Asr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260406T081400Z
+DESCRIPTION:Pray Time - Asr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260406-jakarta@salat-sync
+SUMMARY:Pray Time - Maghrib (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260406T105900Z
+DESCRIPTION:Pray Time - Maghrib for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260406-jakarta@salat-sync
+SUMMARY:Pray Time - Isha (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260406T120700Z
+DESCRIPTION:Pray Time - Isha for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260407-jakarta@salat-sync
+SUMMARY:Pray Time - Fajr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260406T213900Z
+DESCRIPTION:Pray Time - Fajr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260407-jakarta@salat-sync
+SUMMARY:Pray Time - Dhuhr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260407T045800Z
+DESCRIPTION:Pray Time - Dhuhr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260407-jakarta@salat-sync
+SUMMARY:Pray Time - Asr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260407T081400Z
+DESCRIPTION:Pray Time - Asr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260407-jakarta@salat-sync
+SUMMARY:Pray Time - Maghrib (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260407T105800Z
+DESCRIPTION:Pray Time - Maghrib for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260407-jakarta@salat-sync
+SUMMARY:Pray Time - Isha (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260407T120700Z
+DESCRIPTION:Pray Time - Isha for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260408-jakarta@salat-sync
+SUMMARY:Pray Time - Fajr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260407T213900Z
+DESCRIPTION:Pray Time - Fajr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260408-jakarta@salat-sync
+SUMMARY:Pray Time - Dhuhr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260408T045800Z
+DESCRIPTION:Pray Time - Dhuhr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260408-jakarta@salat-sync
+SUMMARY:Pray Time - Asr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260408T081400Z
+DESCRIPTION:Pray Time - Asr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260408-jakarta@salat-sync
+SUMMARY:Pray Time - Maghrib (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260408T105800Z
+DESCRIPTION:Pray Time - Maghrib for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260408-jakarta@salat-sync
+SUMMARY:Pray Time - Isha (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260408T120700Z
+DESCRIPTION:Pray Time - Isha for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260409-jakarta@salat-sync
+SUMMARY:Pray Time - Fajr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260408T213900Z
+DESCRIPTION:Pray Time - Fajr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260409-jakarta@salat-sync
+SUMMARY:Pray Time - Dhuhr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260409T045800Z
+DESCRIPTION:Pray Time - Dhuhr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260409-jakarta@salat-sync
+SUMMARY:Pray Time - Asr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260409T081400Z
+DESCRIPTION:Pray Time - Asr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260409-jakarta@salat-sync
+SUMMARY:Pray Time - Maghrib (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260409T105700Z
+DESCRIPTION:Pray Time - Maghrib for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260409-jakarta@salat-sync
+SUMMARY:Pray Time - Isha (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260409T120600Z
+DESCRIPTION:Pray Time - Isha for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260410-jakarta@salat-sync
+SUMMARY:Pray Time - Fajr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260409T213900Z
+DESCRIPTION:Pray Time - Fajr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260410-jakarta@salat-sync
+SUMMARY:Pray Time - Dhuhr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260410T045800Z
+DESCRIPTION:Pray Time - Dhuhr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260410-jakarta@salat-sync
+SUMMARY:Pray Time - Asr (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260410T081400Z
+DESCRIPTION:Pray Time - Asr for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260410-jakarta@salat-sync
+SUMMARY:Pray Time - Maghrib (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260410T105700Z
+DESCRIPTION:Pray Time - Maghrib for Jakarta
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260410-jakarta@salat-sync
+SUMMARY:Pray Time - Isha (Jakarta)
+DTSTAMP:20260330T021340Z
+DTSTART:20260410T120600Z
 DESCRIPTION:Pray Time - Isha for Jakarta
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED

@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Banjarmasin
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260323-banjarmasin@salat-sync
-SUMMARY:Pray Time - Fajr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260322T211100Z
-DESCRIPTION:Pray Time - Fajr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260323-banjarmasin@salat-sync
-SUMMARY:Pray Time - Dhuhr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260323T043200Z
-DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260323-banjarmasin@salat-sync
-SUMMARY:Pray Time - Asr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260323T073800Z
-DESCRIPTION:Pray Time - Asr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260323-banjarmasin@salat-sync
-SUMMARY:Pray Time - Maghrib (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260323T103400Z
-DESCRIPTION:Pray Time - Maghrib for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260323-banjarmasin@salat-sync
-SUMMARY:Pray Time - Isha (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260323T114300Z
-DESCRIPTION:Pray Time - Isha for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260324-banjarmasin@salat-sync
-SUMMARY:Pray Time - Fajr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260323T211100Z
-DESCRIPTION:Pray Time - Fajr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260324-banjarmasin@salat-sync
-SUMMARY:Pray Time - Dhuhr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260324T043100Z
-DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260324-banjarmasin@salat-sync
-SUMMARY:Pray Time - Asr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260324T073900Z
-DESCRIPTION:Pray Time - Asr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260324-banjarmasin@salat-sync
-SUMMARY:Pray Time - Maghrib (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260324T103400Z
-DESCRIPTION:Pray Time - Maghrib for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260324-banjarmasin@salat-sync
-SUMMARY:Pray Time - Isha (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260324T114200Z
-DESCRIPTION:Pray Time - Isha for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260325-banjarmasin@salat-sync
-SUMMARY:Pray Time - Fajr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260324T211100Z
-DESCRIPTION:Pray Time - Fajr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260325-banjarmasin@salat-sync
-SUMMARY:Pray Time - Dhuhr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260325T043100Z
-DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260325-banjarmasin@salat-sync
-SUMMARY:Pray Time - Asr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260325T073900Z
-DESCRIPTION:Pray Time - Asr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260325-banjarmasin@salat-sync
-SUMMARY:Pray Time - Maghrib (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260325T103400Z
-DESCRIPTION:Pray Time - Maghrib for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260325-banjarmasin@salat-sync
-SUMMARY:Pray Time - Isha (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260325T114200Z
-DESCRIPTION:Pray Time - Isha for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260326-banjarmasin@salat-sync
-SUMMARY:Pray Time - Fajr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260325T211000Z
-DESCRIPTION:Pray Time - Fajr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260326-banjarmasin@salat-sync
-SUMMARY:Pray Time - Dhuhr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260326T043100Z
-DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260326-banjarmasin@salat-sync
-SUMMARY:Pray Time - Asr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260326T073900Z
-DESCRIPTION:Pray Time - Asr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260326-banjarmasin@salat-sync
-SUMMARY:Pray Time - Maghrib (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260326T103300Z
-DESCRIPTION:Pray Time - Maghrib for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260326-banjarmasin@salat-sync
-SUMMARY:Pray Time - Isha (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260326T114100Z
-DESCRIPTION:Pray Time - Isha for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260327-banjarmasin@salat-sync
-SUMMARY:Pray Time - Fajr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260326T211000Z
-DESCRIPTION:Pray Time - Fajr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260327-banjarmasin@salat-sync
-SUMMARY:Pray Time - Dhuhr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260327T043100Z
-DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260327-banjarmasin@salat-sync
-SUMMARY:Pray Time - Asr (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260327T073900Z
-DESCRIPTION:Pray Time - Asr for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260327-banjarmasin@salat-sync
-SUMMARY:Pray Time - Maghrib (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260327T103300Z
-DESCRIPTION:Pray Time - Maghrib for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260327-banjarmasin@salat-sync
-SUMMARY:Pray Time - Isha (Banjarmasin)
-DTSTAMP:20260323T020357Z
-DTSTART:20260327T114100Z
-DESCRIPTION:Pray Time - Isha for Banjarmasin
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260330-banjarmasin@salat-sync
 SUMMARY:Pray Time - Fajr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260329T210900Z
 DESCRIPTION:Pray Time - Fajr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260330-banjarmasin@salat-sync
 SUMMARY:Pray Time - Dhuhr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260330T043000Z
 DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260330-banjarmasin@salat-sync
 SUMMARY:Pray Time - Asr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260330T074000Z
 DESCRIPTION:Pray Time - Asr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260330-banjarmasin@salat-sync
 SUMMARY:Pray Time - Maghrib (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260330T103200Z
 DESCRIPTION:Pray Time - Maghrib for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260330-banjarmasin@salat-sync
 SUMMARY:Pray Time - Isha (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260330T114000Z
 DESCRIPTION:Pray Time - Isha for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260331-banjarmasin@salat-sync
 SUMMARY:Pray Time - Fajr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260330T210900Z
 DESCRIPTION:Pray Time - Fajr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260331-banjarmasin@salat-sync
 SUMMARY:Pray Time - Dhuhr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260331T042900Z
 DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260331-banjarmasin@salat-sync
 SUMMARY:Pray Time - Asr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260331T074000Z
 DESCRIPTION:Pray Time - Asr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260331-banjarmasin@salat-sync
 SUMMARY:Pray Time - Maghrib (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260331T103100Z
 DESCRIPTION:Pray Time - Maghrib for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260331-banjarmasin@salat-sync
 SUMMARY:Pray Time - Isha (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260331T114000Z
 DESCRIPTION:Pray Time - Isha for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260401-banjarmasin@salat-sync
 SUMMARY:Pray Time - Fajr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260331T210900Z
 DESCRIPTION:Pray Time - Fajr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260401-banjarmasin@salat-sync
 SUMMARY:Pray Time - Dhuhr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260401T042900Z
 DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260401-banjarmasin@salat-sync
 SUMMARY:Pray Time - Asr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260401T074000Z
 DESCRIPTION:Pray Time - Asr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260401-banjarmasin@salat-sync
 SUMMARY:Pray Time - Maghrib (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260401T103100Z
 DESCRIPTION:Pray Time - Maghrib for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260401-banjarmasin@salat-sync
 SUMMARY:Pray Time - Isha (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260401T113900Z
 DESCRIPTION:Pray Time - Isha for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260402-banjarmasin@salat-sync
 SUMMARY:Pray Time - Fajr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260401T210900Z
 DESCRIPTION:Pray Time - Fajr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260402-banjarmasin@salat-sync
 SUMMARY:Pray Time - Dhuhr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260402T042900Z
 DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260402-banjarmasin@salat-sync
 SUMMARY:Pray Time - Asr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260402T074000Z
 DESCRIPTION:Pray Time - Asr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260402-banjarmasin@salat-sync
 SUMMARY:Pray Time - Maghrib (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260402T103100Z
 DESCRIPTION:Pray Time - Maghrib for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260402-banjarmasin@salat-sync
 SUMMARY:Pray Time - Isha (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260402T113900Z
 DESCRIPTION:Pray Time - Isha for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260403-banjarmasin@salat-sync
 SUMMARY:Pray Time - Fajr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260402T210800Z
 DESCRIPTION:Pray Time - Fajr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260403-banjarmasin@salat-sync
 SUMMARY:Pray Time - Dhuhr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260403T042800Z
 DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260403-banjarmasin@salat-sync
 SUMMARY:Pray Time - Asr (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260403T074100Z
 DESCRIPTION:Pray Time - Asr for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260403-banjarmasin@salat-sync
 SUMMARY:Pray Time - Maghrib (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260403T103000Z
 DESCRIPTION:Pray Time - Maghrib for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260403-banjarmasin@salat-sync
 SUMMARY:Pray Time - Isha (Banjarmasin)
-DTSTAMP:20260323T020357Z
+DTSTAMP:20260330T021455Z
 DTSTART:20260403T113900Z
+DESCRIPTION:Pray Time - Isha for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260406-banjarmasin@salat-sync
+SUMMARY:Pray Time - Fajr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260405T210800Z
+DESCRIPTION:Pray Time - Fajr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260406-banjarmasin@salat-sync
+SUMMARY:Pray Time - Dhuhr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260406T042800Z
+DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260406-banjarmasin@salat-sync
+SUMMARY:Pray Time - Asr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260406T074100Z
+DESCRIPTION:Pray Time - Asr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260406-banjarmasin@salat-sync
+SUMMARY:Pray Time - Maghrib (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260406T102900Z
+DESCRIPTION:Pray Time - Maghrib for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260406-banjarmasin@salat-sync
+SUMMARY:Pray Time - Isha (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260406T113800Z
+DESCRIPTION:Pray Time - Isha for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260407-banjarmasin@salat-sync
+SUMMARY:Pray Time - Fajr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260406T210700Z
+DESCRIPTION:Pray Time - Fajr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260407-banjarmasin@salat-sync
+SUMMARY:Pray Time - Dhuhr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260407T042700Z
+DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260407-banjarmasin@salat-sync
+SUMMARY:Pray Time - Asr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260407T074100Z
+DESCRIPTION:Pray Time - Asr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260407-banjarmasin@salat-sync
+SUMMARY:Pray Time - Maghrib (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260407T102900Z
+DESCRIPTION:Pray Time - Maghrib for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260407-banjarmasin@salat-sync
+SUMMARY:Pray Time - Isha (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260407T113700Z
+DESCRIPTION:Pray Time - Isha for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260408-banjarmasin@salat-sync
+SUMMARY:Pray Time - Fajr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260407T210700Z
+DESCRIPTION:Pray Time - Fajr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260408-banjarmasin@salat-sync
+SUMMARY:Pray Time - Dhuhr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260408T042700Z
+DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260408-banjarmasin@salat-sync
+SUMMARY:Pray Time - Asr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260408T074100Z
+DESCRIPTION:Pray Time - Asr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260408-banjarmasin@salat-sync
+SUMMARY:Pray Time - Maghrib (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260408T102800Z
+DESCRIPTION:Pray Time - Maghrib for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260408-banjarmasin@salat-sync
+SUMMARY:Pray Time - Isha (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260408T113700Z
+DESCRIPTION:Pray Time - Isha for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260409-banjarmasin@salat-sync
+SUMMARY:Pray Time - Fajr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260408T210700Z
+DESCRIPTION:Pray Time - Fajr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260409-banjarmasin@salat-sync
+SUMMARY:Pray Time - Dhuhr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260409T042700Z
+DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260409-banjarmasin@salat-sync
+SUMMARY:Pray Time - Asr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260409T074100Z
+DESCRIPTION:Pray Time - Asr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260409-banjarmasin@salat-sync
+SUMMARY:Pray Time - Maghrib (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260409T102800Z
+DESCRIPTION:Pray Time - Maghrib for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260409-banjarmasin@salat-sync
+SUMMARY:Pray Time - Isha (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260409T113700Z
+DESCRIPTION:Pray Time - Isha for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260410-banjarmasin@salat-sync
+SUMMARY:Pray Time - Fajr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260409T210700Z
+DESCRIPTION:Pray Time - Fajr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260410-banjarmasin@salat-sync
+SUMMARY:Pray Time - Dhuhr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260410T042600Z
+DESCRIPTION:Pray Time - Dhuhr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260410-banjarmasin@salat-sync
+SUMMARY:Pray Time - Asr (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260410T074100Z
+DESCRIPTION:Pray Time - Asr for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260410-banjarmasin@salat-sync
+SUMMARY:Pray Time - Maghrib (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260410T102800Z
+DESCRIPTION:Pray Time - Maghrib for Banjarmasin
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260410-banjarmasin@salat-sync
+SUMMARY:Pray Time - Isha (Banjarmasin)
+DTSTAMP:20260330T021455Z
+DTSTART:20260410T113600Z
 DESCRIPTION:Pray Time - Isha for Banjarmasin
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
