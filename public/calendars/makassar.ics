@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Makassar
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260330-makassar@salat-sync
-SUMMARY:Pray Time - Fajr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260329T205000Z
-DESCRIPTION:Pray Time - Fajr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260330-makassar@salat-sync
-SUMMARY:Pray Time - Dhuhr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260330T041000Z
-DESCRIPTION:Pray Time - Dhuhr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260330-makassar@salat-sync
-SUMMARY:Pray Time - Asr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260330T072300Z
-DESCRIPTION:Pray Time - Asr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260330-makassar@salat-sync
-SUMMARY:Pray Time - Maghrib (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260330T101200Z
-DESCRIPTION:Pray Time - Maghrib for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260330-makassar@salat-sync
-SUMMARY:Pray Time - Isha (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260330T112000Z
-DESCRIPTION:Pray Time - Isha for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260331-makassar@salat-sync
-SUMMARY:Pray Time - Fajr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260330T205000Z
-DESCRIPTION:Pray Time - Fajr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260331-makassar@salat-sync
-SUMMARY:Pray Time - Dhuhr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260331T041000Z
-DESCRIPTION:Pray Time - Dhuhr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260331-makassar@salat-sync
-SUMMARY:Pray Time - Asr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260331T072300Z
-DESCRIPTION:Pray Time - Asr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260331-makassar@salat-sync
-SUMMARY:Pray Time - Maghrib (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260331T101100Z
-DESCRIPTION:Pray Time - Maghrib for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260331-makassar@salat-sync
-SUMMARY:Pray Time - Isha (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260331T112000Z
-DESCRIPTION:Pray Time - Isha for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260401-makassar@salat-sync
-SUMMARY:Pray Time - Fajr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260331T205000Z
-DESCRIPTION:Pray Time - Fajr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260401-makassar@salat-sync
-SUMMARY:Pray Time - Dhuhr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260401T041000Z
-DESCRIPTION:Pray Time - Dhuhr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260401-makassar@salat-sync
-SUMMARY:Pray Time - Asr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260401T072300Z
-DESCRIPTION:Pray Time - Asr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260401-makassar@salat-sync
-SUMMARY:Pray Time - Maghrib (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260401T101100Z
-DESCRIPTION:Pray Time - Maghrib for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260401-makassar@salat-sync
-SUMMARY:Pray Time - Isha (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260401T111900Z
-DESCRIPTION:Pray Time - Isha for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260402-makassar@salat-sync
-SUMMARY:Pray Time - Fajr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260401T205000Z
-DESCRIPTION:Pray Time - Fajr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260402-makassar@salat-sync
-SUMMARY:Pray Time - Dhuhr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260402T040900Z
-DESCRIPTION:Pray Time - Dhuhr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260402-makassar@salat-sync
-SUMMARY:Pray Time - Asr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260402T072300Z
-DESCRIPTION:Pray Time - Asr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260402-makassar@salat-sync
-SUMMARY:Pray Time - Maghrib (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260402T101100Z
-DESCRIPTION:Pray Time - Maghrib for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260402-makassar@salat-sync
-SUMMARY:Pray Time - Isha (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260402T111900Z
-DESCRIPTION:Pray Time - Isha for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260403-makassar@salat-sync
-SUMMARY:Pray Time - Fajr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260402T205000Z
-DESCRIPTION:Pray Time - Fajr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260403-makassar@salat-sync
-SUMMARY:Pray Time - Dhuhr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260403T040900Z
-DESCRIPTION:Pray Time - Dhuhr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260403-makassar@salat-sync
-SUMMARY:Pray Time - Asr (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260403T072300Z
-DESCRIPTION:Pray Time - Asr for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260403-makassar@salat-sync
-SUMMARY:Pray Time - Maghrib (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260403T101000Z
-DESCRIPTION:Pray Time - Maghrib for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260403-makassar@salat-sync
-SUMMARY:Pray Time - Isha (Makassar)
-DTSTAMP:20260330T021446Z
-DTSTART:20260403T111900Z
-DESCRIPTION:Pray Time - Isha for Makassar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260406-makassar@salat-sync
 SUMMARY:Pray Time - Fajr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260405T204900Z
 DESCRIPTION:Pray Time - Fajr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260406-makassar@salat-sync
 SUMMARY:Pray Time - Dhuhr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260406T040800Z
 DESCRIPTION:Pray Time - Dhuhr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260406-makassar@salat-sync
 SUMMARY:Pray Time - Asr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260406T072300Z
 DESCRIPTION:Pray Time - Asr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260406-makassar@salat-sync
 SUMMARY:Pray Time - Maghrib (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260406T100900Z
 DESCRIPTION:Pray Time - Maghrib for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260406-makassar@salat-sync
 SUMMARY:Pray Time - Isha (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260406T111800Z
 DESCRIPTION:Pray Time - Isha for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260407-makassar@salat-sync
 SUMMARY:Pray Time - Fajr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260406T204900Z
 DESCRIPTION:Pray Time - Fajr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260407-makassar@salat-sync
 SUMMARY:Pray Time - Dhuhr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260407T040800Z
 DESCRIPTION:Pray Time - Dhuhr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260407-makassar@salat-sync
 SUMMARY:Pray Time - Asr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260407T072300Z
 DESCRIPTION:Pray Time - Asr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260407-makassar@salat-sync
 SUMMARY:Pray Time - Maghrib (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260407T100800Z
 DESCRIPTION:Pray Time - Maghrib for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260407-makassar@salat-sync
 SUMMARY:Pray Time - Isha (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260407T111700Z
 DESCRIPTION:Pray Time - Isha for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260408-makassar@salat-sync
 SUMMARY:Pray Time - Fajr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260407T204900Z
 DESCRIPTION:Pray Time - Fajr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260408-makassar@salat-sync
 SUMMARY:Pray Time - Dhuhr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260408T040800Z
 DESCRIPTION:Pray Time - Dhuhr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260408-makassar@salat-sync
 SUMMARY:Pray Time - Asr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260408T072300Z
 DESCRIPTION:Pray Time - Asr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260408-makassar@salat-sync
 SUMMARY:Pray Time - Maghrib (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260408T100800Z
 DESCRIPTION:Pray Time - Maghrib for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260408-makassar@salat-sync
 SUMMARY:Pray Time - Isha (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260408T111700Z
 DESCRIPTION:Pray Time - Isha for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260409-makassar@salat-sync
 SUMMARY:Pray Time - Fajr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260408T204800Z
 DESCRIPTION:Pray Time - Fajr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260409-makassar@salat-sync
 SUMMARY:Pray Time - Dhuhr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260409T040700Z
 DESCRIPTION:Pray Time - Dhuhr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260409-makassar@salat-sync
 SUMMARY:Pray Time - Asr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260409T072300Z
 DESCRIPTION:Pray Time - Asr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260409-makassar@salat-sync
 SUMMARY:Pray Time - Maghrib (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260409T100800Z
 DESCRIPTION:Pray Time - Maghrib for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260409-makassar@salat-sync
 SUMMARY:Pray Time - Isha (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260409T111600Z
 DESCRIPTION:Pray Time - Isha for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260410-makassar@salat-sync
 SUMMARY:Pray Time - Fajr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260409T204800Z
 DESCRIPTION:Pray Time - Fajr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260410-makassar@salat-sync
 SUMMARY:Pray Time - Dhuhr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260410T040700Z
 DESCRIPTION:Pray Time - Dhuhr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260410-makassar@salat-sync
 SUMMARY:Pray Time - Asr (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260410T072300Z
 DESCRIPTION:Pray Time - Asr for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260410-makassar@salat-sync
 SUMMARY:Pray Time - Maghrib (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260410T100700Z
 DESCRIPTION:Pray Time - Maghrib for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260410-makassar@salat-sync
 SUMMARY:Pray Time - Isha (Makassar)
-DTSTAMP:20260330T021446Z
+DTSTAMP:20260406T021410Z
 DTSTART:20260410T111600Z
+DESCRIPTION:Pray Time - Isha for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260413-makassar@salat-sync
+SUMMARY:Pray Time - Fajr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260412T204800Z
+DESCRIPTION:Pray Time - Fajr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260413-makassar@salat-sync
+SUMMARY:Pray Time - Dhuhr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260413T040600Z
+DESCRIPTION:Pray Time - Dhuhr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260413-makassar@salat-sync
+SUMMARY:Pray Time - Asr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260413T072300Z
+DESCRIPTION:Pray Time - Asr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260413-makassar@salat-sync
+SUMMARY:Pray Time - Maghrib (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260413T100600Z
+DESCRIPTION:Pray Time - Maghrib for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260413-makassar@salat-sync
+SUMMARY:Pray Time - Isha (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260413T111500Z
+DESCRIPTION:Pray Time - Isha for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260414-makassar@salat-sync
+SUMMARY:Pray Time - Fajr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260413T204700Z
+DESCRIPTION:Pray Time - Fajr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260414-makassar@salat-sync
+SUMMARY:Pray Time - Dhuhr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260414T040600Z
+DESCRIPTION:Pray Time - Dhuhr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260414-makassar@salat-sync
+SUMMARY:Pray Time - Asr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260414T072300Z
+DESCRIPTION:Pray Time - Asr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260414-makassar@salat-sync
+SUMMARY:Pray Time - Maghrib (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260414T100600Z
+DESCRIPTION:Pray Time - Maghrib for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260414-makassar@salat-sync
+SUMMARY:Pray Time - Isha (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260414T111500Z
+DESCRIPTION:Pray Time - Isha for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260415-makassar@salat-sync
+SUMMARY:Pray Time - Fajr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260414T204700Z
+DESCRIPTION:Pray Time - Fajr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260415-makassar@salat-sync
+SUMMARY:Pray Time - Dhuhr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260415T040600Z
+DESCRIPTION:Pray Time - Dhuhr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260415-makassar@salat-sync
+SUMMARY:Pray Time - Asr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260415T072300Z
+DESCRIPTION:Pray Time - Asr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260415-makassar@salat-sync
+SUMMARY:Pray Time - Maghrib (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260415T100500Z
+DESCRIPTION:Pray Time - Maghrib for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260415-makassar@salat-sync
+SUMMARY:Pray Time - Isha (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260415T111400Z
+DESCRIPTION:Pray Time - Isha for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260416-makassar@salat-sync
+SUMMARY:Pray Time - Fajr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260415T204700Z
+DESCRIPTION:Pray Time - Fajr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260416-makassar@salat-sync
+SUMMARY:Pray Time - Dhuhr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260416T040600Z
+DESCRIPTION:Pray Time - Dhuhr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260416-makassar@salat-sync
+SUMMARY:Pray Time - Asr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260416T072300Z
+DESCRIPTION:Pray Time - Asr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260416-makassar@salat-sync
+SUMMARY:Pray Time - Maghrib (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260416T100500Z
+DESCRIPTION:Pray Time - Maghrib for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260416-makassar@salat-sync
+SUMMARY:Pray Time - Isha (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260416T111400Z
+DESCRIPTION:Pray Time - Isha for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260417-makassar@salat-sync
+SUMMARY:Pray Time - Fajr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260416T204700Z
+DESCRIPTION:Pray Time - Fajr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260417-makassar@salat-sync
+SUMMARY:Pray Time - Dhuhr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260417T040500Z
+DESCRIPTION:Pray Time - Dhuhr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260417-makassar@salat-sync
+SUMMARY:Pray Time - Asr (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260417T072300Z
+DESCRIPTION:Pray Time - Asr for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260417-makassar@salat-sync
+SUMMARY:Pray Time - Maghrib (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260417T100500Z
+DESCRIPTION:Pray Time - Maghrib for Makassar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260417-makassar@salat-sync
+SUMMARY:Pray Time - Isha (Makassar)
+DTSTAMP:20260406T021410Z
+DTSTART:20260417T111400Z
 DESCRIPTION:Pray Time - Isha for Makassar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
