@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Ambon
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260420-ambon@salat-sync
-SUMMARY:Pray Time - Fajr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260419T201000Z
-DESCRIPTION:Pray Time - Fajr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260420-ambon@salat-sync
-SUMMARY:Pray Time - Dhuhr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260420T033000Z
-DESCRIPTION:Pray Time - Dhuhr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260420-ambon@salat-sync
-SUMMARY:Pray Time - Asr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260420T064800Z
-DESCRIPTION:Pray Time - Asr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260420-ambon@salat-sync
-SUMMARY:Pray Time - Maghrib (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260420T093000Z
-DESCRIPTION:Pray Time - Maghrib for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260420-ambon@salat-sync
-SUMMARY:Pray Time - Isha (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260420T103900Z
-DESCRIPTION:Pray Time - Isha for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260421-ambon@salat-sync
-SUMMARY:Pray Time - Fajr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260420T201000Z
-DESCRIPTION:Pray Time - Fajr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260421-ambon@salat-sync
-SUMMARY:Pray Time - Dhuhr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260421T033000Z
-DESCRIPTION:Pray Time - Dhuhr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260421-ambon@salat-sync
-SUMMARY:Pray Time - Asr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260421T064800Z
-DESCRIPTION:Pray Time - Asr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260421-ambon@salat-sync
-SUMMARY:Pray Time - Maghrib (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260421T092900Z
-DESCRIPTION:Pray Time - Maghrib for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260421-ambon@salat-sync
-SUMMARY:Pray Time - Isha (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260421T103900Z
-DESCRIPTION:Pray Time - Isha for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260422-ambon@salat-sync
-SUMMARY:Pray Time - Fajr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260421T201000Z
-DESCRIPTION:Pray Time - Fajr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260422-ambon@salat-sync
-SUMMARY:Pray Time - Dhuhr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260422T032900Z
-DESCRIPTION:Pray Time - Dhuhr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260422-ambon@salat-sync
-SUMMARY:Pray Time - Asr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260422T064800Z
-DESCRIPTION:Pray Time - Asr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260422-ambon@salat-sync
-SUMMARY:Pray Time - Maghrib (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260422T092900Z
-DESCRIPTION:Pray Time - Maghrib for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260422-ambon@salat-sync
-SUMMARY:Pray Time - Isha (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260422T103900Z
-DESCRIPTION:Pray Time - Isha for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260423-ambon@salat-sync
-SUMMARY:Pray Time - Fajr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260422T201000Z
-DESCRIPTION:Pray Time - Fajr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260423-ambon@salat-sync
-SUMMARY:Pray Time - Dhuhr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260423T032900Z
-DESCRIPTION:Pray Time - Dhuhr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260423-ambon@salat-sync
-SUMMARY:Pray Time - Asr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260423T064800Z
-DESCRIPTION:Pray Time - Asr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260423-ambon@salat-sync
-SUMMARY:Pray Time - Maghrib (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260423T092900Z
-DESCRIPTION:Pray Time - Maghrib for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260423-ambon@salat-sync
-SUMMARY:Pray Time - Isha (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260423T103900Z
-DESCRIPTION:Pray Time - Isha for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260424-ambon@salat-sync
-SUMMARY:Pray Time - Fajr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260423T200900Z
-DESCRIPTION:Pray Time - Fajr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260424-ambon@salat-sync
-SUMMARY:Pray Time - Dhuhr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260424T032900Z
-DESCRIPTION:Pray Time - Dhuhr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260424-ambon@salat-sync
-SUMMARY:Pray Time - Asr (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260424T064800Z
-DESCRIPTION:Pray Time - Asr for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260424-ambon@salat-sync
-SUMMARY:Pray Time - Maghrib (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260424T092900Z
-DESCRIPTION:Pray Time - Maghrib for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260424-ambon@salat-sync
-SUMMARY:Pray Time - Isha (Ambon)
-DTSTAMP:20260420T023143Z
-DTSTART:20260424T103800Z
-DESCRIPTION:Pray Time - Isha for Ambon
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260427-ambon@salat-sync
 SUMMARY:Pray Time - Fajr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260426T200900Z
 DESCRIPTION:Pray Time - Fajr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260427-ambon@salat-sync
 SUMMARY:Pray Time - Dhuhr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260427T032800Z
 DESCRIPTION:Pray Time - Dhuhr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260427-ambon@salat-sync
 SUMMARY:Pray Time - Asr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260427T064800Z
 DESCRIPTION:Pray Time - Asr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260427-ambon@salat-sync
 SUMMARY:Pray Time - Maghrib (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260427T092800Z
 DESCRIPTION:Pray Time - Maghrib for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260427-ambon@salat-sync
 SUMMARY:Pray Time - Isha (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260427T103800Z
 DESCRIPTION:Pray Time - Isha for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260428-ambon@salat-sync
 SUMMARY:Pray Time - Fajr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260427T200900Z
 DESCRIPTION:Pray Time - Fajr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260428-ambon@salat-sync
 SUMMARY:Pray Time - Dhuhr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260428T032800Z
 DESCRIPTION:Pray Time - Dhuhr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260428-ambon@salat-sync
 SUMMARY:Pray Time - Asr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260428T064800Z
 DESCRIPTION:Pray Time - Asr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260428-ambon@salat-sync
 SUMMARY:Pray Time - Maghrib (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260428T092800Z
 DESCRIPTION:Pray Time - Maghrib for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260428-ambon@salat-sync
 SUMMARY:Pray Time - Isha (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260428T103800Z
 DESCRIPTION:Pray Time - Isha for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260429-ambon@salat-sync
 SUMMARY:Pray Time - Fajr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260428T200800Z
 DESCRIPTION:Pray Time - Fajr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260429-ambon@salat-sync
 SUMMARY:Pray Time - Dhuhr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260429T032800Z
 DESCRIPTION:Pray Time - Dhuhr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260429-ambon@salat-sync
 SUMMARY:Pray Time - Asr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260429T064800Z
 DESCRIPTION:Pray Time - Asr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260429-ambon@salat-sync
 SUMMARY:Pray Time - Maghrib (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260429T092700Z
 DESCRIPTION:Pray Time - Maghrib for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260429-ambon@salat-sync
 SUMMARY:Pray Time - Isha (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260429T103800Z
 DESCRIPTION:Pray Time - Isha for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260430-ambon@salat-sync
 SUMMARY:Pray Time - Fajr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260429T200800Z
 DESCRIPTION:Pray Time - Fajr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260430-ambon@salat-sync
 SUMMARY:Pray Time - Dhuhr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260430T032800Z
 DESCRIPTION:Pray Time - Dhuhr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260430-ambon@salat-sync
 SUMMARY:Pray Time - Asr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260430T064800Z
 DESCRIPTION:Pray Time - Asr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260430-ambon@salat-sync
 SUMMARY:Pray Time - Maghrib (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260430T092700Z
 DESCRIPTION:Pray Time - Maghrib for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260430-ambon@salat-sync
 SUMMARY:Pray Time - Isha (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260430T103800Z
 DESCRIPTION:Pray Time - Isha for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260501-ambon@salat-sync
 SUMMARY:Pray Time - Fajr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260430T200800Z
 DESCRIPTION:Pray Time - Fajr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260501-ambon@salat-sync
 SUMMARY:Pray Time - Dhuhr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260501T032800Z
 DESCRIPTION:Pray Time - Dhuhr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260501-ambon@salat-sync
 SUMMARY:Pray Time - Asr (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260501T064800Z
 DESCRIPTION:Pray Time - Asr for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260501-ambon@salat-sync
 SUMMARY:Pray Time - Maghrib (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260501T092700Z
 DESCRIPTION:Pray Time - Maghrib for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260501-ambon@salat-sync
 SUMMARY:Pray Time - Isha (Ambon)
-DTSTAMP:20260420T023143Z
+DTSTAMP:20260427T023557Z
 DTSTART:20260501T103700Z
+DESCRIPTION:Pray Time - Isha for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260504-ambon@salat-sync
+SUMMARY:Pray Time - Fajr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260503T200800Z
+DESCRIPTION:Pray Time - Fajr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260504-ambon@salat-sync
+SUMMARY:Pray Time - Dhuhr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260504T032800Z
+DESCRIPTION:Pray Time - Dhuhr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260504-ambon@salat-sync
+SUMMARY:Pray Time - Asr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260504T064800Z
+DESCRIPTION:Pray Time - Asr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260504-ambon@salat-sync
+SUMMARY:Pray Time - Maghrib (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260504T092600Z
+DESCRIPTION:Pray Time - Maghrib for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260504-ambon@salat-sync
+SUMMARY:Pray Time - Isha (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260504T103700Z
+DESCRIPTION:Pray Time - Isha for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260505-ambon@salat-sync
+SUMMARY:Pray Time - Fajr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260504T200700Z
+DESCRIPTION:Pray Time - Fajr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260505-ambon@salat-sync
+SUMMARY:Pray Time - Dhuhr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260505T032700Z
+DESCRIPTION:Pray Time - Dhuhr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260505-ambon@salat-sync
+SUMMARY:Pray Time - Asr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260505T064800Z
+DESCRIPTION:Pray Time - Asr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260505-ambon@salat-sync
+SUMMARY:Pray Time - Maghrib (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260505T092600Z
+DESCRIPTION:Pray Time - Maghrib for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260505-ambon@salat-sync
+SUMMARY:Pray Time - Isha (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260505T103700Z
+DESCRIPTION:Pray Time - Isha for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260506-ambon@salat-sync
+SUMMARY:Pray Time - Fajr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260505T200700Z
+DESCRIPTION:Pray Time - Fajr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260506-ambon@salat-sync
+SUMMARY:Pray Time - Dhuhr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260506T032700Z
+DESCRIPTION:Pray Time - Dhuhr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260506-ambon@salat-sync
+SUMMARY:Pray Time - Asr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260506T064800Z
+DESCRIPTION:Pray Time - Asr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260506-ambon@salat-sync
+SUMMARY:Pray Time - Maghrib (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260506T092600Z
+DESCRIPTION:Pray Time - Maghrib for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260506-ambon@salat-sync
+SUMMARY:Pray Time - Isha (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260506T103700Z
+DESCRIPTION:Pray Time - Isha for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260507-ambon@salat-sync
+SUMMARY:Pray Time - Fajr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260506T200700Z
+DESCRIPTION:Pray Time - Fajr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260507-ambon@salat-sync
+SUMMARY:Pray Time - Dhuhr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260507T032700Z
+DESCRIPTION:Pray Time - Dhuhr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260507-ambon@salat-sync
+SUMMARY:Pray Time - Asr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260507T064800Z
+DESCRIPTION:Pray Time - Asr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260507-ambon@salat-sync
+SUMMARY:Pray Time - Maghrib (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260507T092600Z
+DESCRIPTION:Pray Time - Maghrib for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260507-ambon@salat-sync
+SUMMARY:Pray Time - Isha (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260507T103700Z
+DESCRIPTION:Pray Time - Isha for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260508-ambon@salat-sync
+SUMMARY:Pray Time - Fajr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260507T200700Z
+DESCRIPTION:Pray Time - Fajr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260508-ambon@salat-sync
+SUMMARY:Pray Time - Dhuhr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260508T032700Z
+DESCRIPTION:Pray Time - Dhuhr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260508-ambon@salat-sync
+SUMMARY:Pray Time - Asr (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260508T064800Z
+DESCRIPTION:Pray Time - Asr for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260508-ambon@salat-sync
+SUMMARY:Pray Time - Maghrib (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260508T092600Z
+DESCRIPTION:Pray Time - Maghrib for Ambon
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260508-ambon@salat-sync
+SUMMARY:Pray Time - Isha (Ambon)
+DTSTAMP:20260427T023557Z
+DTSTART:20260508T103700Z
 DESCRIPTION:Pray Time - Isha for Ambon
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
