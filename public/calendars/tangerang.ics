@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Tangerang
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260427-tangerang@salat-sync
-SUMMARY:Pray Time - Fajr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260426T213700Z
-DESCRIPTION:Pray Time - Fajr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260427-tangerang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260427T045500Z
-DESCRIPTION:Pray Time - Dhuhr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260427-tangerang@salat-sync
-SUMMARY:Pray Time - Asr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260427T081500Z
-DESCRIPTION:Pray Time - Asr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260427-tangerang@salat-sync
-SUMMARY:Pray Time - Maghrib (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260427T105200Z
-DESCRIPTION:Pray Time - Maghrib for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260427-tangerang@salat-sync
-SUMMARY:Pray Time - Isha (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260427T120200Z
-DESCRIPTION:Pray Time - Isha for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260428-tangerang@salat-sync
-SUMMARY:Pray Time - Fajr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260427T213700Z
-DESCRIPTION:Pray Time - Fajr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260428-tangerang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260428T045400Z
-DESCRIPTION:Pray Time - Dhuhr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260428-tangerang@salat-sync
-SUMMARY:Pray Time - Asr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260428T081400Z
-DESCRIPTION:Pray Time - Asr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260428-tangerang@salat-sync
-SUMMARY:Pray Time - Maghrib (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260428T105100Z
-DESCRIPTION:Pray Time - Maghrib for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260428-tangerang@salat-sync
-SUMMARY:Pray Time - Isha (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260428T120200Z
-DESCRIPTION:Pray Time - Isha for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260429-tangerang@salat-sync
-SUMMARY:Pray Time - Fajr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260428T213700Z
-DESCRIPTION:Pray Time - Fajr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260429-tangerang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260429T045400Z
-DESCRIPTION:Pray Time - Dhuhr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260429-tangerang@salat-sync
-SUMMARY:Pray Time - Asr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260429T081400Z
-DESCRIPTION:Pray Time - Asr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260429-tangerang@salat-sync
-SUMMARY:Pray Time - Maghrib (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260429T105100Z
-DESCRIPTION:Pray Time - Maghrib for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260429-tangerang@salat-sync
-SUMMARY:Pray Time - Isha (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260429T120100Z
-DESCRIPTION:Pray Time - Isha for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260430-tangerang@salat-sync
-SUMMARY:Pray Time - Fajr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260429T213700Z
-DESCRIPTION:Pray Time - Fajr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260430-tangerang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260430T045400Z
-DESCRIPTION:Pray Time - Dhuhr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260430-tangerang@salat-sync
-SUMMARY:Pray Time - Asr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260430T081400Z
-DESCRIPTION:Pray Time - Asr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260430-tangerang@salat-sync
-SUMMARY:Pray Time - Maghrib (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260430T105100Z
-DESCRIPTION:Pray Time - Maghrib for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260430-tangerang@salat-sync
-SUMMARY:Pray Time - Isha (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260430T120100Z
-DESCRIPTION:Pray Time - Isha for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260501-tangerang@salat-sync
-SUMMARY:Pray Time - Fajr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260430T213700Z
-DESCRIPTION:Pray Time - Fajr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260501-tangerang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260501T045400Z
-DESCRIPTION:Pray Time - Dhuhr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260501-tangerang@salat-sync
-SUMMARY:Pray Time - Asr (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260501T081400Z
-DESCRIPTION:Pray Time - Asr for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260501-tangerang@salat-sync
-SUMMARY:Pray Time - Maghrib (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260501T105000Z
-DESCRIPTION:Pray Time - Maghrib for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260501-tangerang@salat-sync
-SUMMARY:Pray Time - Isha (Tangerang)
-DTSTAMP:20260427T023444Z
-DTSTART:20260501T120100Z
-DESCRIPTION:Pray Time - Isha for Tangerang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260504-tangerang@salat-sync
 SUMMARY:Pray Time - Fajr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260503T213600Z
 DESCRIPTION:Pray Time - Fajr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260504-tangerang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260504T045400Z
 DESCRIPTION:Pray Time - Dhuhr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260504-tangerang@salat-sync
 SUMMARY:Pray Time - Asr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260504T081400Z
 DESCRIPTION:Pray Time - Asr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260504-tangerang@salat-sync
 SUMMARY:Pray Time - Maghrib (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260504T105000Z
 DESCRIPTION:Pray Time - Maghrib for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260504-tangerang@salat-sync
 SUMMARY:Pray Time - Isha (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260504T120100Z
 DESCRIPTION:Pray Time - Isha for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260505-tangerang@salat-sync
 SUMMARY:Pray Time - Fajr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260504T213600Z
 DESCRIPTION:Pray Time - Fajr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260505-tangerang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260505T045400Z
 DESCRIPTION:Pray Time - Dhuhr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260505-tangerang@salat-sync
 SUMMARY:Pray Time - Asr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260505T081400Z
 DESCRIPTION:Pray Time - Asr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260505-tangerang@salat-sync
 SUMMARY:Pray Time - Maghrib (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260505T105000Z
 DESCRIPTION:Pray Time - Maghrib for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260505-tangerang@salat-sync
 SUMMARY:Pray Time - Isha (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260505T120100Z
 DESCRIPTION:Pray Time - Isha for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260506-tangerang@salat-sync
 SUMMARY:Pray Time - Fajr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260505T213600Z
 DESCRIPTION:Pray Time - Fajr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260506-tangerang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260506T045400Z
 DESCRIPTION:Pray Time - Dhuhr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260506-tangerang@salat-sync
 SUMMARY:Pray Time - Asr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260506T081400Z
 DESCRIPTION:Pray Time - Asr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260506-tangerang@salat-sync
 SUMMARY:Pray Time - Maghrib (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260506T104900Z
 DESCRIPTION:Pray Time - Maghrib for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260506-tangerang@salat-sync
 SUMMARY:Pray Time - Isha (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260506T120000Z
 DESCRIPTION:Pray Time - Isha for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260507-tangerang@salat-sync
 SUMMARY:Pray Time - Fajr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260506T213600Z
 DESCRIPTION:Pray Time - Fajr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260507-tangerang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260507T045300Z
 DESCRIPTION:Pray Time - Dhuhr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260507-tangerang@salat-sync
 SUMMARY:Pray Time - Asr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260507T081400Z
 DESCRIPTION:Pray Time - Asr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260507-tangerang@salat-sync
 SUMMARY:Pray Time - Maghrib (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260507T104900Z
 DESCRIPTION:Pray Time - Maghrib for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260507-tangerang@salat-sync
 SUMMARY:Pray Time - Isha (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260507T120000Z
 DESCRIPTION:Pray Time - Isha for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260508-tangerang@salat-sync
 SUMMARY:Pray Time - Fajr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260507T213600Z
 DESCRIPTION:Pray Time - Fajr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260508-tangerang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260508T045300Z
 DESCRIPTION:Pray Time - Dhuhr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260508-tangerang@salat-sync
 SUMMARY:Pray Time - Asr (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260508T081400Z
 DESCRIPTION:Pray Time - Asr for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260508-tangerang@salat-sync
 SUMMARY:Pray Time - Maghrib (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260508T104900Z
 DESCRIPTION:Pray Time - Maghrib for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260508-tangerang@salat-sync
 SUMMARY:Pray Time - Isha (Tangerang)
-DTSTAMP:20260427T023444Z
+DTSTAMP:20260504T023929Z
 DTSTART:20260508T120000Z
+DESCRIPTION:Pray Time - Isha for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260511-tangerang@salat-sync
+SUMMARY:Pray Time - Fajr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260510T213600Z
+DESCRIPTION:Pray Time - Fajr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260511-tangerang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260511T045300Z
+DESCRIPTION:Pray Time - Dhuhr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260511-tangerang@salat-sync
+SUMMARY:Pray Time - Asr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260511T081400Z
+DESCRIPTION:Pray Time - Asr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260511-tangerang@salat-sync
+SUMMARY:Pray Time - Maghrib (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260511T104900Z
+DESCRIPTION:Pray Time - Maghrib for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260511-tangerang@salat-sync
+SUMMARY:Pray Time - Isha (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260511T120000Z
+DESCRIPTION:Pray Time - Isha for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260512-tangerang@salat-sync
+SUMMARY:Pray Time - Fajr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260511T213600Z
+DESCRIPTION:Pray Time - Fajr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260512-tangerang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260512T045300Z
+DESCRIPTION:Pray Time - Dhuhr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260512-tangerang@salat-sync
+SUMMARY:Pray Time - Asr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260512T081400Z
+DESCRIPTION:Pray Time - Asr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260512-tangerang@salat-sync
+SUMMARY:Pray Time - Maghrib (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260512T104800Z
+DESCRIPTION:Pray Time - Maghrib for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260512-tangerang@salat-sync
+SUMMARY:Pray Time - Isha (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260512T120000Z
+DESCRIPTION:Pray Time - Isha for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260513-tangerang@salat-sync
+SUMMARY:Pray Time - Fajr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260512T213600Z
+DESCRIPTION:Pray Time - Fajr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260513-tangerang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260513T045300Z
+DESCRIPTION:Pray Time - Dhuhr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260513-tangerang@salat-sync
+SUMMARY:Pray Time - Asr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260513T081400Z
+DESCRIPTION:Pray Time - Asr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260513-tangerang@salat-sync
+SUMMARY:Pray Time - Maghrib (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260513T104800Z
+DESCRIPTION:Pray Time - Maghrib for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260513-tangerang@salat-sync
+SUMMARY:Pray Time - Isha (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260513T120000Z
+DESCRIPTION:Pray Time - Isha for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260514-tangerang@salat-sync
+SUMMARY:Pray Time - Fajr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260513T213600Z
+DESCRIPTION:Pray Time - Fajr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260514-tangerang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260514T045300Z
+DESCRIPTION:Pray Time - Dhuhr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260514-tangerang@salat-sync
+SUMMARY:Pray Time - Asr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260514T081400Z
+DESCRIPTION:Pray Time - Asr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260514-tangerang@salat-sync
+SUMMARY:Pray Time - Maghrib (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260514T104800Z
+DESCRIPTION:Pray Time - Maghrib for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260514-tangerang@salat-sync
+SUMMARY:Pray Time - Isha (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260514T120000Z
+DESCRIPTION:Pray Time - Isha for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260515-tangerang@salat-sync
+SUMMARY:Pray Time - Fajr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260514T213600Z
+DESCRIPTION:Pray Time - Fajr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260515-tangerang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260515T045300Z
+DESCRIPTION:Pray Time - Dhuhr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260515-tangerang@salat-sync
+SUMMARY:Pray Time - Asr (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260515T081400Z
+DESCRIPTION:Pray Time - Asr for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260515-tangerang@salat-sync
+SUMMARY:Pray Time - Maghrib (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260515T104800Z
+DESCRIPTION:Pray Time - Maghrib for Tangerang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260515-tangerang@salat-sync
+SUMMARY:Pray Time - Isha (Tangerang)
+DTSTAMP:20260504T023929Z
+DTSTART:20260515T120000Z
 DESCRIPTION:Pray Time - Isha for Tangerang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
