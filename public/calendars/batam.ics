@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Batam
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260615-batam@salat-sync
-SUMMARY:Pray Time - Fajr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260614T213700Z
-DESCRIPTION:Pray Time - Fajr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260615-batam@salat-sync
-SUMMARY:Pray Time - Dhuhr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260615T050800Z
-DESCRIPTION:Pray Time - Dhuhr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260615-batam@salat-sync
-SUMMARY:Pray Time - Asr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260615T083300Z
-DESCRIPTION:Pray Time - Asr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260615-batam@salat-sync
-SUMMARY:Pray Time - Maghrib (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260615T111300Z
-DESCRIPTION:Pray Time - Maghrib for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260615-batam@salat-sync
-SUMMARY:Pray Time - Isha (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260615T122800Z
-DESCRIPTION:Pray Time - Isha for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260616-batam@salat-sync
-SUMMARY:Pray Time - Fajr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260615T213700Z
-DESCRIPTION:Pray Time - Fajr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260616-batam@salat-sync
-SUMMARY:Pray Time - Dhuhr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260616T050800Z
-DESCRIPTION:Pray Time - Dhuhr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260616-batam@salat-sync
-SUMMARY:Pray Time - Asr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260616T083300Z
-DESCRIPTION:Pray Time - Asr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260616-batam@salat-sync
-SUMMARY:Pray Time - Maghrib (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260616T111300Z
-DESCRIPTION:Pray Time - Maghrib for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260616-batam@salat-sync
-SUMMARY:Pray Time - Isha (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260616T122800Z
-DESCRIPTION:Pray Time - Isha for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260617-batam@salat-sync
-SUMMARY:Pray Time - Fajr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260616T213700Z
-DESCRIPTION:Pray Time - Fajr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260617-batam@salat-sync
-SUMMARY:Pray Time - Dhuhr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260617T050800Z
-DESCRIPTION:Pray Time - Dhuhr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260617-batam@salat-sync
-SUMMARY:Pray Time - Asr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260617T083300Z
-DESCRIPTION:Pray Time - Asr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260617-batam@salat-sync
-SUMMARY:Pray Time - Maghrib (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260617T111400Z
-DESCRIPTION:Pray Time - Maghrib for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260617-batam@salat-sync
-SUMMARY:Pray Time - Isha (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260617T122800Z
-DESCRIPTION:Pray Time - Isha for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260618-batam@salat-sync
-SUMMARY:Pray Time - Fajr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260617T213800Z
-DESCRIPTION:Pray Time - Fajr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260618-batam@salat-sync
-SUMMARY:Pray Time - Dhuhr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260618T050800Z
-DESCRIPTION:Pray Time - Dhuhr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260618-batam@salat-sync
-SUMMARY:Pray Time - Asr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260618T083400Z
-DESCRIPTION:Pray Time - Asr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260618-batam@salat-sync
-SUMMARY:Pray Time - Maghrib (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260618T111400Z
-DESCRIPTION:Pray Time - Maghrib for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260618-batam@salat-sync
-SUMMARY:Pray Time - Isha (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260618T122800Z
-DESCRIPTION:Pray Time - Isha for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260619-batam@salat-sync
-SUMMARY:Pray Time - Fajr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260618T213800Z
-DESCRIPTION:Pray Time - Fajr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260619-batam@salat-sync
-SUMMARY:Pray Time - Dhuhr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260619T050900Z
-DESCRIPTION:Pray Time - Dhuhr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260619-batam@salat-sync
-SUMMARY:Pray Time - Asr (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260619T083400Z
-DESCRIPTION:Pray Time - Asr for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260619-batam@salat-sync
-SUMMARY:Pray Time - Maghrib (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260619T111400Z
-DESCRIPTION:Pray Time - Maghrib for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260619-batam@salat-sync
-SUMMARY:Pray Time - Isha (Batam)
-DTSTAMP:20260615T040118Z
-DTSTART:20260619T122800Z
-DESCRIPTION:Pray Time - Isha for Batam
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260622-batam@salat-sync
 SUMMARY:Pray Time - Fajr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260621T213900Z
 DESCRIPTION:Pray Time - Fajr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260622-batam@salat-sync
 SUMMARY:Pray Time - Dhuhr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260622T050900Z
 DESCRIPTION:Pray Time - Dhuhr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260622-batam@salat-sync
 SUMMARY:Pray Time - Asr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260622T083400Z
 DESCRIPTION:Pray Time - Asr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260622-batam@salat-sync
 SUMMARY:Pray Time - Maghrib (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260622T111500Z
 DESCRIPTION:Pray Time - Maghrib for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260622-batam@salat-sync
 SUMMARY:Pray Time - Isha (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260622T122900Z
 DESCRIPTION:Pray Time - Isha for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260623-batam@salat-sync
 SUMMARY:Pray Time - Fajr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260622T213900Z
 DESCRIPTION:Pray Time - Fajr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260623-batam@salat-sync
 SUMMARY:Pray Time - Dhuhr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260623T050900Z
 DESCRIPTION:Pray Time - Dhuhr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260623-batam@salat-sync
 SUMMARY:Pray Time - Asr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260623T083500Z
 DESCRIPTION:Pray Time - Asr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260623-batam@salat-sync
 SUMMARY:Pray Time - Maghrib (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260623T111500Z
 DESCRIPTION:Pray Time - Maghrib for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260623-batam@salat-sync
 SUMMARY:Pray Time - Isha (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260623T122900Z
 DESCRIPTION:Pray Time - Isha for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260624-batam@salat-sync
 SUMMARY:Pray Time - Fajr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260623T213900Z
 DESCRIPTION:Pray Time - Fajr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260624-batam@salat-sync
 SUMMARY:Pray Time - Dhuhr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260624T051000Z
 DESCRIPTION:Pray Time - Dhuhr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260624-batam@salat-sync
 SUMMARY:Pray Time - Asr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260624T083500Z
 DESCRIPTION:Pray Time - Asr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260624-batam@salat-sync
 SUMMARY:Pray Time - Maghrib (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260624T111500Z
 DESCRIPTION:Pray Time - Maghrib for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260624-batam@salat-sync
 SUMMARY:Pray Time - Isha (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260624T123000Z
 DESCRIPTION:Pray Time - Isha for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260625-batam@salat-sync
 SUMMARY:Pray Time - Fajr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260624T213900Z
 DESCRIPTION:Pray Time - Fajr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260625-batam@salat-sync
 SUMMARY:Pray Time - Dhuhr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260625T051000Z
 DESCRIPTION:Pray Time - Dhuhr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260625-batam@salat-sync
 SUMMARY:Pray Time - Asr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260625T083500Z
 DESCRIPTION:Pray Time - Asr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260625-batam@salat-sync
 SUMMARY:Pray Time - Maghrib (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260625T111500Z
 DESCRIPTION:Pray Time - Maghrib for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260625-batam@salat-sync
 SUMMARY:Pray Time - Isha (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260625T123000Z
 DESCRIPTION:Pray Time - Isha for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260626-batam@salat-sync
 SUMMARY:Pray Time - Fajr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260625T213900Z
 DESCRIPTION:Pray Time - Fajr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260626-batam@salat-sync
 SUMMARY:Pray Time - Dhuhr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260626T051000Z
 DESCRIPTION:Pray Time - Dhuhr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260626-batam@salat-sync
 SUMMARY:Pray Time - Asr (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260626T083500Z
 DESCRIPTION:Pray Time - Asr for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260626-batam@salat-sync
 SUMMARY:Pray Time - Maghrib (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260626T111500Z
 DESCRIPTION:Pray Time - Maghrib for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260626-batam@salat-sync
 SUMMARY:Pray Time - Isha (Batam)
-DTSTAMP:20260615T040118Z
+DTSTAMP:20260622T035848Z
 DTSTART:20260626T123000Z
+DESCRIPTION:Pray Time - Isha for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260629-batam@salat-sync
+SUMMARY:Pray Time - Fajr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260628T214000Z
+DESCRIPTION:Pray Time - Fajr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260629-batam@salat-sync
+SUMMARY:Pray Time - Dhuhr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260629T051100Z
+DESCRIPTION:Pray Time - Dhuhr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260629-batam@salat-sync
+SUMMARY:Pray Time - Asr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260629T083600Z
+DESCRIPTION:Pray Time - Asr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260629-batam@salat-sync
+SUMMARY:Pray Time - Maghrib (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260629T111600Z
+DESCRIPTION:Pray Time - Maghrib for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260629-batam@salat-sync
+SUMMARY:Pray Time - Isha (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260629T123000Z
+DESCRIPTION:Pray Time - Isha for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260630-batam@salat-sync
+SUMMARY:Pray Time - Fajr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260629T214000Z
+DESCRIPTION:Pray Time - Fajr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260630-batam@salat-sync
+SUMMARY:Pray Time - Dhuhr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260630T051100Z
+DESCRIPTION:Pray Time - Dhuhr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260630-batam@salat-sync
+SUMMARY:Pray Time - Asr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260630T083600Z
+DESCRIPTION:Pray Time - Asr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260630-batam@salat-sync
+SUMMARY:Pray Time - Maghrib (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260630T111600Z
+DESCRIPTION:Pray Time - Maghrib for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260630-batam@salat-sync
+SUMMARY:Pray Time - Isha (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260630T123100Z
+DESCRIPTION:Pray Time - Isha for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260701-batam@salat-sync
+SUMMARY:Pray Time - Fajr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260630T214100Z
+DESCRIPTION:Pray Time - Fajr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260701-batam@salat-sync
+SUMMARY:Pray Time - Dhuhr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260701T051100Z
+DESCRIPTION:Pray Time - Dhuhr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260701-batam@salat-sync
+SUMMARY:Pray Time - Asr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260701T083600Z
+DESCRIPTION:Pray Time - Asr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260701-batam@salat-sync
+SUMMARY:Pray Time - Maghrib (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260701T111600Z
+DESCRIPTION:Pray Time - Maghrib for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260701-batam@salat-sync
+SUMMARY:Pray Time - Isha (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260701T123100Z
+DESCRIPTION:Pray Time - Isha for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260702-batam@salat-sync
+SUMMARY:Pray Time - Fajr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260701T214100Z
+DESCRIPTION:Pray Time - Fajr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260702-batam@salat-sync
+SUMMARY:Pray Time - Dhuhr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260702T051100Z
+DESCRIPTION:Pray Time - Dhuhr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260702-batam@salat-sync
+SUMMARY:Pray Time - Asr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260702T083600Z
+DESCRIPTION:Pray Time - Asr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260702-batam@salat-sync
+SUMMARY:Pray Time - Maghrib (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260702T111700Z
+DESCRIPTION:Pray Time - Maghrib for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260702-batam@salat-sync
+SUMMARY:Pray Time - Isha (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260702T123100Z
+DESCRIPTION:Pray Time - Isha for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260703-batam@salat-sync
+SUMMARY:Pray Time - Fajr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260702T214100Z
+DESCRIPTION:Pray Time - Fajr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260703-batam@salat-sync
+SUMMARY:Pray Time - Dhuhr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260703T051100Z
+DESCRIPTION:Pray Time - Dhuhr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260703-batam@salat-sync
+SUMMARY:Pray Time - Asr (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260703T083600Z
+DESCRIPTION:Pray Time - Asr for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260703-batam@salat-sync
+SUMMARY:Pray Time - Maghrib (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260703T111700Z
+DESCRIPTION:Pray Time - Maghrib for Batam
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260703-batam@salat-sync
+SUMMARY:Pray Time - Isha (Batam)
+DTSTAMP:20260622T035848Z
+DTSTART:20260703T123100Z
 DESCRIPTION:Pray Time - Isha for Batam
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED

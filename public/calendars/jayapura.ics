@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Jayapura
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260615-jayapura@salat-sync
-SUMMARY:Pray Time - Fajr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260614T191700Z
-DESCRIPTION:Pray Time - Fajr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260615-jayapura@salat-sync
-SUMMARY:Pray Time - Dhuhr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260615T024100Z
-DESCRIPTION:Pray Time - Dhuhr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260615-jayapura@salat-sync
-SUMMARY:Pray Time - Asr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260615T060500Z
-DESCRIPTION:Pray Time - Asr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260615-jayapura@salat-sync
-SUMMARY:Pray Time - Maghrib (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260615T084000Z
-DESCRIPTION:Pray Time - Maghrib for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260615-jayapura@salat-sync
-SUMMARY:Pray Time - Isha (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260615T095400Z
-DESCRIPTION:Pray Time - Isha for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260616-jayapura@salat-sync
-SUMMARY:Pray Time - Fajr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260615T191700Z
-DESCRIPTION:Pray Time - Fajr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260616-jayapura@salat-sync
-SUMMARY:Pray Time - Dhuhr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260616T024100Z
-DESCRIPTION:Pray Time - Dhuhr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260616-jayapura@salat-sync
-SUMMARY:Pray Time - Asr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260616T060500Z
-DESCRIPTION:Pray Time - Asr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260616-jayapura@salat-sync
-SUMMARY:Pray Time - Maghrib (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260616T084000Z
-DESCRIPTION:Pray Time - Maghrib for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260616-jayapura@salat-sync
-SUMMARY:Pray Time - Isha (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260616T095500Z
-DESCRIPTION:Pray Time - Isha for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260617-jayapura@salat-sync
-SUMMARY:Pray Time - Fajr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260616T191800Z
-DESCRIPTION:Pray Time - Fajr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260617-jayapura@salat-sync
-SUMMARY:Pray Time - Dhuhr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260617T024200Z
-DESCRIPTION:Pray Time - Dhuhr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260617-jayapura@salat-sync
-SUMMARY:Pray Time - Asr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260617T060500Z
-DESCRIPTION:Pray Time - Asr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260617-jayapura@salat-sync
-SUMMARY:Pray Time - Maghrib (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260617T084100Z
-DESCRIPTION:Pray Time - Maghrib for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260617-jayapura@salat-sync
-SUMMARY:Pray Time - Isha (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260617T095500Z
-DESCRIPTION:Pray Time - Isha for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260618-jayapura@salat-sync
-SUMMARY:Pray Time - Fajr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260617T191800Z
-DESCRIPTION:Pray Time - Fajr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260618-jayapura@salat-sync
-SUMMARY:Pray Time - Dhuhr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260618T024200Z
-DESCRIPTION:Pray Time - Dhuhr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260618-jayapura@salat-sync
-SUMMARY:Pray Time - Asr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260618T060500Z
-DESCRIPTION:Pray Time - Asr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260618-jayapura@salat-sync
-SUMMARY:Pray Time - Maghrib (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260618T084100Z
-DESCRIPTION:Pray Time - Maghrib for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260618-jayapura@salat-sync
-SUMMARY:Pray Time - Isha (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260618T095500Z
-DESCRIPTION:Pray Time - Isha for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260619-jayapura@salat-sync
-SUMMARY:Pray Time - Fajr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260618T191800Z
-DESCRIPTION:Pray Time - Fajr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260619-jayapura@salat-sync
-SUMMARY:Pray Time - Dhuhr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260619T024200Z
-DESCRIPTION:Pray Time - Dhuhr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260619-jayapura@salat-sync
-SUMMARY:Pray Time - Asr (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260619T060500Z
-DESCRIPTION:Pray Time - Asr for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260619-jayapura@salat-sync
-SUMMARY:Pray Time - Maghrib (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260619T084100Z
-DESCRIPTION:Pray Time - Maghrib for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260619-jayapura@salat-sync
-SUMMARY:Pray Time - Isha (Jayapura)
-DTSTAMP:20260615T040209Z
-DTSTART:20260619T095500Z
-DESCRIPTION:Pray Time - Isha for Jayapura
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260622-jayapura@salat-sync
 SUMMARY:Pray Time - Fajr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260621T191900Z
 DESCRIPTION:Pray Time - Fajr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260622-jayapura@salat-sync
 SUMMARY:Pray Time - Dhuhr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260622T024300Z
 DESCRIPTION:Pray Time - Dhuhr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260622-jayapura@salat-sync
 SUMMARY:Pray Time - Asr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260622T060600Z
 DESCRIPTION:Pray Time - Asr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260622-jayapura@salat-sync
 SUMMARY:Pray Time - Maghrib (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260622T084200Z
 DESCRIPTION:Pray Time - Maghrib for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260622-jayapura@salat-sync
 SUMMARY:Pray Time - Isha (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260622T095600Z
 DESCRIPTION:Pray Time - Isha for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260623-jayapura@salat-sync
 SUMMARY:Pray Time - Fajr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260622T191900Z
 DESCRIPTION:Pray Time - Fajr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260623-jayapura@salat-sync
 SUMMARY:Pray Time - Dhuhr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260623T024300Z
 DESCRIPTION:Pray Time - Dhuhr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260623-jayapura@salat-sync
 SUMMARY:Pray Time - Asr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260623T060600Z
 DESCRIPTION:Pray Time - Asr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260623-jayapura@salat-sync
 SUMMARY:Pray Time - Maghrib (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260623T084200Z
 DESCRIPTION:Pray Time - Maghrib for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260623-jayapura@salat-sync
 SUMMARY:Pray Time - Isha (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260623T095600Z
 DESCRIPTION:Pray Time - Isha for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260624-jayapura@salat-sync
 SUMMARY:Pray Time - Fajr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260623T191900Z
 DESCRIPTION:Pray Time - Fajr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260624-jayapura@salat-sync
 SUMMARY:Pray Time - Dhuhr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260624T024300Z
 DESCRIPTION:Pray Time - Dhuhr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260624-jayapura@salat-sync
 SUMMARY:Pray Time - Asr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260624T060700Z
 DESCRIPTION:Pray Time - Asr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260624-jayapura@salat-sync
 SUMMARY:Pray Time - Maghrib (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260624T084200Z
 DESCRIPTION:Pray Time - Maghrib for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260624-jayapura@salat-sync
 SUMMARY:Pray Time - Isha (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260624T095600Z
 DESCRIPTION:Pray Time - Isha for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260625-jayapura@salat-sync
 SUMMARY:Pray Time - Fajr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260624T191900Z
 DESCRIPTION:Pray Time - Fajr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260625-jayapura@salat-sync
 SUMMARY:Pray Time - Dhuhr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260625T024300Z
 DESCRIPTION:Pray Time - Dhuhr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260625-jayapura@salat-sync
 SUMMARY:Pray Time - Asr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260625T060700Z
 DESCRIPTION:Pray Time - Asr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260625-jayapura@salat-sync
 SUMMARY:Pray Time - Maghrib (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260625T084200Z
 DESCRIPTION:Pray Time - Maghrib for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260625-jayapura@salat-sync
 SUMMARY:Pray Time - Isha (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260625T095600Z
 DESCRIPTION:Pray Time - Isha for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260626-jayapura@salat-sync
 SUMMARY:Pray Time - Fajr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260625T192000Z
 DESCRIPTION:Pray Time - Fajr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260626-jayapura@salat-sync
 SUMMARY:Pray Time - Dhuhr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260626T024400Z
 DESCRIPTION:Pray Time - Dhuhr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260626-jayapura@salat-sync
 SUMMARY:Pray Time - Asr (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260626T060700Z
 DESCRIPTION:Pray Time - Asr for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260626-jayapura@salat-sync
 SUMMARY:Pray Time - Maghrib (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260626T084300Z
 DESCRIPTION:Pray Time - Maghrib for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260626-jayapura@salat-sync
 SUMMARY:Pray Time - Isha (Jayapura)
-DTSTAMP:20260615T040209Z
+DTSTAMP:20260622T035943Z
 DTSTART:20260626T095700Z
+DESCRIPTION:Pray Time - Isha for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260629-jayapura@salat-sync
+SUMMARY:Pray Time - Fajr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260628T192000Z
+DESCRIPTION:Pray Time - Fajr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260629-jayapura@salat-sync
+SUMMARY:Pray Time - Dhuhr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260629T024400Z
+DESCRIPTION:Pray Time - Dhuhr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260629-jayapura@salat-sync
+SUMMARY:Pray Time - Asr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260629T060800Z
+DESCRIPTION:Pray Time - Asr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260629-jayapura@salat-sync
+SUMMARY:Pray Time - Maghrib (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260629T084300Z
+DESCRIPTION:Pray Time - Maghrib for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260629-jayapura@salat-sync
+SUMMARY:Pray Time - Isha (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260629T095700Z
+DESCRIPTION:Pray Time - Isha for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260630-jayapura@salat-sync
+SUMMARY:Pray Time - Fajr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260629T192000Z
+DESCRIPTION:Pray Time - Fajr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260630-jayapura@salat-sync
+SUMMARY:Pray Time - Dhuhr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260630T024400Z
+DESCRIPTION:Pray Time - Dhuhr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260630-jayapura@salat-sync
+SUMMARY:Pray Time - Asr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260630T060800Z
+DESCRIPTION:Pray Time - Asr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260630-jayapura@salat-sync
+SUMMARY:Pray Time - Maghrib (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260630T084300Z
+DESCRIPTION:Pray Time - Maghrib for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260630-jayapura@salat-sync
+SUMMARY:Pray Time - Isha (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260630T095700Z
+DESCRIPTION:Pray Time - Isha for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260701-jayapura@salat-sync
+SUMMARY:Pray Time - Fajr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260630T192100Z
+DESCRIPTION:Pray Time - Fajr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260701-jayapura@salat-sync
+SUMMARY:Pray Time - Dhuhr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260701T024500Z
+DESCRIPTION:Pray Time - Dhuhr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260701-jayapura@salat-sync
+SUMMARY:Pray Time - Asr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260701T060800Z
+DESCRIPTION:Pray Time - Asr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260701-jayapura@salat-sync
+SUMMARY:Pray Time - Maghrib (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260701T084400Z
+DESCRIPTION:Pray Time - Maghrib for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260701-jayapura@salat-sync
+SUMMARY:Pray Time - Isha (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260701T095800Z
+DESCRIPTION:Pray Time - Isha for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260702-jayapura@salat-sync
+SUMMARY:Pray Time - Fajr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260701T192100Z
+DESCRIPTION:Pray Time - Fajr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260702-jayapura@salat-sync
+SUMMARY:Pray Time - Dhuhr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260702T024500Z
+DESCRIPTION:Pray Time - Dhuhr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260702-jayapura@salat-sync
+SUMMARY:Pray Time - Asr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260702T060800Z
+DESCRIPTION:Pray Time - Asr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260702-jayapura@salat-sync
+SUMMARY:Pray Time - Maghrib (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260702T084400Z
+DESCRIPTION:Pray Time - Maghrib for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260702-jayapura@salat-sync
+SUMMARY:Pray Time - Isha (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260702T095800Z
+DESCRIPTION:Pray Time - Isha for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260703-jayapura@salat-sync
+SUMMARY:Pray Time - Fajr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260702T192100Z
+DESCRIPTION:Pray Time - Fajr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260703-jayapura@salat-sync
+SUMMARY:Pray Time - Dhuhr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260703T024500Z
+DESCRIPTION:Pray Time - Dhuhr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260703-jayapura@salat-sync
+SUMMARY:Pray Time - Asr (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260703T060800Z
+DESCRIPTION:Pray Time - Asr for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260703-jayapura@salat-sync
+SUMMARY:Pray Time - Maghrib (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260703T084400Z
+DESCRIPTION:Pray Time - Maghrib for Jayapura
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260703-jayapura@salat-sync
+SUMMARY:Pray Time - Isha (Jayapura)
+DTSTAMP:20260622T035943Z
+DTSTART:20260703T095800Z
 DESCRIPTION:Pray Time - Isha for Jayapura
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
