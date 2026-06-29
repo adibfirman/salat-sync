@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Denpasar
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260622-denpasar@salat-sync
-SUMMARY:Pray Time - Fajr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260621T211100Z
-DESCRIPTION:Pray Time - Fajr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260622-denpasar@salat-sync
-SUMMARY:Pray Time - Dhuhr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260622T042500Z
-DESCRIPTION:Pray Time - Dhuhr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260622-denpasar@salat-sync
-SUMMARY:Pray Time - Asr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260622T074400Z
-DESCRIPTION:Pray Time - Asr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260622-denpasar@salat-sync
-SUMMARY:Pray Time - Maghrib (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260622T101300Z
-DESCRIPTION:Pray Time - Maghrib for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260622-denpasar@salat-sync
-SUMMARY:Pray Time - Isha (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260622T112700Z
-DESCRIPTION:Pray Time - Isha for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260623-denpasar@salat-sync
-SUMMARY:Pray Time - Fajr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260622T211100Z
-DESCRIPTION:Pray Time - Fajr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260623-denpasar@salat-sync
-SUMMARY:Pray Time - Dhuhr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260623T042500Z
-DESCRIPTION:Pray Time - Dhuhr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260623-denpasar@salat-sync
-SUMMARY:Pray Time - Asr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260623T074400Z
-DESCRIPTION:Pray Time - Asr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260623-denpasar@salat-sync
-SUMMARY:Pray Time - Maghrib (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260623T101300Z
-DESCRIPTION:Pray Time - Maghrib for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260623-denpasar@salat-sync
-SUMMARY:Pray Time - Isha (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260623T112800Z
-DESCRIPTION:Pray Time - Isha for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260624-denpasar@salat-sync
-SUMMARY:Pray Time - Fajr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260623T211100Z
-DESCRIPTION:Pray Time - Fajr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260624-denpasar@salat-sync
-SUMMARY:Pray Time - Dhuhr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260624T042500Z
-DESCRIPTION:Pray Time - Dhuhr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260624-denpasar@salat-sync
-SUMMARY:Pray Time - Asr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260624T074400Z
-DESCRIPTION:Pray Time - Asr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260624-denpasar@salat-sync
-SUMMARY:Pray Time - Maghrib (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260624T101300Z
-DESCRIPTION:Pray Time - Maghrib for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260624-denpasar@salat-sync
-SUMMARY:Pray Time - Isha (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260624T112800Z
-DESCRIPTION:Pray Time - Isha for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260625-denpasar@salat-sync
-SUMMARY:Pray Time - Fajr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260624T211200Z
-DESCRIPTION:Pray Time - Fajr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260625-denpasar@salat-sync
-SUMMARY:Pray Time - Dhuhr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260625T042500Z
-DESCRIPTION:Pray Time - Dhuhr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260625-denpasar@salat-sync
-SUMMARY:Pray Time - Asr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260625T074400Z
-DESCRIPTION:Pray Time - Asr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260625-denpasar@salat-sync
-SUMMARY:Pray Time - Maghrib (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260625T101400Z
-DESCRIPTION:Pray Time - Maghrib for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260625-denpasar@salat-sync
-SUMMARY:Pray Time - Isha (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260625T112800Z
-DESCRIPTION:Pray Time - Isha for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260626-denpasar@salat-sync
-SUMMARY:Pray Time - Fajr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260625T211200Z
-DESCRIPTION:Pray Time - Fajr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260626-denpasar@salat-sync
-SUMMARY:Pray Time - Dhuhr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260626T042500Z
-DESCRIPTION:Pray Time - Dhuhr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260626-denpasar@salat-sync
-SUMMARY:Pray Time - Asr (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260626T074400Z
-DESCRIPTION:Pray Time - Asr for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260626-denpasar@salat-sync
-SUMMARY:Pray Time - Maghrib (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260626T101400Z
-DESCRIPTION:Pray Time - Maghrib for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260626-denpasar@salat-sync
-SUMMARY:Pray Time - Isha (Denpasar)
-DTSTAMP:20260622T035908Z
-DTSTART:20260626T112800Z
-DESCRIPTION:Pray Time - Isha for Denpasar
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260629-denpasar@salat-sync
 SUMMARY:Pray Time - Fajr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260628T211300Z
 DESCRIPTION:Pray Time - Fajr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260629-denpasar@salat-sync
 SUMMARY:Pray Time - Dhuhr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260629T042600Z
 DESCRIPTION:Pray Time - Dhuhr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260629-denpasar@salat-sync
 SUMMARY:Pray Time - Asr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260629T074500Z
 DESCRIPTION:Pray Time - Asr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260629-denpasar@salat-sync
 SUMMARY:Pray Time - Maghrib (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260629T101500Z
 DESCRIPTION:Pray Time - Maghrib for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260629-denpasar@salat-sync
 SUMMARY:Pray Time - Isha (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260629T112900Z
 DESCRIPTION:Pray Time - Isha for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260630-denpasar@salat-sync
 SUMMARY:Pray Time - Fajr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260629T211300Z
 DESCRIPTION:Pray Time - Fajr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260630-denpasar@salat-sync
 SUMMARY:Pray Time - Dhuhr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260630T042600Z
 DESCRIPTION:Pray Time - Dhuhr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260630-denpasar@salat-sync
 SUMMARY:Pray Time - Asr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260630T074500Z
 DESCRIPTION:Pray Time - Asr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260630-denpasar@salat-sync
 SUMMARY:Pray Time - Maghrib (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260630T101500Z
 DESCRIPTION:Pray Time - Maghrib for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260630-denpasar@salat-sync
 SUMMARY:Pray Time - Isha (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260630T112900Z
 DESCRIPTION:Pray Time - Isha for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260701-denpasar@salat-sync
 SUMMARY:Pray Time - Fajr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260630T211300Z
 DESCRIPTION:Pray Time - Fajr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260701-denpasar@salat-sync
 SUMMARY:Pray Time - Dhuhr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260701T042600Z
 DESCRIPTION:Pray Time - Dhuhr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260701-denpasar@salat-sync
 SUMMARY:Pray Time - Asr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260701T074600Z
 DESCRIPTION:Pray Time - Asr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260701-denpasar@salat-sync
 SUMMARY:Pray Time - Maghrib (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260701T101500Z
 DESCRIPTION:Pray Time - Maghrib for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260701-denpasar@salat-sync
 SUMMARY:Pray Time - Isha (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260701T112900Z
 DESCRIPTION:Pray Time - Isha for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260702-denpasar@salat-sync
 SUMMARY:Pray Time - Fajr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260701T211300Z
 DESCRIPTION:Pray Time - Fajr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260702-denpasar@salat-sync
 SUMMARY:Pray Time - Dhuhr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260702T042700Z
 DESCRIPTION:Pray Time - Dhuhr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260702-denpasar@salat-sync
 SUMMARY:Pray Time - Asr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260702T074600Z
 DESCRIPTION:Pray Time - Asr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260702-denpasar@salat-sync
 SUMMARY:Pray Time - Maghrib (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260702T101500Z
 DESCRIPTION:Pray Time - Maghrib for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260702-denpasar@salat-sync
 SUMMARY:Pray Time - Isha (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260702T113000Z
 DESCRIPTION:Pray Time - Isha for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260703-denpasar@salat-sync
 SUMMARY:Pray Time - Fajr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260702T211300Z
 DESCRIPTION:Pray Time - Fajr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260703-denpasar@salat-sync
 SUMMARY:Pray Time - Dhuhr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260703T042700Z
 DESCRIPTION:Pray Time - Dhuhr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260703-denpasar@salat-sync
 SUMMARY:Pray Time - Asr (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260703T074600Z
 DESCRIPTION:Pray Time - Asr for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260703-denpasar@salat-sync
 SUMMARY:Pray Time - Maghrib (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260703T101600Z
 DESCRIPTION:Pray Time - Maghrib for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260703-denpasar@salat-sync
 SUMMARY:Pray Time - Isha (Denpasar)
-DTSTAMP:20260622T035908Z
+DTSTAMP:20260629T033931Z
 DTSTART:20260703T113000Z
+DESCRIPTION:Pray Time - Isha for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260706-denpasar@salat-sync
+SUMMARY:Pray Time - Fajr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260705T211400Z
+DESCRIPTION:Pray Time - Fajr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260706-denpasar@salat-sync
+SUMMARY:Pray Time - Dhuhr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260706T042700Z
+DESCRIPTION:Pray Time - Dhuhr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260706-denpasar@salat-sync
+SUMMARY:Pray Time - Asr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260706T074700Z
+DESCRIPTION:Pray Time - Asr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260706-denpasar@salat-sync
+SUMMARY:Pray Time - Maghrib (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260706T101600Z
+DESCRIPTION:Pray Time - Maghrib for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260706-denpasar@salat-sync
+SUMMARY:Pray Time - Isha (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260706T113000Z
+DESCRIPTION:Pray Time - Isha for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260707-denpasar@salat-sync
+SUMMARY:Pray Time - Fajr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260706T211400Z
+DESCRIPTION:Pray Time - Fajr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260707-denpasar@salat-sync
+SUMMARY:Pray Time - Dhuhr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260707T042800Z
+DESCRIPTION:Pray Time - Dhuhr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260707-denpasar@salat-sync
+SUMMARY:Pray Time - Asr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260707T074700Z
+DESCRIPTION:Pray Time - Asr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260707-denpasar@salat-sync
+SUMMARY:Pray Time - Maghrib (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260707T101600Z
+DESCRIPTION:Pray Time - Maghrib for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260707-denpasar@salat-sync
+SUMMARY:Pray Time - Isha (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260707T113000Z
+DESCRIPTION:Pray Time - Isha for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260708-denpasar@salat-sync
+SUMMARY:Pray Time - Fajr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260707T211400Z
+DESCRIPTION:Pray Time - Fajr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260708-denpasar@salat-sync
+SUMMARY:Pray Time - Dhuhr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260708T042800Z
+DESCRIPTION:Pray Time - Dhuhr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260708-denpasar@salat-sync
+SUMMARY:Pray Time - Asr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260708T074700Z
+DESCRIPTION:Pray Time - Asr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260708-denpasar@salat-sync
+SUMMARY:Pray Time - Maghrib (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260708T101700Z
+DESCRIPTION:Pray Time - Maghrib for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260708-denpasar@salat-sync
+SUMMARY:Pray Time - Isha (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260708T113100Z
+DESCRIPTION:Pray Time - Isha for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260709-denpasar@salat-sync
+SUMMARY:Pray Time - Fajr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260708T211400Z
+DESCRIPTION:Pray Time - Fajr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260709-denpasar@salat-sync
+SUMMARY:Pray Time - Dhuhr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260709T042800Z
+DESCRIPTION:Pray Time - Dhuhr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260709-denpasar@salat-sync
+SUMMARY:Pray Time - Asr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260709T074700Z
+DESCRIPTION:Pray Time - Asr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260709-denpasar@salat-sync
+SUMMARY:Pray Time - Maghrib (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260709T101700Z
+DESCRIPTION:Pray Time - Maghrib for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260709-denpasar@salat-sync
+SUMMARY:Pray Time - Isha (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260709T113100Z
+DESCRIPTION:Pray Time - Isha for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260710-denpasar@salat-sync
+SUMMARY:Pray Time - Fajr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260709T211400Z
+DESCRIPTION:Pray Time - Fajr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260710-denpasar@salat-sync
+SUMMARY:Pray Time - Dhuhr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260710T042800Z
+DESCRIPTION:Pray Time - Dhuhr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260710-denpasar@salat-sync
+SUMMARY:Pray Time - Asr (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260710T074700Z
+DESCRIPTION:Pray Time - Asr for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260710-denpasar@salat-sync
+SUMMARY:Pray Time - Maghrib (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260710T101700Z
+DESCRIPTION:Pray Time - Maghrib for Denpasar
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260710-denpasar@salat-sync
+SUMMARY:Pray Time - Isha (Denpasar)
+DTSTAMP:20260629T033931Z
+DTSTART:20260710T113100Z
 DESCRIPTION:Pray Time - Isha for Denpasar
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
