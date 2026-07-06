@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Manado
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260629-manado@salat-sync
-SUMMARY:Pray Time - Fajr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260628T201600Z
-DESCRIPTION:Pray Time - Fajr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260629-manado@salat-sync
-SUMMARY:Pray Time - Dhuhr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260629T034800Z
-DESCRIPTION:Pray Time - Dhuhr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260629-manado@salat-sync
-SUMMARY:Pray Time - Asr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260629T071300Z
-DESCRIPTION:Pray Time - Asr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260629-manado@salat-sync
-SUMMARY:Pray Time - Maghrib (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260629T095400Z
-DESCRIPTION:Pray Time - Maghrib for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260629-manado@salat-sync
-SUMMARY:Pray Time - Isha (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260629T110800Z
-DESCRIPTION:Pray Time - Isha for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260630-manado@salat-sync
-SUMMARY:Pray Time - Fajr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260629T201700Z
-DESCRIPTION:Pray Time - Fajr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260630-manado@salat-sync
-SUMMARY:Pray Time - Dhuhr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260630T034800Z
-DESCRIPTION:Pray Time - Dhuhr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260630-manado@salat-sync
-SUMMARY:Pray Time - Asr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260630T071300Z
-DESCRIPTION:Pray Time - Asr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260630-manado@salat-sync
-SUMMARY:Pray Time - Maghrib (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260630T095400Z
-DESCRIPTION:Pray Time - Maghrib for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260630-manado@salat-sync
-SUMMARY:Pray Time - Isha (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260630T110800Z
-DESCRIPTION:Pray Time - Isha for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260701-manado@salat-sync
-SUMMARY:Pray Time - Fajr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260630T201700Z
-DESCRIPTION:Pray Time - Fajr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260701-manado@salat-sync
-SUMMARY:Pray Time - Dhuhr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260701T034800Z
-DESCRIPTION:Pray Time - Dhuhr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260701-manado@salat-sync
-SUMMARY:Pray Time - Asr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260701T071300Z
-DESCRIPTION:Pray Time - Asr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260701-manado@salat-sync
-SUMMARY:Pray Time - Maghrib (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260701T095400Z
-DESCRIPTION:Pray Time - Maghrib for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260701-manado@salat-sync
-SUMMARY:Pray Time - Isha (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260701T110800Z
-DESCRIPTION:Pray Time - Isha for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260702-manado@salat-sync
-SUMMARY:Pray Time - Fajr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260701T201700Z
-DESCRIPTION:Pray Time - Fajr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260702-manado@salat-sync
-SUMMARY:Pray Time - Dhuhr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260702T034800Z
-DESCRIPTION:Pray Time - Dhuhr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260702-manado@salat-sync
-SUMMARY:Pray Time - Asr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260702T071300Z
-DESCRIPTION:Pray Time - Asr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260702-manado@salat-sync
-SUMMARY:Pray Time - Maghrib (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260702T095400Z
-DESCRIPTION:Pray Time - Maghrib for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260702-manado@salat-sync
-SUMMARY:Pray Time - Isha (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260702T110800Z
-DESCRIPTION:Pray Time - Isha for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260703-manado@salat-sync
-SUMMARY:Pray Time - Fajr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260702T201700Z
-DESCRIPTION:Pray Time - Fajr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260703-manado@salat-sync
-SUMMARY:Pray Time - Dhuhr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260703T034800Z
-DESCRIPTION:Pray Time - Dhuhr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260703-manado@salat-sync
-SUMMARY:Pray Time - Asr (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260703T071300Z
-DESCRIPTION:Pray Time - Asr for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260703-manado@salat-sync
-SUMMARY:Pray Time - Maghrib (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260703T095400Z
-DESCRIPTION:Pray Time - Maghrib for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260703-manado@salat-sync
-SUMMARY:Pray Time - Isha (Manado)
-DTSTAMP:20260629T033941Z
-DTSTART:20260703T110900Z
-DESCRIPTION:Pray Time - Isha for Manado
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260706-manado@salat-sync
 SUMMARY:Pray Time - Fajr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260705T201800Z
 DESCRIPTION:Pray Time - Fajr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260706-manado@salat-sync
 SUMMARY:Pray Time - Dhuhr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260706T034900Z
 DESCRIPTION:Pray Time - Dhuhr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260706-manado@salat-sync
 SUMMARY:Pray Time - Asr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260706T071400Z
 DESCRIPTION:Pray Time - Asr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260706-manado@salat-sync
 SUMMARY:Pray Time - Maghrib (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260706T095500Z
 DESCRIPTION:Pray Time - Maghrib for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260706-manado@salat-sync
 SUMMARY:Pray Time - Isha (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260706T110900Z
 DESCRIPTION:Pray Time - Isha for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260707-manado@salat-sync
 SUMMARY:Pray Time - Fajr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260706T201800Z
 DESCRIPTION:Pray Time - Fajr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260707-manado@salat-sync
 SUMMARY:Pray Time - Dhuhr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260707T034900Z
 DESCRIPTION:Pray Time - Dhuhr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260707-manado@salat-sync
 SUMMARY:Pray Time - Asr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260707T071400Z
 DESCRIPTION:Pray Time - Asr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260707-manado@salat-sync
 SUMMARY:Pray Time - Maghrib (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260707T095500Z
 DESCRIPTION:Pray Time - Maghrib for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260707-manado@salat-sync
 SUMMARY:Pray Time - Isha (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260707T110900Z
 DESCRIPTION:Pray Time - Isha for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260708-manado@salat-sync
 SUMMARY:Pray Time - Fajr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260707T201900Z
 DESCRIPTION:Pray Time - Fajr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260708-manado@salat-sync
 SUMMARY:Pray Time - Dhuhr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260708T034900Z
 DESCRIPTION:Pray Time - Dhuhr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260708-manado@salat-sync
 SUMMARY:Pray Time - Asr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260708T071400Z
 DESCRIPTION:Pray Time - Asr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260708-manado@salat-sync
 SUMMARY:Pray Time - Maghrib (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260708T095500Z
 DESCRIPTION:Pray Time - Maghrib for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260708-manado@salat-sync
 SUMMARY:Pray Time - Isha (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260708T110900Z
 DESCRIPTION:Pray Time - Isha for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260709-manado@salat-sync
 SUMMARY:Pray Time - Fajr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260708T201900Z
 DESCRIPTION:Pray Time - Fajr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260709-manado@salat-sync
 SUMMARY:Pray Time - Dhuhr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260709T034900Z
 DESCRIPTION:Pray Time - Dhuhr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260709-manado@salat-sync
 SUMMARY:Pray Time - Asr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260709T071400Z
 DESCRIPTION:Pray Time - Asr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260709-manado@salat-sync
 SUMMARY:Pray Time - Maghrib (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260709T095500Z
 DESCRIPTION:Pray Time - Maghrib for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260709-manado@salat-sync
 SUMMARY:Pray Time - Isha (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260709T110900Z
 DESCRIPTION:Pray Time - Isha for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260710-manado@salat-sync
 SUMMARY:Pray Time - Fajr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260709T201900Z
 DESCRIPTION:Pray Time - Fajr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260710-manado@salat-sync
 SUMMARY:Pray Time - Dhuhr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260710T034900Z
 DESCRIPTION:Pray Time - Dhuhr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260710-manado@salat-sync
 SUMMARY:Pray Time - Asr (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260710T071400Z
 DESCRIPTION:Pray Time - Asr for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260710-manado@salat-sync
 SUMMARY:Pray Time - Maghrib (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260710T095500Z
 DESCRIPTION:Pray Time - Maghrib for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260710-manado@salat-sync
 SUMMARY:Pray Time - Isha (Manado)
-DTSTAMP:20260629T033941Z
+DTSTAMP:20260706T025706Z
 DTSTART:20260710T110900Z
+DESCRIPTION:Pray Time - Isha for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260713-manado@salat-sync
+SUMMARY:Pray Time - Fajr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260712T202000Z
+DESCRIPTION:Pray Time - Fajr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260713-manado@salat-sync
+SUMMARY:Pray Time - Dhuhr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260713T035000Z
+DESCRIPTION:Pray Time - Dhuhr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260713-manado@salat-sync
+SUMMARY:Pray Time - Asr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260713T071400Z
+DESCRIPTION:Pray Time - Asr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260713-manado@salat-sync
+SUMMARY:Pray Time - Maghrib (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260713T095600Z
+DESCRIPTION:Pray Time - Maghrib for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260713-manado@salat-sync
+SUMMARY:Pray Time - Isha (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260713T110900Z
+DESCRIPTION:Pray Time - Isha for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260714-manado@salat-sync
+SUMMARY:Pray Time - Fajr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260713T202000Z
+DESCRIPTION:Pray Time - Fajr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260714-manado@salat-sync
+SUMMARY:Pray Time - Dhuhr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260714T035000Z
+DESCRIPTION:Pray Time - Dhuhr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260714-manado@salat-sync
+SUMMARY:Pray Time - Asr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260714T071400Z
+DESCRIPTION:Pray Time - Asr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260714-manado@salat-sync
+SUMMARY:Pray Time - Maghrib (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260714T095600Z
+DESCRIPTION:Pray Time - Maghrib for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260714-manado@salat-sync
+SUMMARY:Pray Time - Isha (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260714T110900Z
+DESCRIPTION:Pray Time - Isha for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260715-manado@salat-sync
+SUMMARY:Pray Time - Fajr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260714T202000Z
+DESCRIPTION:Pray Time - Fajr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260715-manado@salat-sync
+SUMMARY:Pray Time - Dhuhr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260715T035000Z
+DESCRIPTION:Pray Time - Dhuhr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260715-manado@salat-sync
+SUMMARY:Pray Time - Asr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260715T071400Z
+DESCRIPTION:Pray Time - Asr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260715-manado@salat-sync
+SUMMARY:Pray Time - Maghrib (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260715T095600Z
+DESCRIPTION:Pray Time - Maghrib for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260715-manado@salat-sync
+SUMMARY:Pray Time - Isha (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260715T110900Z
+DESCRIPTION:Pray Time - Isha for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260716-manado@salat-sync
+SUMMARY:Pray Time - Fajr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260715T202000Z
+DESCRIPTION:Pray Time - Fajr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260716-manado@salat-sync
+SUMMARY:Pray Time - Dhuhr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260716T035000Z
+DESCRIPTION:Pray Time - Dhuhr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260716-manado@salat-sync
+SUMMARY:Pray Time - Asr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260716T071400Z
+DESCRIPTION:Pray Time - Asr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260716-manado@salat-sync
+SUMMARY:Pray Time - Maghrib (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260716T095600Z
+DESCRIPTION:Pray Time - Maghrib for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260716-manado@salat-sync
+SUMMARY:Pray Time - Isha (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260716T110900Z
+DESCRIPTION:Pray Time - Isha for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260717-manado@salat-sync
+SUMMARY:Pray Time - Fajr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260716T202100Z
+DESCRIPTION:Pray Time - Fajr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260717-manado@salat-sync
+SUMMARY:Pray Time - Dhuhr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260717T035000Z
+DESCRIPTION:Pray Time - Dhuhr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260717-manado@salat-sync
+SUMMARY:Pray Time - Asr (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260717T071400Z
+DESCRIPTION:Pray Time - Asr for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260717-manado@salat-sync
+SUMMARY:Pray Time - Maghrib (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260717T095600Z
+DESCRIPTION:Pray Time - Maghrib for Manado
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260717-manado@salat-sync
+SUMMARY:Pray Time - Isha (Manado)
+DTSTAMP:20260706T025706Z
+DTSTART:20260717T110900Z
 DESCRIPTION:Pray Time - Isha for Manado
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED

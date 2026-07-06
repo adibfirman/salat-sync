@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Kupang
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260629-kupang@salat-sync
-SUMMARY:Pray Time - Fajr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260628T204100Z
-DESCRIPTION:Pray Time - Fajr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260629-kupang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260629T035300Z
-DESCRIPTION:Pray Time - Dhuhr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260629-kupang@salat-sync
-SUMMARY:Pray Time - Asr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260629T071000Z
-DESCRIPTION:Pray Time - Asr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260629-kupang@salat-sync
-SUMMARY:Pray Time - Maghrib (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260629T093800Z
-DESCRIPTION:Pray Time - Maghrib for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260629-kupang@salat-sync
-SUMMARY:Pray Time - Isha (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260629T105300Z
-DESCRIPTION:Pray Time - Isha for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260630-kupang@salat-sync
-SUMMARY:Pray Time - Fajr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260629T204200Z
-DESCRIPTION:Pray Time - Fajr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260630-kupang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260630T035300Z
-DESCRIPTION:Pray Time - Dhuhr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260630-kupang@salat-sync
-SUMMARY:Pray Time - Asr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260630T071000Z
-DESCRIPTION:Pray Time - Asr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260630-kupang@salat-sync
-SUMMARY:Pray Time - Maghrib (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260630T093900Z
-DESCRIPTION:Pray Time - Maghrib for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260630-kupang@salat-sync
-SUMMARY:Pray Time - Isha (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260630T105300Z
-DESCRIPTION:Pray Time - Isha for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260701-kupang@salat-sync
-SUMMARY:Pray Time - Fajr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260630T204200Z
-DESCRIPTION:Pray Time - Fajr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260701-kupang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260701T035300Z
-DESCRIPTION:Pray Time - Dhuhr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260701-kupang@salat-sync
-SUMMARY:Pray Time - Asr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260701T071100Z
-DESCRIPTION:Pray Time - Asr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260701-kupang@salat-sync
-SUMMARY:Pray Time - Maghrib (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260701T093900Z
-DESCRIPTION:Pray Time - Maghrib for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260701-kupang@salat-sync
-SUMMARY:Pray Time - Isha (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260701T105300Z
-DESCRIPTION:Pray Time - Isha for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260702-kupang@salat-sync
-SUMMARY:Pray Time - Fajr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260701T204200Z
-DESCRIPTION:Pray Time - Fajr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260702-kupang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260702T035300Z
-DESCRIPTION:Pray Time - Dhuhr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260702-kupang@salat-sync
-SUMMARY:Pray Time - Asr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260702T071100Z
-DESCRIPTION:Pray Time - Asr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260702-kupang@salat-sync
-SUMMARY:Pray Time - Maghrib (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260702T093900Z
-DESCRIPTION:Pray Time - Maghrib for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260702-kupang@salat-sync
-SUMMARY:Pray Time - Isha (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260702T105400Z
-DESCRIPTION:Pray Time - Isha for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260703-kupang@salat-sync
-SUMMARY:Pray Time - Fajr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260702T204200Z
-DESCRIPTION:Pray Time - Fajr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260703-kupang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260703T035300Z
-DESCRIPTION:Pray Time - Dhuhr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260703-kupang@salat-sync
-SUMMARY:Pray Time - Asr (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260703T071100Z
-DESCRIPTION:Pray Time - Asr for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260703-kupang@salat-sync
-SUMMARY:Pray Time - Maghrib (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260703T093900Z
-DESCRIPTION:Pray Time - Maghrib for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260703-kupang@salat-sync
-SUMMARY:Pray Time - Isha (Kupang)
-DTSTAMP:20260629T034001Z
-DTSTART:20260703T105400Z
-DESCRIPTION:Pray Time - Isha for Kupang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260706-kupang@salat-sync
 SUMMARY:Pray Time - Fajr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260705T204300Z
 DESCRIPTION:Pray Time - Fajr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260706-kupang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260706T035400Z
 DESCRIPTION:Pray Time - Dhuhr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260706-kupang@salat-sync
 SUMMARY:Pray Time - Asr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260706T071200Z
 DESCRIPTION:Pray Time - Asr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260706-kupang@salat-sync
 SUMMARY:Pray Time - Maghrib (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260706T094000Z
 DESCRIPTION:Pray Time - Maghrib for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260706-kupang@salat-sync
 SUMMARY:Pray Time - Isha (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260706T105500Z
 DESCRIPTION:Pray Time - Isha for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260707-kupang@salat-sync
 SUMMARY:Pray Time - Fajr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260706T204300Z
 DESCRIPTION:Pray Time - Fajr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260707-kupang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260707T035400Z
 DESCRIPTION:Pray Time - Dhuhr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260707-kupang@salat-sync
 SUMMARY:Pray Time - Asr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260707T071200Z
 DESCRIPTION:Pray Time - Asr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260707-kupang@salat-sync
 SUMMARY:Pray Time - Maghrib (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260707T094000Z
 DESCRIPTION:Pray Time - Maghrib for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260707-kupang@salat-sync
 SUMMARY:Pray Time - Isha (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260707T105500Z
 DESCRIPTION:Pray Time - Isha for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260708-kupang@salat-sync
 SUMMARY:Pray Time - Fajr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260707T204300Z
 DESCRIPTION:Pray Time - Fajr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260708-kupang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260708T035400Z
 DESCRIPTION:Pray Time - Dhuhr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260708-kupang@salat-sync
 SUMMARY:Pray Time - Asr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260708T071200Z
 DESCRIPTION:Pray Time - Asr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260708-kupang@salat-sync
 SUMMARY:Pray Time - Maghrib (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260708T094100Z
 DESCRIPTION:Pray Time - Maghrib for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260708-kupang@salat-sync
 SUMMARY:Pray Time - Isha (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260708T105500Z
 DESCRIPTION:Pray Time - Isha for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260709-kupang@salat-sync
 SUMMARY:Pray Time - Fajr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260708T204300Z
 DESCRIPTION:Pray Time - Fajr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260709-kupang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260709T035400Z
 DESCRIPTION:Pray Time - Dhuhr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260709-kupang@salat-sync
 SUMMARY:Pray Time - Asr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260709T071200Z
 DESCRIPTION:Pray Time - Asr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260709-kupang@salat-sync
 SUMMARY:Pray Time - Maghrib (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260709T094100Z
 DESCRIPTION:Pray Time - Maghrib for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260709-kupang@salat-sync
 SUMMARY:Pray Time - Isha (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260709T105500Z
 DESCRIPTION:Pray Time - Isha for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260710-kupang@salat-sync
 SUMMARY:Pray Time - Fajr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260709T204300Z
 DESCRIPTION:Pray Time - Fajr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260710-kupang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260710T035500Z
 DESCRIPTION:Pray Time - Dhuhr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260710-kupang@salat-sync
 SUMMARY:Pray Time - Asr (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260710T071300Z
 DESCRIPTION:Pray Time - Asr for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260710-kupang@salat-sync
 SUMMARY:Pray Time - Maghrib (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260710T094100Z
 DESCRIPTION:Pray Time - Maghrib for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260710-kupang@salat-sync
 SUMMARY:Pray Time - Isha (Kupang)
-DTSTAMP:20260629T034001Z
+DTSTAMP:20260706T025724Z
 DTSTART:20260710T105500Z
+DESCRIPTION:Pray Time - Isha for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260713-kupang@salat-sync
+SUMMARY:Pray Time - Fajr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260712T204300Z
+DESCRIPTION:Pray Time - Fajr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260713-kupang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260713T035500Z
+DESCRIPTION:Pray Time - Dhuhr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260713-kupang@salat-sync
+SUMMARY:Pray Time - Asr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260713T071300Z
+DESCRIPTION:Pray Time - Asr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260713-kupang@salat-sync
+SUMMARY:Pray Time - Maghrib (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260713T094200Z
+DESCRIPTION:Pray Time - Maghrib for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260713-kupang@salat-sync
+SUMMARY:Pray Time - Isha (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260713T105600Z
+DESCRIPTION:Pray Time - Isha for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260714-kupang@salat-sync
+SUMMARY:Pray Time - Fajr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260713T204400Z
+DESCRIPTION:Pray Time - Fajr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260714-kupang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260714T035500Z
+DESCRIPTION:Pray Time - Dhuhr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260714-kupang@salat-sync
+SUMMARY:Pray Time - Asr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260714T071300Z
+DESCRIPTION:Pray Time - Asr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260714-kupang@salat-sync
+SUMMARY:Pray Time - Maghrib (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260714T094200Z
+DESCRIPTION:Pray Time - Maghrib for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260714-kupang@salat-sync
+SUMMARY:Pray Time - Isha (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260714T105600Z
+DESCRIPTION:Pray Time - Isha for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260715-kupang@salat-sync
+SUMMARY:Pray Time - Fajr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260714T204400Z
+DESCRIPTION:Pray Time - Fajr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260715-kupang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260715T035500Z
+DESCRIPTION:Pray Time - Dhuhr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260715-kupang@salat-sync
+SUMMARY:Pray Time - Asr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260715T071400Z
+DESCRIPTION:Pray Time - Asr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260715-kupang@salat-sync
+SUMMARY:Pray Time - Maghrib (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260715T094200Z
+DESCRIPTION:Pray Time - Maghrib for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260715-kupang@salat-sync
+SUMMARY:Pray Time - Isha (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260715T105600Z
+DESCRIPTION:Pray Time - Isha for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260716-kupang@salat-sync
+SUMMARY:Pray Time - Fajr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260715T204400Z
+DESCRIPTION:Pray Time - Fajr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260716-kupang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260716T035500Z
+DESCRIPTION:Pray Time - Dhuhr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260716-kupang@salat-sync
+SUMMARY:Pray Time - Asr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260716T071400Z
+DESCRIPTION:Pray Time - Asr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260716-kupang@salat-sync
+SUMMARY:Pray Time - Maghrib (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260716T094300Z
+DESCRIPTION:Pray Time - Maghrib for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260716-kupang@salat-sync
+SUMMARY:Pray Time - Isha (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260716T105600Z
+DESCRIPTION:Pray Time - Isha for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260717-kupang@salat-sync
+SUMMARY:Pray Time - Fajr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260716T204400Z
+DESCRIPTION:Pray Time - Fajr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260717-kupang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260717T035500Z
+DESCRIPTION:Pray Time - Dhuhr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260717-kupang@salat-sync
+SUMMARY:Pray Time - Asr (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260717T071400Z
+DESCRIPTION:Pray Time - Asr for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260717-kupang@salat-sync
+SUMMARY:Pray Time - Maghrib (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260717T094300Z
+DESCRIPTION:Pray Time - Maghrib for Kupang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260717-kupang@salat-sync
+SUMMARY:Pray Time - Isha (Kupang)
+DTSTAMP:20260706T025724Z
+DTSTART:20260717T105600Z
 DESCRIPTION:Pray Time - Isha for Kupang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
