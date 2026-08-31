@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Surabaya
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260824-surabaya@salat-sync
-SUMMARY:Pray Time - Fajr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260823T211800Z
-DESCRIPTION:Pray Time - Fajr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260824-surabaya@salat-sync
-SUMMARY:Pray Time - Dhuhr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260824T043500Z
-DESCRIPTION:Pray Time - Dhuhr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260824-surabaya@salat-sync
-SUMMARY:Pray Time - Asr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260824T075500Z
-DESCRIPTION:Pray Time - Asr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260824-surabaya@salat-sync
-SUMMARY:Pray Time - Maghrib (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260824T103200Z
-DESCRIPTION:Pray Time - Maghrib for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260824-surabaya@salat-sync
-SUMMARY:Pray Time - Isha (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260824T114200Z
-DESCRIPTION:Pray Time - Isha for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260825-surabaya@salat-sync
-SUMMARY:Pray Time - Fajr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260824T211800Z
-DESCRIPTION:Pray Time - Fajr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260825-surabaya@salat-sync
-SUMMARY:Pray Time - Dhuhr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260825T043500Z
-DESCRIPTION:Pray Time - Dhuhr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260825-surabaya@salat-sync
-SUMMARY:Pray Time - Asr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260825T075400Z
-DESCRIPTION:Pray Time - Asr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260825-surabaya@salat-sync
-SUMMARY:Pray Time - Maghrib (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260825T103200Z
-DESCRIPTION:Pray Time - Maghrib for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260825-surabaya@salat-sync
-SUMMARY:Pray Time - Isha (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260825T114200Z
-DESCRIPTION:Pray Time - Isha for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260826-surabaya@salat-sync
-SUMMARY:Pray Time - Fajr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260825T211700Z
-DESCRIPTION:Pray Time - Fajr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260826-surabaya@salat-sync
-SUMMARY:Pray Time - Dhuhr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260826T043500Z
-DESCRIPTION:Pray Time - Dhuhr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260826-surabaya@salat-sync
-SUMMARY:Pray Time - Asr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260826T075400Z
-DESCRIPTION:Pray Time - Asr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260826-surabaya@salat-sync
-SUMMARY:Pray Time - Maghrib (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260826T103200Z
-DESCRIPTION:Pray Time - Maghrib for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260826-surabaya@salat-sync
-SUMMARY:Pray Time - Isha (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260826T114200Z
-DESCRIPTION:Pray Time - Isha for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260827-surabaya@salat-sync
-SUMMARY:Pray Time - Fajr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260826T211700Z
-DESCRIPTION:Pray Time - Fajr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260827-surabaya@salat-sync
-SUMMARY:Pray Time - Dhuhr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260827T043400Z
-DESCRIPTION:Pray Time - Dhuhr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260827-surabaya@salat-sync
-SUMMARY:Pray Time - Asr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260827T075300Z
-DESCRIPTION:Pray Time - Asr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260827-surabaya@salat-sync
-SUMMARY:Pray Time - Maghrib (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260827T103200Z
-DESCRIPTION:Pray Time - Maghrib for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260827-surabaya@salat-sync
-SUMMARY:Pray Time - Isha (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260827T114200Z
-DESCRIPTION:Pray Time - Isha for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260828-surabaya@salat-sync
-SUMMARY:Pray Time - Fajr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260827T211700Z
-DESCRIPTION:Pray Time - Fajr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260828-surabaya@salat-sync
-SUMMARY:Pray Time - Dhuhr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260828T043400Z
-DESCRIPTION:Pray Time - Dhuhr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260828-surabaya@salat-sync
-SUMMARY:Pray Time - Asr (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260828T075300Z
-DESCRIPTION:Pray Time - Asr for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260828-surabaya@salat-sync
-SUMMARY:Pray Time - Maghrib (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260828T103200Z
-DESCRIPTION:Pray Time - Maghrib for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260828-surabaya@salat-sync
-SUMMARY:Pray Time - Isha (Surabaya)
-DTSTAMP:20260824T010559Z
-DTSTART:20260828T114100Z
-DESCRIPTION:Pray Time - Isha for Surabaya
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260831-surabaya@salat-sync
 SUMMARY:Pray Time - Fajr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260830T211500Z
 DESCRIPTION:Pray Time - Fajr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260831-surabaya@salat-sync
 SUMMARY:Pray Time - Dhuhr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260831T043300Z
 DESCRIPTION:Pray Time - Dhuhr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260831-surabaya@salat-sync
 SUMMARY:Pray Time - Asr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260831T075100Z
 DESCRIPTION:Pray Time - Asr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260831-surabaya@salat-sync
 SUMMARY:Pray Time - Maghrib (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260831T103200Z
 DESCRIPTION:Pray Time - Maghrib for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260831-surabaya@salat-sync
 SUMMARY:Pray Time - Isha (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260831T114100Z
 DESCRIPTION:Pray Time - Isha for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260901-surabaya@salat-sync
 SUMMARY:Pray Time - Fajr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260831T211500Z
 DESCRIPTION:Pray Time - Fajr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260901-surabaya@salat-sync
 SUMMARY:Pray Time - Dhuhr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260901T043300Z
 DESCRIPTION:Pray Time - Dhuhr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260901-surabaya@salat-sync
 SUMMARY:Pray Time - Asr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260901T075100Z
 DESCRIPTION:Pray Time - Asr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260901-surabaya@salat-sync
 SUMMARY:Pray Time - Maghrib (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260901T103100Z
 DESCRIPTION:Pray Time - Maghrib for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260901-surabaya@salat-sync
 SUMMARY:Pray Time - Isha (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260901T114100Z
 DESCRIPTION:Pray Time - Isha for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260902-surabaya@salat-sync
 SUMMARY:Pray Time - Fajr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260901T211400Z
 DESCRIPTION:Pray Time - Fajr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260902-surabaya@salat-sync
 SUMMARY:Pray Time - Dhuhr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260902T043200Z
 DESCRIPTION:Pray Time - Dhuhr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260902-surabaya@salat-sync
 SUMMARY:Pray Time - Asr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260902T075000Z
 DESCRIPTION:Pray Time - Asr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260902-surabaya@salat-sync
 SUMMARY:Pray Time - Maghrib (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260902T103100Z
 DESCRIPTION:Pray Time - Maghrib for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260902-surabaya@salat-sync
 SUMMARY:Pray Time - Isha (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260902T114000Z
 DESCRIPTION:Pray Time - Isha for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260903-surabaya@salat-sync
 SUMMARY:Pray Time - Fajr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260902T211400Z
 DESCRIPTION:Pray Time - Fajr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260903-surabaya@salat-sync
 SUMMARY:Pray Time - Dhuhr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260903T043200Z
 DESCRIPTION:Pray Time - Dhuhr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260903-surabaya@salat-sync
 SUMMARY:Pray Time - Asr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260903T075000Z
 DESCRIPTION:Pray Time - Asr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260903-surabaya@salat-sync
 SUMMARY:Pray Time - Maghrib (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260903T103100Z
 DESCRIPTION:Pray Time - Maghrib for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260903-surabaya@salat-sync
 SUMMARY:Pray Time - Isha (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260903T114000Z
 DESCRIPTION:Pray Time - Isha for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260904-surabaya@salat-sync
 SUMMARY:Pray Time - Fajr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260903T211400Z
 DESCRIPTION:Pray Time - Fajr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260904-surabaya@salat-sync
 SUMMARY:Pray Time - Dhuhr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260904T043200Z
 DESCRIPTION:Pray Time - Dhuhr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260904-surabaya@salat-sync
 SUMMARY:Pray Time - Asr (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260904T074900Z
 DESCRIPTION:Pray Time - Asr for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260904-surabaya@salat-sync
 SUMMARY:Pray Time - Maghrib (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260904T103100Z
 DESCRIPTION:Pray Time - Maghrib for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260904-surabaya@salat-sync
 SUMMARY:Pray Time - Isha (Surabaya)
-DTSTAMP:20260824T010559Z
+DTSTAMP:20260831T033057Z
 DTSTART:20260904T114000Z
+DESCRIPTION:Pray Time - Isha for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260907-surabaya@salat-sync
+SUMMARY:Pray Time - Fajr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260906T211200Z
+DESCRIPTION:Pray Time - Fajr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260907-surabaya@salat-sync
+SUMMARY:Pray Time - Dhuhr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260907T043100Z
+DESCRIPTION:Pray Time - Dhuhr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260907-surabaya@salat-sync
+SUMMARY:Pray Time - Asr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260907T074800Z
+DESCRIPTION:Pray Time - Asr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260907-surabaya@salat-sync
+SUMMARY:Pray Time - Maghrib (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260907T103100Z
+DESCRIPTION:Pray Time - Maghrib for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260907-surabaya@salat-sync
+SUMMARY:Pray Time - Isha (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260907T113900Z
+DESCRIPTION:Pray Time - Isha for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260908-surabaya@salat-sync
+SUMMARY:Pray Time - Fajr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260907T211200Z
+DESCRIPTION:Pray Time - Fajr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260908-surabaya@salat-sync
+SUMMARY:Pray Time - Dhuhr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260908T043000Z
+DESCRIPTION:Pray Time - Dhuhr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260908-surabaya@salat-sync
+SUMMARY:Pray Time - Asr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260908T074700Z
+DESCRIPTION:Pray Time - Asr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260908-surabaya@salat-sync
+SUMMARY:Pray Time - Maghrib (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260908T103000Z
+DESCRIPTION:Pray Time - Maghrib for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260908-surabaya@salat-sync
+SUMMARY:Pray Time - Isha (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260908T113900Z
+DESCRIPTION:Pray Time - Isha for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260909-surabaya@salat-sync
+SUMMARY:Pray Time - Fajr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260908T211100Z
+DESCRIPTION:Pray Time - Fajr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260909-surabaya@salat-sync
+SUMMARY:Pray Time - Dhuhr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260909T043000Z
+DESCRIPTION:Pray Time - Dhuhr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260909-surabaya@salat-sync
+SUMMARY:Pray Time - Asr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260909T074600Z
+DESCRIPTION:Pray Time - Asr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260909-surabaya@salat-sync
+SUMMARY:Pray Time - Maghrib (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260909T103000Z
+DESCRIPTION:Pray Time - Maghrib for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260909-surabaya@salat-sync
+SUMMARY:Pray Time - Isha (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260909T113900Z
+DESCRIPTION:Pray Time - Isha for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260910-surabaya@salat-sync
+SUMMARY:Pray Time - Fajr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260909T211100Z
+DESCRIPTION:Pray Time - Fajr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260910-surabaya@salat-sync
+SUMMARY:Pray Time - Dhuhr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260910T043000Z
+DESCRIPTION:Pray Time - Dhuhr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260910-surabaya@salat-sync
+SUMMARY:Pray Time - Asr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260910T074600Z
+DESCRIPTION:Pray Time - Asr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260910-surabaya@salat-sync
+SUMMARY:Pray Time - Maghrib (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260910T103000Z
+DESCRIPTION:Pray Time - Maghrib for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260910-surabaya@salat-sync
+SUMMARY:Pray Time - Isha (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260910T113900Z
+DESCRIPTION:Pray Time - Isha for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260911-surabaya@salat-sync
+SUMMARY:Pray Time - Fajr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260910T211000Z
+DESCRIPTION:Pray Time - Fajr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260911-surabaya@salat-sync
+SUMMARY:Pray Time - Dhuhr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260911T042900Z
+DESCRIPTION:Pray Time - Dhuhr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260911-surabaya@salat-sync
+SUMMARY:Pray Time - Asr (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260911T074500Z
+DESCRIPTION:Pray Time - Asr for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260911-surabaya@salat-sync
+SUMMARY:Pray Time - Maghrib (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260911T103000Z
+DESCRIPTION:Pray Time - Maghrib for Surabaya
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260911-surabaya@salat-sync
+SUMMARY:Pray Time - Isha (Surabaya)
+DTSTAMP:20260831T033057Z
+DTSTART:20260911T113900Z
 DESCRIPTION:Pray Time - Isha for Surabaya
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
