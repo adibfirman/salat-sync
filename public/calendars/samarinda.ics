@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Samarinda
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260831-samarinda@salat-sync
-SUMMARY:Pray Time - Fajr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260830T205400Z
-DESCRIPTION:Pray Time - Fajr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260831-samarinda@salat-sync
-SUMMARY:Pray Time - Dhuhr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260831T041500Z
-DESCRIPTION:Pray Time - Dhuhr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260831-samarinda@salat-sync
-SUMMARY:Pray Time - Asr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260831T072900Z
-DESCRIPTION:Pray Time - Asr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260831-samarinda@salat-sync
-SUMMARY:Pray Time - Maghrib (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260831T101800Z
-DESCRIPTION:Pray Time - Maghrib for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260831-samarinda@salat-sync
-SUMMARY:Pray Time - Isha (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260831T112700Z
-DESCRIPTION:Pray Time - Isha for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260901-samarinda@salat-sync
-SUMMARY:Pray Time - Fajr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260831T205400Z
-DESCRIPTION:Pray Time - Fajr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260901-samarinda@salat-sync
-SUMMARY:Pray Time - Dhuhr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260901T041500Z
-DESCRIPTION:Pray Time - Dhuhr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260901-samarinda@salat-sync
-SUMMARY:Pray Time - Asr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260901T072800Z
-DESCRIPTION:Pray Time - Asr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260901-samarinda@salat-sync
-SUMMARY:Pray Time - Maghrib (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260901T101800Z
-DESCRIPTION:Pray Time - Maghrib for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260901-samarinda@salat-sync
-SUMMARY:Pray Time - Isha (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260901T112600Z
-DESCRIPTION:Pray Time - Isha for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260902-samarinda@salat-sync
-SUMMARY:Pray Time - Fajr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260901T205300Z
-DESCRIPTION:Pray Time - Fajr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260902-samarinda@salat-sync
-SUMMARY:Pray Time - Dhuhr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260902T041500Z
-DESCRIPTION:Pray Time - Dhuhr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260902-samarinda@salat-sync
-SUMMARY:Pray Time - Asr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260902T072700Z
-DESCRIPTION:Pray Time - Asr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260902-samarinda@salat-sync
-SUMMARY:Pray Time - Maghrib (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260902T101700Z
-DESCRIPTION:Pray Time - Maghrib for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260902-samarinda@salat-sync
-SUMMARY:Pray Time - Isha (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260902T112600Z
-DESCRIPTION:Pray Time - Isha for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260903-samarinda@salat-sync
-SUMMARY:Pray Time - Fajr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260902T205300Z
-DESCRIPTION:Pray Time - Fajr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260903-samarinda@salat-sync
-SUMMARY:Pray Time - Dhuhr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260903T041400Z
-DESCRIPTION:Pray Time - Dhuhr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260903-samarinda@salat-sync
-SUMMARY:Pray Time - Asr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260903T072700Z
-DESCRIPTION:Pray Time - Asr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260903-samarinda@salat-sync
-SUMMARY:Pray Time - Maghrib (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260903T101700Z
-DESCRIPTION:Pray Time - Maghrib for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260903-samarinda@salat-sync
-SUMMARY:Pray Time - Isha (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260903T112600Z
-DESCRIPTION:Pray Time - Isha for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260904-samarinda@salat-sync
-SUMMARY:Pray Time - Fajr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260903T205300Z
-DESCRIPTION:Pray Time - Fajr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260904-samarinda@salat-sync
-SUMMARY:Pray Time - Dhuhr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260904T041400Z
-DESCRIPTION:Pray Time - Dhuhr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260904-samarinda@salat-sync
-SUMMARY:Pray Time - Asr (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260904T072600Z
-DESCRIPTION:Pray Time - Asr for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260904-samarinda@salat-sync
-SUMMARY:Pray Time - Maghrib (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260904T101700Z
-DESCRIPTION:Pray Time - Maghrib for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260904-samarinda@salat-sync
-SUMMARY:Pray Time - Isha (Samarinda)
-DTSTAMP:20260831T033213Z
-DTSTART:20260904T112500Z
-DESCRIPTION:Pray Time - Isha for Samarinda
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260907-samarinda@salat-sync
 SUMMARY:Pray Time - Fajr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260906T205200Z
 DESCRIPTION:Pray Time - Fajr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260907-samarinda@salat-sync
 SUMMARY:Pray Time - Dhuhr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260907T041300Z
 DESCRIPTION:Pray Time - Dhuhr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260907-samarinda@salat-sync
 SUMMARY:Pray Time - Asr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260907T072300Z
 DESCRIPTION:Pray Time - Asr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260907-samarinda@salat-sync
 SUMMARY:Pray Time - Maghrib (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260907T101600Z
 DESCRIPTION:Pray Time - Maghrib for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260907-samarinda@salat-sync
 SUMMARY:Pray Time - Isha (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260907T112400Z
 DESCRIPTION:Pray Time - Isha for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260908-samarinda@salat-sync
 SUMMARY:Pray Time - Fajr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260907T205200Z
 DESCRIPTION:Pray Time - Fajr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260908-samarinda@salat-sync
 SUMMARY:Pray Time - Dhuhr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260908T041300Z
 DESCRIPTION:Pray Time - Dhuhr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260908-samarinda@salat-sync
 SUMMARY:Pray Time - Asr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260908T072200Z
 DESCRIPTION:Pray Time - Asr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260908-samarinda@salat-sync
 SUMMARY:Pray Time - Maghrib (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260908T101600Z
 DESCRIPTION:Pray Time - Maghrib for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260908-samarinda@salat-sync
 SUMMARY:Pray Time - Isha (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260908T112400Z
 DESCRIPTION:Pray Time - Isha for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260909-samarinda@salat-sync
 SUMMARY:Pray Time - Fajr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260908T205100Z
 DESCRIPTION:Pray Time - Fajr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260909-samarinda@salat-sync
 SUMMARY:Pray Time - Dhuhr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260909T041200Z
 DESCRIPTION:Pray Time - Dhuhr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260909-samarinda@salat-sync
 SUMMARY:Pray Time - Asr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260909T072200Z
 DESCRIPTION:Pray Time - Asr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260909-samarinda@salat-sync
 SUMMARY:Pray Time - Maghrib (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260909T101500Z
 DESCRIPTION:Pray Time - Maghrib for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260909-samarinda@salat-sync
 SUMMARY:Pray Time - Isha (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260909T112300Z
 DESCRIPTION:Pray Time - Isha for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260910-samarinda@salat-sync
 SUMMARY:Pray Time - Fajr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260909T205100Z
 DESCRIPTION:Pray Time - Fajr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260910-samarinda@salat-sync
 SUMMARY:Pray Time - Dhuhr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260910T041200Z
 DESCRIPTION:Pray Time - Dhuhr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260910-samarinda@salat-sync
 SUMMARY:Pray Time - Asr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260910T072100Z
 DESCRIPTION:Pray Time - Asr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260910-samarinda@salat-sync
 SUMMARY:Pray Time - Maghrib (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260910T101500Z
 DESCRIPTION:Pray Time - Maghrib for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260910-samarinda@salat-sync
 SUMMARY:Pray Time - Isha (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260910T112300Z
 DESCRIPTION:Pray Time - Isha for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260911-samarinda@salat-sync
 SUMMARY:Pray Time - Fajr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260910T205100Z
 DESCRIPTION:Pray Time - Fajr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260911-samarinda@salat-sync
 SUMMARY:Pray Time - Dhuhr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260911T041200Z
 DESCRIPTION:Pray Time - Dhuhr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260911-samarinda@salat-sync
 SUMMARY:Pray Time - Asr (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260911T072000Z
 DESCRIPTION:Pray Time - Asr for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260911-samarinda@salat-sync
 SUMMARY:Pray Time - Maghrib (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260911T101500Z
 DESCRIPTION:Pray Time - Maghrib for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260911-samarinda@salat-sync
 SUMMARY:Pray Time - Isha (Samarinda)
-DTSTAMP:20260831T033213Z
+DTSTAMP:20260907T025012Z
 DTSTART:20260911T112300Z
+DESCRIPTION:Pray Time - Isha for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260914-samarinda@salat-sync
+SUMMARY:Pray Time - Fajr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260913T205000Z
+DESCRIPTION:Pray Time - Fajr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260914-samarinda@salat-sync
+SUMMARY:Pray Time - Dhuhr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260914T041100Z
+DESCRIPTION:Pray Time - Dhuhr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260914-samarinda@salat-sync
+SUMMARY:Pray Time - Asr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260914T071700Z
+DESCRIPTION:Pray Time - Asr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260914-samarinda@salat-sync
+SUMMARY:Pray Time - Maghrib (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260914T101400Z
+DESCRIPTION:Pray Time - Maghrib for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260914-samarinda@salat-sync
+SUMMARY:Pray Time - Isha (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260914T112200Z
+DESCRIPTION:Pray Time - Isha for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260915-samarinda@salat-sync
+SUMMARY:Pray Time - Fajr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260914T204900Z
+DESCRIPTION:Pray Time - Fajr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260915-samarinda@salat-sync
+SUMMARY:Pray Time - Dhuhr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260915T041000Z
+DESCRIPTION:Pray Time - Dhuhr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260915-samarinda@salat-sync
+SUMMARY:Pray Time - Asr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260915T071600Z
+DESCRIPTION:Pray Time - Asr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260915-samarinda@salat-sync
+SUMMARY:Pray Time - Maghrib (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260915T101300Z
+DESCRIPTION:Pray Time - Maghrib for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260915-samarinda@salat-sync
+SUMMARY:Pray Time - Isha (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260915T112100Z
+DESCRIPTION:Pray Time - Isha for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260916-samarinda@salat-sync
+SUMMARY:Pray Time - Fajr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260915T204900Z
+DESCRIPTION:Pray Time - Fajr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260916-samarinda@salat-sync
+SUMMARY:Pray Time - Dhuhr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260916T041000Z
+DESCRIPTION:Pray Time - Dhuhr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260916-samarinda@salat-sync
+SUMMARY:Pray Time - Asr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260916T071500Z
+DESCRIPTION:Pray Time - Asr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260916-samarinda@salat-sync
+SUMMARY:Pray Time - Maghrib (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260916T101300Z
+DESCRIPTION:Pray Time - Maghrib for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260916-samarinda@salat-sync
+SUMMARY:Pray Time - Isha (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260916T112100Z
+DESCRIPTION:Pray Time - Isha for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260917-samarinda@salat-sync
+SUMMARY:Pray Time - Fajr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260916T204900Z
+DESCRIPTION:Pray Time - Fajr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260917-samarinda@salat-sync
+SUMMARY:Pray Time - Dhuhr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260917T041000Z
+DESCRIPTION:Pray Time - Dhuhr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260917-samarinda@salat-sync
+SUMMARY:Pray Time - Asr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260917T071400Z
+DESCRIPTION:Pray Time - Asr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260917-samarinda@salat-sync
+SUMMARY:Pray Time - Maghrib (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260917T101200Z
+DESCRIPTION:Pray Time - Maghrib for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260917-samarinda@salat-sync
+SUMMARY:Pray Time - Isha (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260917T112100Z
+DESCRIPTION:Pray Time - Isha for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260918-samarinda@salat-sync
+SUMMARY:Pray Time - Fajr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260917T204800Z
+DESCRIPTION:Pray Time - Fajr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260918-samarinda@salat-sync
+SUMMARY:Pray Time - Dhuhr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260918T040900Z
+DESCRIPTION:Pray Time - Dhuhr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260918-samarinda@salat-sync
+SUMMARY:Pray Time - Asr (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260918T071300Z
+DESCRIPTION:Pray Time - Asr for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260918-samarinda@salat-sync
+SUMMARY:Pray Time - Maghrib (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260918T101200Z
+DESCRIPTION:Pray Time - Maghrib for Samarinda
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260918-samarinda@salat-sync
+SUMMARY:Pray Time - Isha (Samarinda)
+DTSTAMP:20260907T025012Z
+DTSTART:20260918T112000Z
 DESCRIPTION:Pray Time - Isha for Samarinda
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
