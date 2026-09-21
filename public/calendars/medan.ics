@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Medan
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260914-medan@salat-sync
-SUMMARY:Pray Time - Fajr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260913T220200Z
-DESCRIPTION:Pray Time - Fajr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260914-medan@salat-sync
-SUMMARY:Pray Time - Dhuhr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260914T052400Z
-DESCRIPTION:Pray Time - Dhuhr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260914-medan@salat-sync
-SUMMARY:Pray Time - Asr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260914T082400Z
-DESCRIPTION:Pray Time - Asr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260914-medan@salat-sync
-SUMMARY:Pray Time - Maghrib (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260914T112800Z
-DESCRIPTION:Pray Time - Maghrib for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260914-medan@salat-sync
-SUMMARY:Pray Time - Isha (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260914T123600Z
-DESCRIPTION:Pray Time - Isha for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260915-medan@salat-sync
-SUMMARY:Pray Time - Fajr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260914T220200Z
-DESCRIPTION:Pray Time - Fajr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260915-medan@salat-sync
-SUMMARY:Pray Time - Dhuhr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260915T052400Z
-DESCRIPTION:Pray Time - Dhuhr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260915-medan@salat-sync
-SUMMARY:Pray Time - Asr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260915T082400Z
-DESCRIPTION:Pray Time - Asr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260915-medan@salat-sync
-SUMMARY:Pray Time - Maghrib (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260915T112800Z
-DESCRIPTION:Pray Time - Maghrib for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260915-medan@salat-sync
-SUMMARY:Pray Time - Isha (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260915T123600Z
-DESCRIPTION:Pray Time - Isha for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260916-medan@salat-sync
-SUMMARY:Pray Time - Fajr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260915T220200Z
-DESCRIPTION:Pray Time - Fajr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260916-medan@salat-sync
-SUMMARY:Pray Time - Dhuhr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260916T052400Z
-DESCRIPTION:Pray Time - Dhuhr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260916-medan@salat-sync
-SUMMARY:Pray Time - Asr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260916T082500Z
-DESCRIPTION:Pray Time - Asr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260916-medan@salat-sync
-SUMMARY:Pray Time - Maghrib (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260916T112700Z
-DESCRIPTION:Pray Time - Maghrib for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260916-medan@salat-sync
-SUMMARY:Pray Time - Isha (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260916T123500Z
-DESCRIPTION:Pray Time - Isha for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260917-medan@salat-sync
-SUMMARY:Pray Time - Fajr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260916T220200Z
-DESCRIPTION:Pray Time - Fajr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260917-medan@salat-sync
-SUMMARY:Pray Time - Dhuhr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260917T052300Z
-DESCRIPTION:Pray Time - Dhuhr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260917-medan@salat-sync
-SUMMARY:Pray Time - Asr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260917T082500Z
-DESCRIPTION:Pray Time - Asr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260917-medan@salat-sync
-SUMMARY:Pray Time - Maghrib (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260917T112700Z
-DESCRIPTION:Pray Time - Maghrib for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260917-medan@salat-sync
-SUMMARY:Pray Time - Isha (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260917T123500Z
-DESCRIPTION:Pray Time - Isha for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260918-medan@salat-sync
-SUMMARY:Pray Time - Fajr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260917T220100Z
-DESCRIPTION:Pray Time - Fajr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260918-medan@salat-sync
-SUMMARY:Pray Time - Dhuhr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260918T052300Z
-DESCRIPTION:Pray Time - Dhuhr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260918-medan@salat-sync
-SUMMARY:Pray Time - Asr (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260918T082500Z
-DESCRIPTION:Pray Time - Asr for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260918-medan@salat-sync
-SUMMARY:Pray Time - Maghrib (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260918T112600Z
-DESCRIPTION:Pray Time - Maghrib for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260918-medan@salat-sync
-SUMMARY:Pray Time - Isha (Medan)
-DTSTAMP:20260914T031752Z
-DTSTART:20260918T123500Z
-DESCRIPTION:Pray Time - Isha for Medan
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20260921-medan@salat-sync
 SUMMARY:Pray Time - Fajr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260920T220100Z
 DESCRIPTION:Pray Time - Fajr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260921-medan@salat-sync
 SUMMARY:Pray Time - Dhuhr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260921T052200Z
 DESCRIPTION:Pray Time - Dhuhr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260921-medan@salat-sync
 SUMMARY:Pray Time - Asr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260921T082600Z
 DESCRIPTION:Pray Time - Asr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260921-medan@salat-sync
 SUMMARY:Pray Time - Maghrib (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260921T112500Z
 DESCRIPTION:Pray Time - Maghrib for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260921-medan@salat-sync
 SUMMARY:Pray Time - Isha (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260921T123300Z
 DESCRIPTION:Pray Time - Isha for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260922-medan@salat-sync
 SUMMARY:Pray Time - Fajr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260921T220000Z
 DESCRIPTION:Pray Time - Fajr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260922-medan@salat-sync
 SUMMARY:Pray Time - Dhuhr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260922T052200Z
 DESCRIPTION:Pray Time - Dhuhr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260922-medan@salat-sync
 SUMMARY:Pray Time - Asr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260922T082600Z
 DESCRIPTION:Pray Time - Asr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260922-medan@salat-sync
 SUMMARY:Pray Time - Maghrib (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260922T112500Z
 DESCRIPTION:Pray Time - Maghrib for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260922-medan@salat-sync
 SUMMARY:Pray Time - Isha (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260922T123300Z
 DESCRIPTION:Pray Time - Isha for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260923-medan@salat-sync
 SUMMARY:Pray Time - Fajr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260922T220000Z
 DESCRIPTION:Pray Time - Fajr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260923-medan@salat-sync
 SUMMARY:Pray Time - Dhuhr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260923T052100Z
 DESCRIPTION:Pray Time - Dhuhr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260923-medan@salat-sync
 SUMMARY:Pray Time - Asr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260923T082700Z
 DESCRIPTION:Pray Time - Asr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260923-medan@salat-sync
 SUMMARY:Pray Time - Maghrib (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260923T112400Z
 DESCRIPTION:Pray Time - Maghrib for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260923-medan@salat-sync
 SUMMARY:Pray Time - Isha (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260923T123200Z
 DESCRIPTION:Pray Time - Isha for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260924-medan@salat-sync
 SUMMARY:Pray Time - Fajr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260923T220000Z
 DESCRIPTION:Pray Time - Fajr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260924-medan@salat-sync
 SUMMARY:Pray Time - Dhuhr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260924T052100Z
 DESCRIPTION:Pray Time - Dhuhr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260924-medan@salat-sync
 SUMMARY:Pray Time - Asr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260924T082700Z
 DESCRIPTION:Pray Time - Asr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260924-medan@salat-sync
 SUMMARY:Pray Time - Maghrib (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260924T112400Z
 DESCRIPTION:Pray Time - Maghrib for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260924-medan@salat-sync
 SUMMARY:Pray Time - Isha (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260924T123200Z
 DESCRIPTION:Pray Time - Isha for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20260925-medan@salat-sync
 SUMMARY:Pray Time - Fajr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260924T220000Z
 DESCRIPTION:Pray Time - Fajr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20260925-medan@salat-sync
 SUMMARY:Pray Time - Dhuhr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260925T052100Z
 DESCRIPTION:Pray Time - Dhuhr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20260925-medan@salat-sync
 SUMMARY:Pray Time - Asr (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260925T082700Z
 DESCRIPTION:Pray Time - Asr for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20260925-medan@salat-sync
 SUMMARY:Pray Time - Maghrib (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260925T112300Z
 DESCRIPTION:Pray Time - Maghrib for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20260925-medan@salat-sync
 SUMMARY:Pray Time - Isha (Medan)
-DTSTAMP:20260914T031752Z
+DTSTAMP:20260921T031457Z
 DTSTART:20260925T123100Z
+DESCRIPTION:Pray Time - Isha for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260928-medan@salat-sync
+SUMMARY:Pray Time - Fajr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260927T215900Z
+DESCRIPTION:Pray Time - Fajr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260928-medan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260928T051900Z
+DESCRIPTION:Pray Time - Dhuhr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260928-medan@salat-sync
+SUMMARY:Pray Time - Asr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260928T082800Z
+DESCRIPTION:Pray Time - Asr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260928-medan@salat-sync
+SUMMARY:Pray Time - Maghrib (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260928T112200Z
+DESCRIPTION:Pray Time - Maghrib for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260928-medan@salat-sync
+SUMMARY:Pray Time - Isha (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260928T123000Z
+DESCRIPTION:Pray Time - Isha for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260929-medan@salat-sync
+SUMMARY:Pray Time - Fajr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260928T215900Z
+DESCRIPTION:Pray Time - Fajr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260929-medan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260929T051900Z
+DESCRIPTION:Pray Time - Dhuhr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260929-medan@salat-sync
+SUMMARY:Pray Time - Asr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260929T082800Z
+DESCRIPTION:Pray Time - Asr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260929-medan@salat-sync
+SUMMARY:Pray Time - Maghrib (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260929T112100Z
+DESCRIPTION:Pray Time - Maghrib for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260929-medan@salat-sync
+SUMMARY:Pray Time - Isha (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260929T123000Z
+DESCRIPTION:Pray Time - Isha for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20260930-medan@salat-sync
+SUMMARY:Pray Time - Fajr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260929T215800Z
+DESCRIPTION:Pray Time - Fajr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20260930-medan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260930T051900Z
+DESCRIPTION:Pray Time - Dhuhr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20260930-medan@salat-sync
+SUMMARY:Pray Time - Asr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260930T082800Z
+DESCRIPTION:Pray Time - Asr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20260930-medan@salat-sync
+SUMMARY:Pray Time - Maghrib (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260930T112100Z
+DESCRIPTION:Pray Time - Maghrib for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20260930-medan@salat-sync
+SUMMARY:Pray Time - Isha (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260930T122900Z
+DESCRIPTION:Pray Time - Isha for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261001-medan@salat-sync
+SUMMARY:Pray Time - Fajr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20260930T215800Z
+DESCRIPTION:Pray Time - Fajr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261001-medan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20261001T051800Z
+DESCRIPTION:Pray Time - Dhuhr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261001-medan@salat-sync
+SUMMARY:Pray Time - Asr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20261001T082800Z
+DESCRIPTION:Pray Time - Asr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261001-medan@salat-sync
+SUMMARY:Pray Time - Maghrib (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20261001T112100Z
+DESCRIPTION:Pray Time - Maghrib for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261001-medan@salat-sync
+SUMMARY:Pray Time - Isha (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20261001T122900Z
+DESCRIPTION:Pray Time - Isha for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261002-medan@salat-sync
+SUMMARY:Pray Time - Fajr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20261001T215800Z
+DESCRIPTION:Pray Time - Fajr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261002-medan@salat-sync
+SUMMARY:Pray Time - Dhuhr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20261002T051800Z
+DESCRIPTION:Pray Time - Dhuhr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261002-medan@salat-sync
+SUMMARY:Pray Time - Asr (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20261002T082800Z
+DESCRIPTION:Pray Time - Asr for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261002-medan@salat-sync
+SUMMARY:Pray Time - Maghrib (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20261002T112000Z
+DESCRIPTION:Pray Time - Maghrib for Medan
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261002-medan@salat-sync
+SUMMARY:Pray Time - Isha (Medan)
+DTSTAMP:20260921T031457Z
+DTSTART:20261002T122800Z
 DESCRIPTION:Pray Time - Isha for Medan
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
