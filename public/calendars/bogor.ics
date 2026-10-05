@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Bogor
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260928-bogor@salat-sync
-SUMMARY:Pray Time - Fajr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260927T212500Z
-DESCRIPTION:Pray Time - Fajr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260928-bogor@salat-sync
-SUMMARY:Pray Time - Dhuhr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260928T044700Z
-DESCRIPTION:Pray Time - Dhuhr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260928-bogor@salat-sync
-SUMMARY:Pray Time - Asr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260928T075500Z
-DESCRIPTION:Pray Time - Asr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260928-bogor@salat-sync
-SUMMARY:Pray Time - Maghrib (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260928T105500Z
-DESCRIPTION:Pray Time - Maghrib for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260928-bogor@salat-sync
-SUMMARY:Pray Time - Isha (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260928T120000Z
-DESCRIPTION:Pray Time - Isha for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260929-bogor@salat-sync
-SUMMARY:Pray Time - Fajr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260928T212400Z
-DESCRIPTION:Pray Time - Fajr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260929-bogor@salat-sync
-SUMMARY:Pray Time - Dhuhr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260929T044700Z
-DESCRIPTION:Pray Time - Dhuhr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260929-bogor@salat-sync
-SUMMARY:Pray Time - Asr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260929T075400Z
-DESCRIPTION:Pray Time - Asr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260929-bogor@salat-sync
-SUMMARY:Pray Time - Maghrib (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260929T105500Z
-DESCRIPTION:Pray Time - Maghrib for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260929-bogor@salat-sync
-SUMMARY:Pray Time - Isha (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260929T120000Z
-DESCRIPTION:Pray Time - Isha for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260930-bogor@salat-sync
-SUMMARY:Pray Time - Fajr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260929T212400Z
-DESCRIPTION:Pray Time - Fajr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260930-bogor@salat-sync
-SUMMARY:Pray Time - Dhuhr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260930T044600Z
-DESCRIPTION:Pray Time - Dhuhr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260930-bogor@salat-sync
-SUMMARY:Pray Time - Asr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260930T075300Z
-DESCRIPTION:Pray Time - Asr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260930-bogor@salat-sync
-SUMMARY:Pray Time - Maghrib (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260930T105500Z
-DESCRIPTION:Pray Time - Maghrib for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260930-bogor@salat-sync
-SUMMARY:Pray Time - Isha (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260930T115900Z
-DESCRIPTION:Pray Time - Isha for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20261001-bogor@salat-sync
-SUMMARY:Pray Time - Fajr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20260930T212300Z
-DESCRIPTION:Pray Time - Fajr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20261001-bogor@salat-sync
-SUMMARY:Pray Time - Dhuhr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20261001T044600Z
-DESCRIPTION:Pray Time - Dhuhr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20261001-bogor@salat-sync
-SUMMARY:Pray Time - Asr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20261001T075200Z
-DESCRIPTION:Pray Time - Asr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20261001-bogor@salat-sync
-SUMMARY:Pray Time - Maghrib (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20261001T105500Z
-DESCRIPTION:Pray Time - Maghrib for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20261001-bogor@salat-sync
-SUMMARY:Pray Time - Isha (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20261001T115900Z
-DESCRIPTION:Pray Time - Isha for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20261002-bogor@salat-sync
-SUMMARY:Pray Time - Fajr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20261001T212300Z
-DESCRIPTION:Pray Time - Fajr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20261002-bogor@salat-sync
-SUMMARY:Pray Time - Dhuhr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20261002T044600Z
-DESCRIPTION:Pray Time - Dhuhr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20261002-bogor@salat-sync
-SUMMARY:Pray Time - Asr (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20261002T075100Z
-DESCRIPTION:Pray Time - Asr for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20261002-bogor@salat-sync
-SUMMARY:Pray Time - Maghrib (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20261002T105500Z
-DESCRIPTION:Pray Time - Maghrib for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20261002-bogor@salat-sync
-SUMMARY:Pray Time - Isha (Bogor)
-DTSTAMP:20260928T033352Z
-DTSTART:20261002T115900Z
-DESCRIPTION:Pray Time - Isha for Bogor
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20261005-bogor@salat-sync
 SUMMARY:Pray Time - Fajr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261004T212100Z
 DESCRIPTION:Pray Time - Fajr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261005-bogor@salat-sync
 SUMMARY:Pray Time - Dhuhr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261005T044500Z
 DESCRIPTION:Pray Time - Dhuhr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261005-bogor@salat-sync
 SUMMARY:Pray Time - Asr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261005T074900Z
 DESCRIPTION:Pray Time - Asr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261005-bogor@salat-sync
 SUMMARY:Pray Time - Maghrib (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261005T105400Z
 DESCRIPTION:Pray Time - Maghrib for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261005-bogor@salat-sync
 SUMMARY:Pray Time - Isha (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261005T115900Z
 DESCRIPTION:Pray Time - Isha for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20261006-bogor@salat-sync
 SUMMARY:Pray Time - Fajr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261005T212000Z
 DESCRIPTION:Pray Time - Fajr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261006-bogor@salat-sync
 SUMMARY:Pray Time - Dhuhr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261006T044500Z
 DESCRIPTION:Pray Time - Dhuhr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261006-bogor@salat-sync
 SUMMARY:Pray Time - Asr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261006T074800Z
 DESCRIPTION:Pray Time - Asr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261006-bogor@salat-sync
 SUMMARY:Pray Time - Maghrib (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261006T105400Z
 DESCRIPTION:Pray Time - Maghrib for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261006-bogor@salat-sync
 SUMMARY:Pray Time - Isha (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261006T115900Z
 DESCRIPTION:Pray Time - Isha for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20261007-bogor@salat-sync
 SUMMARY:Pray Time - Fajr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261006T212000Z
 DESCRIPTION:Pray Time - Fajr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261007-bogor@salat-sync
 SUMMARY:Pray Time - Dhuhr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261007T044400Z
 DESCRIPTION:Pray Time - Dhuhr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261007-bogor@salat-sync
 SUMMARY:Pray Time - Asr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261007T074700Z
 DESCRIPTION:Pray Time - Asr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261007-bogor@salat-sync
 SUMMARY:Pray Time - Maghrib (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261007T105400Z
 DESCRIPTION:Pray Time - Maghrib for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261007-bogor@salat-sync
 SUMMARY:Pray Time - Isha (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261007T115900Z
 DESCRIPTION:Pray Time - Isha for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20261008-bogor@salat-sync
 SUMMARY:Pray Time - Fajr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261007T211900Z
 DESCRIPTION:Pray Time - Fajr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261008-bogor@salat-sync
 SUMMARY:Pray Time - Dhuhr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261008T044400Z
 DESCRIPTION:Pray Time - Dhuhr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261008-bogor@salat-sync
 SUMMARY:Pray Time - Asr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261008T074600Z
 DESCRIPTION:Pray Time - Asr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261008-bogor@salat-sync
 SUMMARY:Pray Time - Maghrib (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261008T105400Z
 DESCRIPTION:Pray Time - Maghrib for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261008-bogor@salat-sync
 SUMMARY:Pray Time - Isha (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261008T115900Z
 DESCRIPTION:Pray Time - Isha for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20261009-bogor@salat-sync
 SUMMARY:Pray Time - Fajr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261008T211900Z
 DESCRIPTION:Pray Time - Fajr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261009-bogor@salat-sync
 SUMMARY:Pray Time - Dhuhr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261009T044400Z
 DESCRIPTION:Pray Time - Dhuhr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261009-bogor@salat-sync
 SUMMARY:Pray Time - Asr (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261009T074500Z
 DESCRIPTION:Pray Time - Asr for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261009-bogor@salat-sync
 SUMMARY:Pray Time - Maghrib (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261009T105400Z
 DESCRIPTION:Pray Time - Maghrib for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261009-bogor@salat-sync
 SUMMARY:Pray Time - Isha (Bogor)
-DTSTAMP:20260928T033352Z
+DTSTAMP:20261005T035906Z
 DTSTART:20261009T115900Z
+DESCRIPTION:Pray Time - Isha for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261012-bogor@salat-sync
+SUMMARY:Pray Time - Fajr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261011T211700Z
+DESCRIPTION:Pray Time - Fajr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261012-bogor@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261012T044300Z
+DESCRIPTION:Pray Time - Dhuhr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261012-bogor@salat-sync
+SUMMARY:Pray Time - Asr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261012T074500Z
+DESCRIPTION:Pray Time - Asr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261012-bogor@salat-sync
+SUMMARY:Pray Time - Maghrib (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261012T105400Z
+DESCRIPTION:Pray Time - Maghrib for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261012-bogor@salat-sync
+SUMMARY:Pray Time - Isha (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261012T115900Z
+DESCRIPTION:Pray Time - Isha for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261013-bogor@salat-sync
+SUMMARY:Pray Time - Fajr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261012T211700Z
+DESCRIPTION:Pray Time - Fajr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261013-bogor@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261013T044300Z
+DESCRIPTION:Pray Time - Dhuhr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261013-bogor@salat-sync
+SUMMARY:Pray Time - Asr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261013T074500Z
+DESCRIPTION:Pray Time - Asr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261013-bogor@salat-sync
+SUMMARY:Pray Time - Maghrib (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261013T105300Z
+DESCRIPTION:Pray Time - Maghrib for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261013-bogor@salat-sync
+SUMMARY:Pray Time - Isha (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261013T115900Z
+DESCRIPTION:Pray Time - Isha for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261014-bogor@salat-sync
+SUMMARY:Pray Time - Fajr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261013T211600Z
+DESCRIPTION:Pray Time - Fajr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261014-bogor@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261014T044200Z
+DESCRIPTION:Pray Time - Dhuhr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261014-bogor@salat-sync
+SUMMARY:Pray Time - Asr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261014T074600Z
+DESCRIPTION:Pray Time - Asr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261014-bogor@salat-sync
+SUMMARY:Pray Time - Maghrib (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261014T105300Z
+DESCRIPTION:Pray Time - Maghrib for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261014-bogor@salat-sync
+SUMMARY:Pray Time - Isha (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261014T115900Z
+DESCRIPTION:Pray Time - Isha for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261015-bogor@salat-sync
+SUMMARY:Pray Time - Fajr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261014T211600Z
+DESCRIPTION:Pray Time - Fajr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261015-bogor@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261015T044200Z
+DESCRIPTION:Pray Time - Dhuhr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261015-bogor@salat-sync
+SUMMARY:Pray Time - Asr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261015T074600Z
+DESCRIPTION:Pray Time - Asr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261015-bogor@salat-sync
+SUMMARY:Pray Time - Maghrib (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261015T105300Z
+DESCRIPTION:Pray Time - Maghrib for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261015-bogor@salat-sync
+SUMMARY:Pray Time - Isha (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261015T115900Z
+DESCRIPTION:Pray Time - Isha for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261016-bogor@salat-sync
+SUMMARY:Pray Time - Fajr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261015T211500Z
+DESCRIPTION:Pray Time - Fajr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261016-bogor@salat-sync
+SUMMARY:Pray Time - Dhuhr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261016T044200Z
+DESCRIPTION:Pray Time - Dhuhr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261016-bogor@salat-sync
+SUMMARY:Pray Time - Asr (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261016T074700Z
+DESCRIPTION:Pray Time - Asr for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261016-bogor@salat-sync
+SUMMARY:Pray Time - Maghrib (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261016T105300Z
+DESCRIPTION:Pray Time - Maghrib for Bogor
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261016-bogor@salat-sync
+SUMMARY:Pray Time - Isha (Bogor)
+DTSTAMP:20261005T035906Z
+DTSTART:20261016T115900Z
 DESCRIPTION:Pray Time - Isha for Bogor
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED

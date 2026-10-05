@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Palembang
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20260928-palembang@salat-sync
-SUMMARY:Pray Time - Fajr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260927T213400Z
-DESCRIPTION:Pray Time - Fajr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260928-palembang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260928T045500Z
-DESCRIPTION:Pray Time - Dhuhr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260928-palembang@salat-sync
-SUMMARY:Pray Time - Asr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260928T075600Z
-DESCRIPTION:Pray Time - Asr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260928-palembang@salat-sync
-SUMMARY:Pray Time - Maghrib (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260928T105900Z
-DESCRIPTION:Pray Time - Maghrib for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260928-palembang@salat-sync
-SUMMARY:Pray Time - Isha (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260928T120700Z
-DESCRIPTION:Pray Time - Isha for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260929-palembang@salat-sync
-SUMMARY:Pray Time - Fajr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260928T213300Z
-DESCRIPTION:Pray Time - Fajr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260929-palembang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260929T045500Z
-DESCRIPTION:Pray Time - Dhuhr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260929-palembang@salat-sync
-SUMMARY:Pray Time - Asr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260929T075500Z
-DESCRIPTION:Pray Time - Asr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260929-palembang@salat-sync
-SUMMARY:Pray Time - Maghrib (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260929T105800Z
-DESCRIPTION:Pray Time - Maghrib for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260929-palembang@salat-sync
-SUMMARY:Pray Time - Isha (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260929T120600Z
-DESCRIPTION:Pray Time - Isha for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20260930-palembang@salat-sync
-SUMMARY:Pray Time - Fajr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260929T213300Z
-DESCRIPTION:Pray Time - Fajr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20260930-palembang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260930T045500Z
-DESCRIPTION:Pray Time - Dhuhr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20260930-palembang@salat-sync
-SUMMARY:Pray Time - Asr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260930T075400Z
-DESCRIPTION:Pray Time - Asr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20260930-palembang@salat-sync
-SUMMARY:Pray Time - Maghrib (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260930T105800Z
-DESCRIPTION:Pray Time - Maghrib for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20260930-palembang@salat-sync
-SUMMARY:Pray Time - Isha (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260930T120600Z
-DESCRIPTION:Pray Time - Isha for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20261001-palembang@salat-sync
-SUMMARY:Pray Time - Fajr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20260930T213200Z
-DESCRIPTION:Pray Time - Fajr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20261001-palembang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20261001T045400Z
-DESCRIPTION:Pray Time - Dhuhr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20261001-palembang@salat-sync
-SUMMARY:Pray Time - Asr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20261001T075400Z
-DESCRIPTION:Pray Time - Asr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20261001-palembang@salat-sync
-SUMMARY:Pray Time - Maghrib (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20261001T105800Z
-DESCRIPTION:Pray Time - Maghrib for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20261001-palembang@salat-sync
-SUMMARY:Pray Time - Isha (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20261001T120600Z
-DESCRIPTION:Pray Time - Isha for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20261002-palembang@salat-sync
-SUMMARY:Pray Time - Fajr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20261001T213200Z
-DESCRIPTION:Pray Time - Fajr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20261002-palembang@salat-sync
-SUMMARY:Pray Time - Dhuhr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20261002T045400Z
-DESCRIPTION:Pray Time - Dhuhr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20261002-palembang@salat-sync
-SUMMARY:Pray Time - Asr (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20261002T075400Z
-DESCRIPTION:Pray Time - Asr for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20261002-palembang@salat-sync
-SUMMARY:Pray Time - Maghrib (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20261002T105800Z
-DESCRIPTION:Pray Time - Maghrib for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20261002-palembang@salat-sync
-SUMMARY:Pray Time - Isha (Palembang)
-DTSTAMP:20260928T033334Z
-DTSTART:20261002T120600Z
-DESCRIPTION:Pray Time - Isha for Palembang
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20261005-palembang@salat-sync
 SUMMARY:Pray Time - Fajr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261004T213100Z
 DESCRIPTION:Pray Time - Fajr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261005-palembang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261005T045300Z
 DESCRIPTION:Pray Time - Dhuhr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261005-palembang@salat-sync
 SUMMARY:Pray Time - Asr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261005T075600Z
 DESCRIPTION:Pray Time - Asr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261005-palembang@salat-sync
 SUMMARY:Pray Time - Maghrib (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261005T105700Z
 DESCRIPTION:Pray Time - Maghrib for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261005-palembang@salat-sync
 SUMMARY:Pray Time - Isha (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261005T120500Z
 DESCRIPTION:Pray Time - Isha for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20261006-palembang@salat-sync
 SUMMARY:Pray Time - Fajr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261005T213000Z
 DESCRIPTION:Pray Time - Fajr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261006-palembang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261006T045300Z
 DESCRIPTION:Pray Time - Dhuhr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261006-palembang@salat-sync
 SUMMARY:Pray Time - Asr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261006T075600Z
 DESCRIPTION:Pray Time - Asr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261006-palembang@salat-sync
 SUMMARY:Pray Time - Maghrib (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261006T105700Z
 DESCRIPTION:Pray Time - Maghrib for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261006-palembang@salat-sync
 SUMMARY:Pray Time - Isha (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261006T120500Z
 DESCRIPTION:Pray Time - Isha for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20261007-palembang@salat-sync
 SUMMARY:Pray Time - Fajr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261006T213000Z
 DESCRIPTION:Pray Time - Fajr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261007-palembang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261007T045200Z
 DESCRIPTION:Pray Time - Dhuhr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261007-palembang@salat-sync
 SUMMARY:Pray Time - Asr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261007T075600Z
 DESCRIPTION:Pray Time - Asr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261007-palembang@salat-sync
 SUMMARY:Pray Time - Maghrib (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261007T105600Z
 DESCRIPTION:Pray Time - Maghrib for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261007-palembang@salat-sync
 SUMMARY:Pray Time - Isha (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261007T120500Z
 DESCRIPTION:Pray Time - Isha for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20261008-palembang@salat-sync
 SUMMARY:Pray Time - Fajr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261007T212900Z
 DESCRIPTION:Pray Time - Fajr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261008-palembang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261008T045200Z
 DESCRIPTION:Pray Time - Dhuhr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261008-palembang@salat-sync
 SUMMARY:Pray Time - Asr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261008T075700Z
 DESCRIPTION:Pray Time - Asr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261008-palembang@salat-sync
 SUMMARY:Pray Time - Maghrib (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261008T105600Z
 DESCRIPTION:Pray Time - Maghrib for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261008-palembang@salat-sync
 SUMMARY:Pray Time - Isha (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261008T120500Z
 DESCRIPTION:Pray Time - Isha for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20261009-palembang@salat-sync
 SUMMARY:Pray Time - Fajr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261008T212900Z
 DESCRIPTION:Pray Time - Fajr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261009-palembang@salat-sync
 SUMMARY:Pray Time - Dhuhr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261009T045200Z
 DESCRIPTION:Pray Time - Dhuhr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261009-palembang@salat-sync
 SUMMARY:Pray Time - Asr (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261009T075700Z
 DESCRIPTION:Pray Time - Asr for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261009-palembang@salat-sync
 SUMMARY:Pray Time - Maghrib (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261009T105600Z
 DESCRIPTION:Pray Time - Maghrib for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261009-palembang@salat-sync
 SUMMARY:Pray Time - Isha (Palembang)
-DTSTAMP:20260928T033334Z
+DTSTAMP:20261005T035846Z
 DTSTART:20261009T120500Z
+DESCRIPTION:Pray Time - Isha for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261012-palembang@salat-sync
+SUMMARY:Pray Time - Fajr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261011T212800Z
+DESCRIPTION:Pray Time - Fajr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261012-palembang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261012T045100Z
+DESCRIPTION:Pray Time - Dhuhr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261012-palembang@salat-sync
+SUMMARY:Pray Time - Asr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261012T075800Z
+DESCRIPTION:Pray Time - Asr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261012-palembang@salat-sync
+SUMMARY:Pray Time - Maghrib (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261012T105600Z
+DESCRIPTION:Pray Time - Maghrib for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261012-palembang@salat-sync
+SUMMARY:Pray Time - Isha (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261012T120400Z
+DESCRIPTION:Pray Time - Isha for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261013-palembang@salat-sync
+SUMMARY:Pray Time - Fajr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261012T212700Z
+DESCRIPTION:Pray Time - Fajr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261013-palembang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261013T045100Z
+DESCRIPTION:Pray Time - Dhuhr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261013-palembang@salat-sync
+SUMMARY:Pray Time - Asr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261013T075900Z
+DESCRIPTION:Pray Time - Asr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261013-palembang@salat-sync
+SUMMARY:Pray Time - Maghrib (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261013T105500Z
+DESCRIPTION:Pray Time - Maghrib for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261013-palembang@salat-sync
+SUMMARY:Pray Time - Isha (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261013T120400Z
+DESCRIPTION:Pray Time - Isha for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261014-palembang@salat-sync
+SUMMARY:Pray Time - Fajr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261013T212700Z
+DESCRIPTION:Pray Time - Fajr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261014-palembang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261014T045100Z
+DESCRIPTION:Pray Time - Dhuhr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261014-palembang@salat-sync
+SUMMARY:Pray Time - Asr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261014T075900Z
+DESCRIPTION:Pray Time - Asr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261014-palembang@salat-sync
+SUMMARY:Pray Time - Maghrib (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261014T105500Z
+DESCRIPTION:Pray Time - Maghrib for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261014-palembang@salat-sync
+SUMMARY:Pray Time - Isha (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261014T120400Z
+DESCRIPTION:Pray Time - Isha for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261015-palembang@salat-sync
+SUMMARY:Pray Time - Fajr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261014T212600Z
+DESCRIPTION:Pray Time - Fajr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261015-palembang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261015T045000Z
+DESCRIPTION:Pray Time - Dhuhr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261015-palembang@salat-sync
+SUMMARY:Pray Time - Asr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261015T075900Z
+DESCRIPTION:Pray Time - Asr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261015-palembang@salat-sync
+SUMMARY:Pray Time - Maghrib (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261015T105500Z
+DESCRIPTION:Pray Time - Maghrib for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261015-palembang@salat-sync
+SUMMARY:Pray Time - Isha (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261015T120400Z
+DESCRIPTION:Pray Time - Isha for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261016-palembang@salat-sync
+SUMMARY:Pray Time - Fajr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261015T212600Z
+DESCRIPTION:Pray Time - Fajr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261016-palembang@salat-sync
+SUMMARY:Pray Time - Dhuhr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261016T045000Z
+DESCRIPTION:Pray Time - Dhuhr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261016-palembang@salat-sync
+SUMMARY:Pray Time - Asr (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261016T080000Z
+DESCRIPTION:Pray Time - Asr for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261016-palembang@salat-sync
+SUMMARY:Pray Time - Maghrib (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261016T105500Z
+DESCRIPTION:Pray Time - Maghrib for Palembang
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261016-palembang@salat-sync
+SUMMARY:Pray Time - Isha (Palembang)
+DTSTAMP:20261005T035846Z
+DTSTART:20261016T120400Z
 DESCRIPTION:Pray Time - Isha for Palembang
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
