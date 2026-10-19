@@ -6,309 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Pray Time - Depok
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fajr-20261012-depok@salat-sync
-SUMMARY:Pray Time - Fajr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261011T211700Z
-DESCRIPTION:Pray Time - Fajr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20261012-depok@salat-sync
-SUMMARY:Pray Time - Dhuhr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261012T044300Z
-DESCRIPTION:Pray Time - Dhuhr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20261012-depok@salat-sync
-SUMMARY:Pray Time - Asr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261012T074500Z
-DESCRIPTION:Pray Time - Asr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20261012-depok@salat-sync
-SUMMARY:Pray Time - Maghrib (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261012T104900Z
-DESCRIPTION:Pray Time - Maghrib for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20261012-depok@salat-sync
-SUMMARY:Pray Time - Isha (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261012T115900Z
-DESCRIPTION:Pray Time - Isha for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20261013-depok@salat-sync
-SUMMARY:Pray Time - Fajr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261012T211700Z
-DESCRIPTION:Pray Time - Fajr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20261013-depok@salat-sync
-SUMMARY:Pray Time - Dhuhr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261013T044300Z
-DESCRIPTION:Pray Time - Dhuhr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20261013-depok@salat-sync
-SUMMARY:Pray Time - Asr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261013T074600Z
-DESCRIPTION:Pray Time - Asr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20261013-depok@salat-sync
-SUMMARY:Pray Time - Maghrib (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261013T104900Z
-DESCRIPTION:Pray Time - Maghrib for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20261013-depok@salat-sync
-SUMMARY:Pray Time - Isha (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261013T115900Z
-DESCRIPTION:Pray Time - Isha for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20261014-depok@salat-sync
-SUMMARY:Pray Time - Fajr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261013T211600Z
-DESCRIPTION:Pray Time - Fajr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20261014-depok@salat-sync
-SUMMARY:Pray Time - Dhuhr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261014T044200Z
-DESCRIPTION:Pray Time - Dhuhr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20261014-depok@salat-sync
-SUMMARY:Pray Time - Asr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261014T074600Z
-DESCRIPTION:Pray Time - Asr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20261014-depok@salat-sync
-SUMMARY:Pray Time - Maghrib (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261014T104900Z
-DESCRIPTION:Pray Time - Maghrib for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20261014-depok@salat-sync
-SUMMARY:Pray Time - Isha (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261014T115900Z
-DESCRIPTION:Pray Time - Isha for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20261015-depok@salat-sync
-SUMMARY:Pray Time - Fajr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261014T211600Z
-DESCRIPTION:Pray Time - Fajr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20261015-depok@salat-sync
-SUMMARY:Pray Time - Dhuhr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261015T044200Z
-DESCRIPTION:Pray Time - Dhuhr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20261015-depok@salat-sync
-SUMMARY:Pray Time - Asr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261015T074700Z
-DESCRIPTION:Pray Time - Asr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20261015-depok@salat-sync
-SUMMARY:Pray Time - Maghrib (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261015T104900Z
-DESCRIPTION:Pray Time - Maghrib for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20261015-depok@salat-sync
-SUMMARY:Pray Time - Isha (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261015T115900Z
-DESCRIPTION:Pray Time - Isha for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:fajr-20261016-depok@salat-sync
-SUMMARY:Pray Time - Fajr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261015T211500Z
-DESCRIPTION:Pray Time - Fajr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:dhuhr-20261016-depok@salat-sync
-SUMMARY:Pray Time - Dhuhr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261016T044200Z
-DESCRIPTION:Pray Time - Dhuhr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:asr-20261016-depok@salat-sync
-SUMMARY:Pray Time - Asr (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261016T074700Z
-DESCRIPTION:Pray Time - Asr for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:maghrib-20261016-depok@salat-sync
-SUMMARY:Pray Time - Maghrib (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261016T104900Z
-DESCRIPTION:Pray Time - Maghrib for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
-UID:isha-20261016-depok@salat-sync
-SUMMARY:Pray Time - Isha (Depok)
-DTSTAMP:20261012T041527Z
-DTSTART:20261016T115900Z
-DESCRIPTION:Pray Time - Isha for Depok
-URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
-STATUS:CONFIRMED
-CATEGORIES:Prayer
-TRANSP:TRANSPARENT
-DURATION:PT30M
-END:VEVENT
-BEGIN:VEVENT
 UID:fajr-20261019-depok@salat-sync
 SUMMARY:Pray Time - Fajr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261018T211400Z
 DESCRIPTION:Pray Time - Fajr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -320,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261019-depok@salat-sync
 SUMMARY:Pray Time - Dhuhr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261019T044100Z
 DESCRIPTION:Pray Time - Dhuhr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -332,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261019-depok@salat-sync
 SUMMARY:Pray Time - Asr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261019T074900Z
 DESCRIPTION:Pray Time - Asr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -344,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261019-depok@salat-sync
 SUMMARY:Pray Time - Maghrib (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261019T104900Z
 DESCRIPTION:Pray Time - Maghrib for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -356,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261019-depok@salat-sync
 SUMMARY:Pray Time - Isha (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261019T115900Z
 DESCRIPTION:Pray Time - Isha for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -368,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20261020-depok@salat-sync
 SUMMARY:Pray Time - Fajr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261019T211300Z
 DESCRIPTION:Pray Time - Fajr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -380,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261020-depok@salat-sync
 SUMMARY:Pray Time - Dhuhr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261020T044100Z
 DESCRIPTION:Pray Time - Dhuhr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -392,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261020-depok@salat-sync
 SUMMARY:Pray Time - Asr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261020T074900Z
 DESCRIPTION:Pray Time - Asr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -404,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261020-depok@salat-sync
 SUMMARY:Pray Time - Maghrib (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261020T104900Z
 DESCRIPTION:Pray Time - Maghrib for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -416,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261020-depok@salat-sync
 SUMMARY:Pray Time - Isha (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261020T115900Z
 DESCRIPTION:Pray Time - Isha for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -428,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20261021-depok@salat-sync
 SUMMARY:Pray Time - Fajr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261020T211300Z
 DESCRIPTION:Pray Time - Fajr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -440,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261021-depok@salat-sync
 SUMMARY:Pray Time - Dhuhr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261021T044100Z
 DESCRIPTION:Pray Time - Dhuhr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -452,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261021-depok@salat-sync
 SUMMARY:Pray Time - Asr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261021T075000Z
 DESCRIPTION:Pray Time - Asr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -464,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261021-depok@salat-sync
 SUMMARY:Pray Time - Maghrib (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261021T104900Z
 DESCRIPTION:Pray Time - Maghrib for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -476,7 +176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261021-depok@salat-sync
 SUMMARY:Pray Time - Isha (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261021T115900Z
 DESCRIPTION:Pray Time - Isha for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -488,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20261022-depok@salat-sync
 SUMMARY:Pray Time - Fajr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261021T211300Z
 DESCRIPTION:Pray Time - Fajr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -500,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261022-depok@salat-sync
 SUMMARY:Pray Time - Dhuhr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261022T044100Z
 DESCRIPTION:Pray Time - Dhuhr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -512,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261022-depok@salat-sync
 SUMMARY:Pray Time - Asr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261022T075000Z
 DESCRIPTION:Pray Time - Asr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -524,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261022-depok@salat-sync
 SUMMARY:Pray Time - Maghrib (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261022T104900Z
 DESCRIPTION:Pray Time - Maghrib for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -536,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261022-depok@salat-sync
 SUMMARY:Pray Time - Isha (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261022T115900Z
 DESCRIPTION:Pray Time - Isha for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -548,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fajr-20261023-depok@salat-sync
 SUMMARY:Pray Time - Fajr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261022T211200Z
 DESCRIPTION:Pray Time - Fajr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -560,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dhuhr-20261023-depok@salat-sync
 SUMMARY:Pray Time - Dhuhr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261023T044100Z
 DESCRIPTION:Pray Time - Dhuhr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -572,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:asr-20261023-depok@salat-sync
 SUMMARY:Pray Time - Asr (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261023T075100Z
 DESCRIPTION:Pray Time - Asr for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -584,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:maghrib-20261023-depok@salat-sync
 SUMMARY:Pray Time - Maghrib (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261023T104900Z
 DESCRIPTION:Pray Time - Maghrib for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
@@ -596,8 +296,308 @@ END:VEVENT
 BEGIN:VEVENT
 UID:isha-20261023-depok@salat-sync
 SUMMARY:Pray Time - Isha (Depok)
-DTSTAMP:20261012T041527Z
+DTSTAMP:20261019T031117Z
 DTSTART:20261023T115900Z
+DESCRIPTION:Pray Time - Isha for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261026-depok@salat-sync
+SUMMARY:Pray Time - Fajr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261025T211100Z
+DESCRIPTION:Pray Time - Fajr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261026-depok@salat-sync
+SUMMARY:Pray Time - Dhuhr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261026T044000Z
+DESCRIPTION:Pray Time - Dhuhr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261026-depok@salat-sync
+SUMMARY:Pray Time - Asr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261026T075200Z
+DESCRIPTION:Pray Time - Asr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261026-depok@salat-sync
+SUMMARY:Pray Time - Maghrib (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261026T104900Z
+DESCRIPTION:Pray Time - Maghrib for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261026-depok@salat-sync
+SUMMARY:Pray Time - Isha (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261026T120000Z
+DESCRIPTION:Pray Time - Isha for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261027-depok@salat-sync
+SUMMARY:Pray Time - Fajr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261026T211100Z
+DESCRIPTION:Pray Time - Fajr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261027-depok@salat-sync
+SUMMARY:Pray Time - Dhuhr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261027T044000Z
+DESCRIPTION:Pray Time - Dhuhr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261027-depok@salat-sync
+SUMMARY:Pray Time - Asr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261027T075300Z
+DESCRIPTION:Pray Time - Asr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261027-depok@salat-sync
+SUMMARY:Pray Time - Maghrib (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261027T104900Z
+DESCRIPTION:Pray Time - Maghrib for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261027-depok@salat-sync
+SUMMARY:Pray Time - Isha (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261027T120000Z
+DESCRIPTION:Pray Time - Isha for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261028-depok@salat-sync
+SUMMARY:Pray Time - Fajr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261027T211000Z
+DESCRIPTION:Pray Time - Fajr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261028-depok@salat-sync
+SUMMARY:Pray Time - Dhuhr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261028T044000Z
+DESCRIPTION:Pray Time - Dhuhr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261028-depok@salat-sync
+SUMMARY:Pray Time - Asr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261028T075300Z
+DESCRIPTION:Pray Time - Asr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261028-depok@salat-sync
+SUMMARY:Pray Time - Maghrib (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261028T104900Z
+DESCRIPTION:Pray Time - Maghrib for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261028-depok@salat-sync
+SUMMARY:Pray Time - Isha (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261028T120000Z
+DESCRIPTION:Pray Time - Isha for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261029-depok@salat-sync
+SUMMARY:Pray Time - Fajr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261028T211000Z
+DESCRIPTION:Pray Time - Fajr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261029-depok@salat-sync
+SUMMARY:Pray Time - Dhuhr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261029T044000Z
+DESCRIPTION:Pray Time - Dhuhr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261029-depok@salat-sync
+SUMMARY:Pray Time - Asr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261029T075400Z
+DESCRIPTION:Pray Time - Asr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261029-depok@salat-sync
+SUMMARY:Pray Time - Maghrib (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261029T104900Z
+DESCRIPTION:Pray Time - Maghrib for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261029-depok@salat-sync
+SUMMARY:Pray Time - Isha (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261029T120000Z
+DESCRIPTION:Pray Time - Isha for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:fajr-20261030-depok@salat-sync
+SUMMARY:Pray Time - Fajr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261029T210900Z
+DESCRIPTION:Pray Time - Fajr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:dhuhr-20261030-depok@salat-sync
+SUMMARY:Pray Time - Dhuhr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261030T044000Z
+DESCRIPTION:Pray Time - Dhuhr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:asr-20261030-depok@salat-sync
+SUMMARY:Pray Time - Asr (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261030T075400Z
+DESCRIPTION:Pray Time - Asr for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:maghrib-20261030-depok@salat-sync
+SUMMARY:Pray Time - Maghrib (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261030T105000Z
+DESCRIPTION:Pray Time - Maghrib for Depok
+URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
+STATUS:CONFIRMED
+CATEGORIES:Prayer
+TRANSP:TRANSPARENT
+DURATION:PT30M
+END:VEVENT
+BEGIN:VEVENT
+UID:isha-20261030-depok@salat-sync
+SUMMARY:Pray Time - Isha (Depok)
+DTSTAMP:20261019T031117Z
+DTSTART:20261030T120100Z
 DESCRIPTION:Pray Time - Isha for Depok
 URL:https://salat-sync.adibfirman.dev?utm_source=calendar&utm_medium=ics
 STATUS:CONFIRMED
